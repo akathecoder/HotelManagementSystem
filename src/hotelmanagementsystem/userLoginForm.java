@@ -5,6 +5,8 @@
  */
 package hotelmanagementsystem;
 
+import java.awt.event.KeyEvent;
+
 /**
  *
  * @author SPARSH
@@ -27,79 +29,204 @@ public class userLoginForm extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jPanel1 = new javax.swing.JPanel();
-        loginLabel = new javax.swing.JLabel();
-        usernameLabel = new javax.swing.JLabel();
-        PasswordLabel = new javax.swing.JLabel();
-        usernameField = new javax.swing.JTextField();
-        passwordField = new javax.swing.JPasswordField();
-        jSeparator1 = new javax.swing.JSeparator();
-        jSeparator2 = new javax.swing.JSeparator();
-        loginBtn = new javax.swing.JButton();
+        jPanel2 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
+        jSeparator1 = new javax.swing.JSeparator();
+        usernameField = new javax.swing.JTextField();
+        jSeparator2 = new javax.swing.JSeparator();
+        jSeparator3 = new javax.swing.JSeparator();
+        passwordField = new javax.swing.JPasswordField();
+        signUpBtn = new javax.swing.JButton();
+        jLabel3 = new javax.swing.JLabel();
+        okBtn = new javax.swing.JButton();
+        jLabel2 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Hotel Management System");
+        setMaximumSize(new java.awt.Dimension(800, 450));
         setMinimumSize(new java.awt.Dimension(800, 450));
+        setPreferredSize(new java.awt.Dimension(800, 452));
         setResizable(false);
-        getContentPane().setLayout(null);
+        getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel1.setLayout(null);
+        jPanel2.setBackground(new java.awt.Color(153, 0, 255));
+        jPanel2.setMaximumSize(new java.awt.Dimension(300, 450));
+        jPanel2.setMinimumSize(new java.awt.Dimension(300, 450));
+        jPanel2.setPreferredSize(new java.awt.Dimension(300, 450));
+        jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        loginLabel.setFont(new java.awt.Font("Cambria", 1, 48)); // NOI18N
-        loginLabel.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        loginLabel.setText("LOGIN");
-        jPanel1.add(loginLabel);
-        loginLabel.setBounds(0, 0, 260, 90);
+        jLabel1.setFont(new java.awt.Font("Dubai", 0, 14)); // NOI18N
+        jLabel1.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel1.setText("Welcome to our Hotel. Please Sign In . . .");
+        jLabel1.setVerticalAlignment(javax.swing.SwingConstants.BOTTOM);
+        jPanel2.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 100, 250, -1));
 
-        usernameLabel.setFont(new java.awt.Font("Californian FB", 1, 24)); // NOI18N
-        usernameLabel.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        usernameLabel.setText("Username : ");
-        jPanel1.add(usernameLabel);
-        usernameLabel.setBounds(90, 130, 170, 90);
+        jSeparator1.setForeground(new java.awt.Color(255, 255, 255));
+        jPanel2.add(jSeparator1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 70, 225, 10));
 
-        PasswordLabel.setFont(new java.awt.Font("Californian FB", 1, 24)); // NOI18N
-        PasswordLabel.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        PasswordLabel.setText("Password : ");
-        jPanel1.add(PasswordLabel);
-        PasswordLabel.setBounds(90, 200, 170, 90);
-
-        usernameField.setBackground(jLabel1.getForeground());
-        usernameField.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        usernameField.setFont(new java.awt.Font("Dubai Light", 0, 18)); // NOI18N
+        usernameField.setForeground(new java.awt.Color(255, 255, 255));
+        usernameField.setText("Username");
         usernameField.setBorder(null);
         usernameField.setOpaque(false);
-        jPanel1.add(usernameField);
-        usernameField.setBounds(280, 160, 300, 28);
+        usernameField.addFocusListener(new java.awt.event.FocusAdapter() {
+            public void focusGained(java.awt.event.FocusEvent evt) {
+                usernameFieldFocusGained(evt);
+            }
+            public void focusLost(java.awt.event.FocusEvent evt) {
+                usernameFieldFocusLost(evt);
+            }
+        });
+        usernameField.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseEntered(java.awt.event.MouseEvent evt) {
+                usernameFieldMouseEntered(evt);
+            }
+            public void mouseExited(java.awt.event.MouseEvent evt) {
+                usernameFieldMouseExited(evt);
+            }
+        });
+        jPanel2.add(usernameField, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 180, 230, 30));
+        jPanel2.add(jSeparator2, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 210, 230, 30));
+        jPanel2.add(jSeparator3, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 270, 230, 30));
 
-        passwordField.setBackground(jLabel1.getForeground());
-        passwordField.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        passwordField.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        passwordField.setForeground(new java.awt.Color(255, 255, 255));
+        passwordField.setText("...............");
         passwordField.setBorder(null);
         passwordField.setOpaque(false);
-        jPanel1.add(passwordField);
-        passwordField.setBounds(280, 230, 300, 28);
-        jPanel1.add(jSeparator1);
-        jSeparator1.setBounds(280, 190, 350, 10);
-        jPanel1.add(jSeparator2);
-        jSeparator2.setBounds(280, 260, 350, 10);
+        passwordField.addFocusListener(new java.awt.event.FocusAdapter() {
+            public void focusGained(java.awt.event.FocusEvent evt) {
+                passwordFieldFocusGained(evt);
+            }
+        });
+        passwordField.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseEntered(java.awt.event.MouseEvent evt) {
+                passwordFieldMouseEntered(evt);
+            }
+            public void mouseExited(java.awt.event.MouseEvent evt) {
+                passwordFieldMouseExited(evt);
+            }
+        });
+        passwordField.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                passwordFieldKeyPressed(evt);
+            }
+        });
+        jPanel2.add(passwordField, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 240, 230, 30));
 
-        loginBtn.setBackground(new java.awt.Color(255, 0, 255));
-        loginBtn.setFont(new java.awt.Font("Calisto MT", 1, 30)); // NOI18N
-        loginBtn.setText("Login");
-        loginBtn.setBorder(null);
-        loginBtn.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
-        loginBtn.setOpaque(false);
-        jPanel1.add(loginBtn);
-        loginBtn.setBounds(270, 310, 100, 40);
+        signUpBtn.setBackground(jPanel2.getBackground());
+        signUpBtn.setFont(new java.awt.Font("Dubai", 0, 12)); // NOI18N
+        signUpBtn.setForeground(new java.awt.Color(255, 255, 255));
+        signUpBtn.setText("New to our Hotel. Please Sign Up . . .");
+        signUpBtn.setBorder(null);
+        signUpBtn.setBorderPainted(false);
+        signUpBtn.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        signUpBtn.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
+        signUpBtn.setOpaque(false);
+        signUpBtn.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                signUpBtnActionPerformed(evt);
+            }
+        });
+        jPanel2.add(signUpBtn, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 360, 230, 40));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Assets/Hotel - 1.jpg"))); // NOI18N
-        jPanel1.add(jLabel1);
-        jLabel1.setBounds(0, 0, 800, 450);
+        jLabel3.setFont(new java.awt.Font("Dubai", 0, 36)); // NOI18N
+        jLabel3.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel3.setText("LOGIN");
+        jLabel3.setVerticalAlignment(javax.swing.SwingConstants.BOTTOM);
+        jPanel2.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 20, 188, -1));
 
-        getContentPane().add(jPanel1);
-        jPanel1.setBounds(0, 0, 800, 450);
+        okBtn.setBackground(jPanel2.getBackground());
+        okBtn.setFont(new java.awt.Font("Dubai", 0, 36)); // NOI18N
+        okBtn.setForeground(new java.awt.Color(255, 255, 255));
+        okBtn.setText("OK");
+        okBtn.setBorder(null);
+        okBtn.setBorderPainted(false);
+        okBtn.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        okBtn.setOpaque(false);
+        okBtn.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                okBtnActionPerformed(evt);
+            }
+        });
+        jPanel2.add(okBtn, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 310, 100, 40));
+
+        getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 0, -1, -1));
+
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Assets/Hotel - 1.jpg"))); // NOI18N
+        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 496, 450));
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
+
+    private void usernameFieldFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_usernameFieldFocusGained
+        // TODO add your handling code here:
+//        usernameField.setText("");
+        
+    }//GEN-LAST:event_usernameFieldFocusGained
+
+    private void usernameFieldFocusLost(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_usernameFieldFocusLost
+        // TODO add your handling code here:
+//        usernameField.setText("Username");
+    }//GEN-LAST:event_usernameFieldFocusLost
+
+    private void usernameFieldMouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_usernameFieldMouseEntered
+        // TODO add your handling code here:
+        if(usernameField.getText().equals("Username")){
+            usernameField.setText("");
+        }
+    }//GEN-LAST:event_usernameFieldMouseEntered
+
+    private void usernameFieldMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_usernameFieldMouseExited
+        // TODO add your handling code here:
+        if(usernameField.getText().equals("")){
+            usernameField.setText("Username");
+        }
+    }//GEN-LAST:event_usernameFieldMouseExited
+
+    private void passwordFieldMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_passwordFieldMouseExited
+        // TODO add your handling code here:
+        if(passwordField.getText().equals("")){
+            passwordField.setText("...............");
+        }
+    }//GEN-LAST:event_passwordFieldMouseExited
+
+    private void passwordFieldMouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_passwordFieldMouseEntered
+        // TODO add your handling code here:
+        if(passwordField.getText().equals("...............")){
+            passwordField.setText("");
+        }
+    }//GEN-LAST:event_passwordFieldMouseEntered
+
+    private void passwordFieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_passwordFieldKeyPressed
+        // TODO add your handling code here:
+//        if(evt.getKeyCode() == KeyEvent.VK_ENTER){
+//            
+//        }
+    }//GEN-LAST:event_passwordFieldKeyPressed
+
+    private void okBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_okBtnActionPerformed
+        // TODO add your handling code here:
+        // Go to Next Form.
+        // Booking Form if Not Staying else Checkout Page.
+        // Booking Form made by Priya.
+        // Checkout Page Made by Raghav.
+    }//GEN-LAST:event_okBtnActionPerformed
+
+    private void passwordFieldFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_passwordFieldFocusGained
+        // TODO add your handling code here:
+        if(passwordField.getText().equals("...............")){
+            passwordField.setText("");
+        }
+    }//GEN-LAST:event_passwordFieldFocusGained
+
+    private void signUpBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_signUpBtnActionPerformed
+        // TODO add your handling code here:
+        // Go to User Sign Up Form.
+        // Made By Vineet.
+    }//GEN-LAST:event_signUpBtnActionPerformed
 
     /**
      * @param args the command line arguments
@@ -112,7 +239,7 @@ public class userLoginForm extends javax.swing.JFrame {
          */
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
+                if ("FlatLaf Light".equals(info.getName())) {
                     javax.swing.UIManager.setLookAndFeel(info.getClassName());
                     break;
                 }
@@ -137,15 +264,16 @@ public class userLoginForm extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JLabel PasswordLabel;
     private javax.swing.JLabel jLabel1;
-    private javax.swing.JPanel jPanel1;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JPanel jPanel2;
     private javax.swing.JSeparator jSeparator1;
     private javax.swing.JSeparator jSeparator2;
-    private javax.swing.JButton loginBtn;
-    private javax.swing.JLabel loginLabel;
+    private javax.swing.JSeparator jSeparator3;
+    private javax.swing.JButton okBtn;
     private javax.swing.JPasswordField passwordField;
+    private javax.swing.JButton signUpBtn;
     private javax.swing.JTextField usernameField;
-    private javax.swing.JLabel usernameLabel;
     // End of variables declaration//GEN-END:variables
 }
