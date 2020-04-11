@@ -19,6 +19,11 @@ In which the
 
 #### User Database
 ![Image of User Database Colums](https://github.com/sparshagarwal25/HotelManagementSystem/blob/master/Database%20Setup/User%20Database.png)
+One more Column will be added to the user Database , i.e., ROOM
+  Name - ROOM
+  Type - Varchar
+  Size - 40
+  Null - Allowed
 
 #### Admin Database
 ![Image of User Database Colums](https://github.com/sparshagarwal25/HotelManagementSystem/blob/master/Database%20Setup/Admin%20Database.png)
