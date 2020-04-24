@@ -25,7 +25,7 @@ public class DBConnect {
     public static void main(String[] args) {
         
         new DBConnect().DBCon();
-        new userLoginForm().setVisible(true);
+        new Bookingpage().setVisible(true);
         
     }
     
