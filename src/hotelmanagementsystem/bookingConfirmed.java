@@ -138,7 +138,7 @@ public class bookingConfirmed extends javax.swing.JFrame {
         jTextField1.setText("Check Out Date");
         jTextField1.setBorder(null);
         jTextField1.setPreferredSize(new java.awt.Dimension(90, 23));
-        getContentPane().add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 100, 110, 20));
+        getContentPane().add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 100, 110, 20));
 
         jTextField2.setEditable(false);
         jTextField2.setBackground(new java.awt.Color(178, 199, 132));
@@ -146,7 +146,7 @@ public class bookingConfirmed extends javax.swing.JFrame {
         jTextField2.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         jTextField2.setText("Number of Guests");
         jTextField2.setBorder(null);
-        getContentPane().add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 130, 110, 20));
+        getContentPane().add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 130, 110, 20));
 
         jTextField3.setEditable(false);
         jTextField3.setBackground(new java.awt.Color(178, 199, 132));
@@ -154,22 +154,22 @@ public class bookingConfirmed extends javax.swing.JFrame {
         jTextField3.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         jTextField3.setText("Check In Date");
         jTextField3.setBorder(null);
-        getContentPane().add(jTextField3, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 70, 110, 20));
+        getContentPane().add(jTextField3, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 70, 110, 20));
 
         jLabel3.setFont(new java.awt.Font("Dubai", 2, 12)); // NOI18N
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setText("<DATE>");
-        getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(620, 100, 50, -1));
+        getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(640, 100, 50, -1));
 
         jLabel4.setFont(new java.awt.Font("Dubai", 2, 12)); // NOI18N
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel4.setText("<No>");
-        getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(620, 130, 50, -1));
+        getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(640, 130, 50, -1));
 
         jLabel5.setFont(new java.awt.Font("Dubai", 2, 12)); // NOI18N
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel5.setText("<DATE>");
-        getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(620, 70, 50, -1));
+        getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(640, 70, 50, -1));
 
         jButton1.setBackground(new java.awt.Color(178, 199, 132));
         jButton1.setFont(new java.awt.Font("Dubai", 1, 14)); // NOI18N
