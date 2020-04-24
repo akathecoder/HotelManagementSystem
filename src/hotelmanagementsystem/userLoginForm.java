@@ -85,6 +85,11 @@ public class userLoginForm extends javax.swing.JFrame {
                 usernameFieldMouseExited(evt);
             }
         });
+        usernameField.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                usernameFieldActionPerformed(evt);
+            }
+        });
         jPanel2.add(usernameField, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 180, 230, 30));
         jPanel2.add(jSeparator2, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 210, 230, 30));
         jPanel2.add(jSeparator3, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 270, 230, 30));
@@ -227,6 +232,10 @@ public class userLoginForm extends javax.swing.JFrame {
         // Go to User Sign Up Form.
         // Made By Vineet.
     }//GEN-LAST:event_signUpBtnActionPerformed
+
+    private void usernameFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_usernameFieldActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_usernameFieldActionPerformed
 
     /**
      * @param args the command line arguments
