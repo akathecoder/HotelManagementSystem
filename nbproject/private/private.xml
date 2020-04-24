@@ -7,8 +7,13 @@
             <file>file:/C:/Users/SPARSH/Documents/NetBeansProjects/HotelManagementSystem/src/hotelmanagementsystem/userLoginForm.java</file>
             <file>file:/C:/Users/SPARSH/Documents/NetBeansProjects/HotelManagementSystem/src/hotelmanagementsystem/NewJFrame.java</file>
             <file>file:/C:/Users/SPARSH/Documents/NetBeansProjects/HotelManagementSystem/src/hotelmanagementsystem/DBConnect.java</file>
+<<<<<<< HEAD
             <file>file:/C:/Users/SPARSH/Documents/NetBeansProjects/HotelManagementSystem/src/hotelmanagementsystem/welcomeScreen.java</file>
             <file>file:/C:/Users/SPARSH/Documents/NetBeansProjects/HotelManagementSystem/src/hotelmanagementsystem/checkoutPage.java</file>
+=======
+            <file>file:/C:/Users/SPARSH/Documents/NetBeansProjects/HotelManagementSystem/src/hotelmanagementsystem/checkoutBillGenerated.java</file>
+            <file>file:/C:/Users/SPARSH/Documents/NetBeansProjects/HotelManagementSystem/src/hotelmanagementsystem/adminCheckIn.java</file>
+>>>>>>> master
         </group>
     </open-files>
 </project-private>
