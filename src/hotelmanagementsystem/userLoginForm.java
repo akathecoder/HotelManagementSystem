@@ -8,6 +8,13 @@
 package hotelmanagementsystem;
 
 import java.awt.event.KeyEvent;
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.PreparedStatement;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import java.sql.ResultSet;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -18,8 +25,14 @@ public class userLoginForm extends javax.swing.JFrame {
     /**
      * Creates new form userLoginForm
      */
+    
+    Connection con;
+    PreparedStatement stmt;
+    
     public userLoginForm() {
         initComponents();
+        con = new DBConnect().DBCon();
+        
     }
 
     /**
@@ -211,10 +224,40 @@ public class userLoginForm extends javax.swing.JFrame {
 
     private void okBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_okBtnActionPerformed
         // TODO add your handling code here:
-        // Go to Next Form.
-        // Booking Form if Not Staying else Checkout Page.
-        // Booking Form made by Priya.
-        // Checkout Page Made by Raghav.
+        
+        String username = usernameField.getText();
+        String password = passwordField.getText();
+        
+        String SQl = "SELECT PASSWORD FROM USER01.USERDB WHERE USERID = ?";
+        try {
+            stmt = con.prepareStatement(SQl);
+            stmt.setString(1, username);
+            ResultSet rs = stmt.executeQuery();
+            rs.next();
+            if(rs.getString("PASSWORD").equals(password)){
+                JOptionPane.showMessageDialog(this, "Password Accepted");
+                dispose();
+                new DBConnect().setCurrentUser(username);
+                DBConnect.initialization();
+            }
+            else{
+                JOptionPane.showMessageDialog(this, "Incorrect Password");
+                usernameField.setText("Username");
+                passwordField.setText("...............");
+                
+            }
+            // Go to Next Form.
+            // Booking Form if Not Staying else Checkout Page.
+            // Booking Form made by Priya.
+            // Checkout Page Made by Raghav.
+        } catch (SQLException ex) {
+            System.out.println(ex.getMessage());
+            if(ex.getMessage().equals("Invalid operation at current cursor position.")){
+                JOptionPane.showMessageDialog(this, "Incorrect Username");
+                usernameField.setText("Username");
+                passwordField.setText("...............");
+            }
+        }
     }//GEN-LAST:event_okBtnActionPerformed
 
     private void passwordFieldFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_passwordFieldFocusGained
