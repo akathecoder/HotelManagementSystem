@@ -6,6 +6,8 @@ import java.sql.SQLException;
 
 public class DBConnect {
     
+    private static String currentUser = "";
+    
     public Connection DBCon(){
             
         try {
@@ -25,8 +27,33 @@ public class DBConnect {
     public static void main(String[] args) {
         
         new DBConnect().DBCon();
-        new signupForm().setVisible(true);
-        
+//        new checkoutPage().setVisible(true);
+        initialization();
     }
+    
+    public static void initialization(){
+        String user = new DBConnect().getCurrentUser();
+        System.out.println(user);
+        if(user.equals("")){
+            new welcomeScreen().setVisible(true);
+            System.out.println("1");
+        }
+        else{
+            new welcomeScreen2().setVisible(true);
+            System.out.println("2");
+        }        
+
+    }
+
+    public String getCurrentUser() {
+        return currentUser;
+    }
+
+    public void setCurrentUser(String currentUser) {
+        this.currentUser = currentUser;
+        System.out.println("0");
+    }
+    
+    
     
 }
