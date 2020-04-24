@@ -27,7 +27,6 @@ public class DBConnect {
     public static void main(String[] args) {
         
         new DBConnect().DBCon();
-<<<<<<< HEAD
 //        new checkoutPage().setVisible(true);
         initialization();
     }
@@ -42,11 +41,8 @@ public class DBConnect {
         else{
             new welcomeScreen2().setVisible(true);
             System.out.println("2");
-        }
-=======
-        new signupForm().setVisible(true);
-        
->>>>>>> master
+        }        
+
     }
 
     public String getCurrentUser() {
