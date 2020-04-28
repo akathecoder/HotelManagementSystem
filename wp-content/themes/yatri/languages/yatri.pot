@@ -1,0 +1,3357 @@
+# Copyright (C) 2020
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: mantrabrain@gmail.com\n"
+"POT-Creation-Date: 2020-04-23 16:57:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Mantrabrain <mantrabrain@gmail.com>\n"
+"Language-Team: Mantrabrain <mantrabrain@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: core/customizer/sections/footer/widgets.php:47
+msgid "1"
+msgstr ""
+
+#: core/customizer/sections/footer/widgets.php:48
+msgid "2"
+msgstr ""
+
+#: core/customizer/sections/footer/widgets.php:49
+msgid "3"
+msgstr ""
+
+#: core/customizer/sections/footer/widgets.php:50
+msgid "4"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1129
+msgid "100"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1130
+msgid "200"
+msgstr ""
+
+#: comments.php:55
+msgid "Reply"
+msgstr ""
+
+#: comments.php:61
+msgid "Previous"
+msgstr ""
+
+#: comments.php:62 core/yatri-template-functions.php:476
+msgid "Next"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: core/class-yatri-core.php:161
+msgid "Primary Menu"
+msgstr ""
+
+#: core/class-yatri-core.php:162
+msgid "Top Header Menu"
+msgstr ""
+
+#: core/class-yatri-core.php:163
+msgid "Footer Menu"
+msgstr ""
+
+#: core/class-yatri-core.php:164 core/hooks/class-yatri-section-hooks.php:37
+msgid "Offcanvas Menu"
+msgstr ""
+
+#: core/class-yatri-core.php:221
+msgid "Tan"
+msgstr ""
+
+#: core/class-yatri-core.php:226
+msgid "Yellow"
+msgstr ""
+
+#: core/class-yatri-core.php:231
+msgid "Orange"
+msgstr ""
+
+#: core/class-yatri-core.php:236
+msgid "Red"
+msgstr ""
+
+#: core/class-yatri-core.php:241
+msgid "Pink"
+msgstr ""
+
+#: core/class-yatri-core.php:246
+msgid "Purple"
+msgstr ""
+
+#: core/class-yatri-core.php:251
+msgid "Blue"
+msgstr ""
+
+#: core/class-yatri-core.php:256
+msgid "Green"
+msgstr ""
+
+#: core/class-yatri-core.php:261
+msgid "Brown"
+msgstr ""
+
+#: core/class-yatri-core.php:266
+msgid "Grey"
+msgstr ""
+
+#: core/class-yatri-core.php:271
+msgid "Black"
+msgstr ""
+
+#: core/class-yatri-core.php:280
+msgid "small"
+msgstr ""
+
+#: core/class-yatri-core.php:281
+msgid "S"
+msgstr ""
+
+#: core/class-yatri-core.php:286
+msgid "regular"
+msgstr ""
+
+#: core/class-yatri-core.php:287
+msgid "M"
+msgstr ""
+
+#: core/class-yatri-core.php:292
+msgid "larger"
+msgstr ""
+
+#: core/class-yatri-core.php:293
+msgid "L"
+msgstr ""
+
+#: core/class-yatri-core.php:298
+msgid "huge"
+msgstr ""
+
+#: core/class-yatri-core.php:299
+msgid "XL"
+msgstr ""
+
+#: core/class-yatri-customizer.php:88
+msgid "Get More Features in Yatri Premium"
+msgstr ""
+
+#: core/class-yatri-sections.php:271 core/class-yatri-sections.php:282
+#: core/customizer/core.php:228 core/customizer/core.php:335
+#: core/customizer/core.php:443
+msgid "Search"
+msgstr ""
+
+#: core/class-yatri-sections.php:279
+msgid "Search for:"
+msgstr ""
+
+#: core/class-yatri-widgets.php:17
+#: core/metabox/class-yatri-post-metabox.php:130
+msgid "Left Sidebar"
+msgstr ""
+
+#: core/class-yatri-widgets.php:19 core/class-yatri-widgets.php:29
+#: core/class-yatri-widgets.php:40
+msgid "Add widgets here to appear in this sidebar."
+msgstr ""
+
+#: core/class-yatri-widgets.php:27
+#: core/metabox/class-yatri-post-metabox.php:125
+msgid "Right Sidebar"
+msgstr ""
+
+#: core/class-yatri-widgets.php:38
+msgid "Off Canvas Menu Sidebar"
+msgstr ""
+
+#: core/class-yatri-widgets.php:51
+msgid "Footer "
+msgstr ""
+
+#: core/class-yatri-widgets.php:53
+msgid "Add widgets here."
+msgstr ""
+
+#: core/compatibility/class-yatri-woocommerce.php:61
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: core/compatibility/class-yatri-woocommerce.php:63
+msgid ""
+"This sidebar will be used on Product archive, Cart, Checkout and My Account "
+"pages."
+msgstr ""
+
+#: core/compatibility/class-yatri-woocommerce.php:75
+msgid "Product Sidebar"
+msgstr ""
+
+#: core/compatibility/class-yatri-woocommerce.php:77
+msgid "This sidebar will be used on Single Product page."
+msgstr ""
+
+#: core/compatibility/woocommerce/breadcrumb/breadcrumb.php:16
+#: core/customizer/sections/base/breadcrumb.php:25
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: core/compatibility/woocommerce/breadcrumb/breadcrumb.php:17
+msgid "Show Breadcrumb on WooCommerce pages"
+msgstr ""
+
+#: core/compatibility/woocommerce/breadcrumb/breadcrumb.php:34
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: core/compatibility/woocommerce/breadcrumb/breadcrumb.php:39
+msgid "Yatri Theme Default"
+msgstr ""
+
+#: core/compatibility/woocommerce/breadcrumb/breadcrumb.php:40
+msgid "WooCommerce Default"
+msgstr ""
+
+#: core/compatibility/woocommerce/class-yatri-woocommerce-customizer.php:59
+#: core/customizer/sections/base/breadcrumb.php:5
+msgid "Breadcrumb"
+msgstr ""
+
+#: core/compatibility/woocommerce/class-yatri-woocommerce-hooks.php:110
+msgid "Breadcrumbs"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:9
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:9
+#: core/customizer/config/class-yatri-section-button-config.php:9
+#: core/customizer/config/class-yatri-section-content-config.php:9
+#: core/customizer/config/class-yatri-section-copyright-config.php:9
+#: core/customizer/config/class-yatri-section-custom-html-config.php:9
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:9
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:9
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:9
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:9
+#: core/customizer/config/class-yatri-section-office-info-config.php:9
+#: core/customizer/config/class-yatri-section-pagination-config.php:9
+#: core/customizer/config/class-yatri-section-post-config.php:9
+#: core/customizer/config/class-yatri-section-readmore-config.php:9
+#: core/customizer/config/class-yatri-section-sidebar-config.php:9
+#: core/customizer/config/class-yatri-section-social-icons-config.php:9
+#: core/customizer/config/class-yatri-section-wrapper-config.php:9
+#: core/customizer/config/customizer-modal-config.php:29
+#: core/customizer/config/customizer-modal-config.php:185
+#: core/customizer/config/customizer-modal-config.php:283
+#: core/customizer/config/customizer-modal-config.php:381
+msgid "Colors"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:10
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:10
+#: core/customizer/config/class-yatri-section-button-config.php:10
+#: core/customizer/config/class-yatri-section-content-config.php:10
+#: core/customizer/config/class-yatri-section-copyright-config.php:10
+#: core/customizer/config/class-yatri-section-custom-html-config.php:10
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:10
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:10
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:10
+#: core/customizer/config/class-yatri-section-header-config.php:9
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:10
+#: core/customizer/config/class-yatri-section-office-info-config.php:10
+#: core/customizer/config/class-yatri-section-pagination-config.php:10
+#: core/customizer/config/class-yatri-section-post-config.php:10
+#: core/customizer/config/class-yatri-section-readmore-config.php:10
+#: core/customizer/config/class-yatri-section-sidebar-config.php:10
+#: core/customizer/config/class-yatri-section-social-icons-config.php:10
+#: core/customizer/config/class-yatri-section-wrapper-config.php:10
+#: core/customizer/config/customizer-modal-config.php:30
+#: core/customizer/config/customizer-modal-config.php:186
+#: core/customizer/config/customizer-modal-config.php:284
+#: core/customizer/config/customizer-modal-config.php:382
+msgid "Spacing"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:16
+msgid "Title Text Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:25
+msgid "Title Text Hover Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:34
+msgid "Tagline Text Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:46
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:91
+#: core/customizer/config/class-yatri-section-button-config.php:55
+#: core/customizer/config/class-yatri-section-copyright-config.php:59
+#: core/customizer/config/class-yatri-section-custom-html-config.php:59
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:76
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:56
+#: core/customizer/config/class-yatri-section-readmore-config.php:55
+#: core/customizer/config/class-yatri-section-search-form-config.php:11
+#: core/customizer/config/class-yatri-section-social-icons-config.php:70
+msgid "Alignment"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:61
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:100
+#: core/customizer/config/class-yatri-section-button-config.php:70
+#: core/customizer/config/class-yatri-section-copyright-config.php:74
+#: core/customizer/config/class-yatri-section-custom-html-config.php:74
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:93
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:91
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:71
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:30
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:144
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:181
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:242
+#: core/customizer/config/class-yatri-section-office-info-config.php:94
+#: core/customizer/config/class-yatri-section-office-info-config.php:130
+#: core/customizer/config/class-yatri-section-readmore-config.php:64
+#: core/customizer/config/class-yatri-section-search-form-config.php:26
+#: core/customizer/config/class-yatri-section-sidebar-config.php:154
+#: core/customizer/config/class-yatri-section-social-icons-config.php:85
+#: core/customizer/sections/header/bottom/offcanvas.php:41
+#: core/customizer/sections/header/mid/offcanvas.php:41
+#: core/customizer/sections/header/top/offcanvas.php:41
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:56
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:122
+#: mantrabrain-theme/customizer/controls/modal/fields/margin.php:53
+#: mantrabrain-theme/customizer/controls/modal/fields/padding.php:54
+msgid "Left"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:65
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:104
+#: core/customizer/config/class-yatri-section-button-config.php:74
+#: core/customizer/config/class-yatri-section-copyright-config.php:78
+#: core/customizer/config/class-yatri-section-custom-html-config.php:78
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:97
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:95
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:75
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:34
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:148
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:185
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:246
+#: core/customizer/config/class-yatri-section-office-info-config.php:98
+#: core/customizer/config/class-yatri-section-office-info-config.php:134
+#: core/customizer/config/class-yatri-section-readmore-config.php:68
+#: core/customizer/config/class-yatri-section-search-form-config.php:30
+#: core/customizer/config/class-yatri-section-sidebar-config.php:158
+#: core/customizer/config/class-yatri-section-social-icons-config.php:89
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1267
+msgid "Center"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:69
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:108
+#: core/customizer/config/class-yatri-section-button-config.php:78
+#: core/customizer/config/class-yatri-section-copyright-config.php:82
+#: core/customizer/config/class-yatri-section-custom-html-config.php:82
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:101
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:99
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:79
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:38
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:152
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:189
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:250
+#: core/customizer/config/class-yatri-section-office-info-config.php:102
+#: core/customizer/config/class-yatri-section-office-info-config.php:138
+#: core/customizer/config/class-yatri-section-readmore-config.php:72
+#: core/customizer/config/class-yatri-section-search-form-config.php:34
+#: core/customizer/config/class-yatri-section-sidebar-config.php:162
+#: core/customizer/config/class-yatri-section-social-icons-config.php:93
+#: core/customizer/sections/header/bottom/offcanvas.php:42
+#: core/customizer/sections/header/mid/offcanvas.php:42
+#: core/customizer/sections/header/top/offcanvas.php:42
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:45
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:111
+#: mantrabrain-theme/customizer/controls/modal/fields/margin.php:41
+#: mantrabrain-theme/customizer/controls/modal/fields/padding.php:41
+msgid "Right"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:81
+msgid "Logo Width"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:95
+msgid "Logo Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:104
+msgid "Title Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-branding-config.php:113
+msgid "Tagline Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:17
+#: core/customizer/config/class-yatri-section-header-config.php:16
+#: core/customizer/config/class-yatri-section-wrapper-config.php:17
+msgid "Section Background Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:26
+#: core/customizer/config/class-yatri-section-header-config.php:26
+#: core/customizer/config/class-yatri-section-wrapper-config.php:26
+msgid "Section Background Image"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:34
+msgid "Section Overlay Background"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:44
+#: core/customizer/config/class-yatri-section-header-config.php:44
+#: core/customizer/config/class-yatri-section-wrapper-config.php:35
+msgid "Container Background Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:53
+#: core/customizer/config/class-yatri-section-button-config.php:16
+#: core/customizer/config/class-yatri-section-copyright-config.php:25
+#: core/customizer/config/class-yatri-section-custom-html-config.php:25
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:16
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:130
+#: core/customizer/config/class-yatri-section-office-info-config.php:16
+#: core/customizer/config/class-yatri-section-pagination-config.php:16
+#: core/customizer/config/class-yatri-section-readmore-config.php:16
+#: core/customizer/config/class-yatri-section-sidebar-config.php:75
+#: core/customizer/config/customizer-modal-config.php:290
+#: core/customizer/config/customizer-modal-config.php:407
+msgid "Text Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:62
+#: core/customizer/config/class-yatri-section-copyright-config.php:37
+#: core/customizer/config/class-yatri-section-custom-html-config.php:37
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:28
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:145
+#: core/customizer/config/class-yatri-section-office-info-config.php:26
+#: core/customizer/config/class-yatri-section-sidebar-config.php:90
+msgid "Link Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:71
+#: core/customizer/config/class-yatri-section-copyright-config.php:47
+#: core/customizer/config/class-yatri-section-custom-html-config.php:47
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:37
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:154
+#: core/customizer/config/class-yatri-section-office-info-config.php:35
+#: core/customizer/config/class-yatri-section-sidebar-config.php:99
+msgid "Link Hover Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:80
+msgid "Separator Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:121
+#: core/customizer/config/class-yatri-section-header-config.php:58
+#: core/customizer/config/class-yatri-section-wrapper-config.php:49
+msgid "Section Padding"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:189
+#: core/customizer/config/class-yatri-section-header-config.php:200
+#: core/customizer/config/class-yatri-section-wrapper-config.php:124
+#: core/customizer/config/customizer-modal-config.php:95
+#: core/customizer/config/customizer-modal-config.php:236
+msgid "Container Padding"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-breadcrumb-config.php:257
+#: core/customizer/config/class-yatri-section-header-config.php:268
+#: core/customizer/config/class-yatri-section-wrapper-config.php:193
+msgid "Section Border"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-button-config.php:25
+#: core/customizer/config/class-yatri-section-pagination-config.php:30
+#: core/customizer/config/class-yatri-section-readmore-config.php:25
+#: core/customizer/config/customizer-modal-config.php:299
+msgid "Hover Text Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-button-config.php:34
+#: core/customizer/config/class-yatri-section-content-config.php:17
+#: core/customizer/config/class-yatri-section-copyright-config.php:16
+#: core/customizer/config/class-yatri-section-custom-html-config.php:16
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:35
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:99
+#: core/customizer/config/class-yatri-section-pagination-config.php:45
+#: core/customizer/config/class-yatri-section-post-config.php:17
+#: core/customizer/config/class-yatri-section-readmore-config.php:34
+#: core/customizer/config/class-yatri-section-sidebar-config.php:44
+#: core/customizer/config/class-yatri-section-social-icons-config.php:35
+#: core/customizer/config/customizer-modal-config.php:192
+#: core/customizer/config/customizer-modal-config.php:308
+#: core/customizer/config/customizer-modal-config.php:397
+msgid "Background Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-button-config.php:43
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:44
+#: core/customizer/config/class-yatri-section-pagination-config.php:57
+#: core/customizer/config/class-yatri-section-readmore-config.php:43
+#: core/customizer/config/class-yatri-section-social-icons-config.php:44
+#: core/customizer/config/customizer-modal-config.php:317
+msgid "Hover Background Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-button-config.php:90
+#: core/customizer/config/class-yatri-section-content-config.php:40
+#: core/customizer/config/class-yatri-section-copyright-config.php:94
+#: core/customizer/config/class-yatri-section-custom-html-config.php:94
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:118
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:91
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:187
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:440
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:206
+#: core/customizer/config/class-yatri-section-pagination-config.php:76
+#: core/customizer/config/class-yatri-section-post-config.php:40
+#: core/customizer/config/class-yatri-section-readmore-config.php:85
+#: core/customizer/config/class-yatri-section-sidebar-config.php:118
+#: core/customizer/config/class-yatri-section-social-icons-config.php:105
+#: core/customizer/config/customizer-modal-config.php:331
+#: core/customizer/config/customizer-modal-config.php:422
+msgid "Padding"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-button-config.php:120
+#: core/customizer/config/class-yatri-section-content-config.php:71
+#: core/customizer/config/class-yatri-section-copyright-config.php:124
+#: core/customizer/config/class-yatri-section-custom-html-config.php:124
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:252
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:203
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:150
+#: core/customizer/config/class-yatri-section-office-info-config.php:242
+#: core/customizer/config/class-yatri-section-pagination-config.php:110
+#: core/customizer/config/class-yatri-section-post-config.php:105
+#: core/customizer/config/class-yatri-section-readmore-config.php:115
+#: core/customizer/config/class-yatri-section-social-icons-config.php:164
+#: core/customizer/config/customizer-modal-config.php:360
+#: core/customizer/config/customizer-modal-config.php:452
+msgid "Border"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-content-config.php:26
+#: core/customizer/config/class-yatri-section-post-config.php:26
+#: core/customizer/config/customizer-modal-config.php:212
+msgid "Background Image"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:18
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:54
+msgid "Font color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:27
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:64
+msgid "Hover font color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:37
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:78
+msgid "Background color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:46
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:88
+msgid "Hover background color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:56
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:100
+msgid "Active font color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:65
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:110
+msgid "Active background color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:78
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:17
+msgid "Menu Alignment"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:111
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:180
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:433
+msgid "Padding & Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-nav-menu-config.php:186
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:120
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:258
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:511
+#: core/customizer/config/class-yatri-section-post-config.php:71
+#: core/customizer/config/class-yatri-section-social-icons-config.php:134
+msgid "Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:46
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:16
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:21
+#: core/customizer/config/class-yatri-section-office-info-config.php:44
+#: core/customizer/config/class-yatri-section-search-form-config.php:56
+#: core/customizer/config/class-yatri-section-social-icons-config.php:16
+msgid "Icon Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:55
+#: core/customizer/config/class-yatri-section-office-info-config.php:53
+msgid "List Background Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:64
+#: core/customizer/config/class-yatri-section-office-info-config.php:62
+msgid "List Hover Background Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:111
+#: core/customizer/config/class-yatri-section-office-info-config.php:150
+msgid "Icon Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:146
+#: core/customizer/config/class-yatri-section-office-info-config.php:185
+msgid "List Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-office-info-config.php:176
+#: core/customizer/config/class-yatri-section-office-info-config.php:215
+msgid "List Padding"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-footer-social-icons-config.php:26
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:32
+#: core/customizer/config/class-yatri-section-social-icons-config.php:26
+msgid "Icon Hover Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-header-config.php:8
+msgid "Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-header-config.php:34
+msgid "Section Background Overlay"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-header-config.php:126
+#: core/customizer/config/class-yatri-section-wrapper-config.php:84
+msgid "Section Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-header-config.php:288
+msgid "Container Border"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:9
+msgid "Main Menu"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:10
+msgid "Dropdown"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:49
+msgid "Menu Colors"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:121
+#: core/customizer/config/class-yatri-section-office-info-config.php:71
+#: core/customizer/config/class-yatri-section-social-icons-config.php:53
+msgid "Mobile/Tablet Menu"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:126
+#: core/customizer/config/class-yatri-section-office-info-config.php:76
+#: core/customizer/config/class-yatri-section-social-icons-config.php:58
+msgid "Hamburger Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:135
+#: core/customizer/config/class-yatri-section-office-info-config.php:85
+msgid "Hamburger Alignment"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:162
+msgid "Mobile Menu Container Background"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:171
+msgid "Mobile Menu Close Icon Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:327
+msgid "Main Menu Border"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:354
+msgid "Dropdown Menu Colors"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:359
+msgid "Dropdown font color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:371
+msgid "Dropdown hover font color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:385
+msgid "Dropdown background color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:396
+msgid "Dropdown hover background color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:410
+msgid "Dropdown active font color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:421
+msgid "Dropdown active background color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:582
+msgid "Wrapper Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-nav-menu-config.php:594
+msgid "Dropdown Menu Border"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:16
+msgid "Icons"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:41
+msgid "Close Icon Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:52
+msgid "Close Icon Hover Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:62
+msgid "Close Icon Inside Background Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:71
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:199
+#: core/customizer/config/class-yatri-section-sidebar-config.php:16
+#: core/customizer/config/class-yatri-section-sidebar-config.php:111
+#: core/customizer/sections/sidebars-options.php:8
+#: core/info/about/class-yatri-about.php:466 core/yatri-functions.php:624
+msgid "Sidebar"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:76
+#: core/customizer/config/class-yatri-section-sidebar-config.php:21
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:85
+#: core/customizer/config/class-yatri-section-sidebar-config.php:30
+msgid "Sidebar Background Image"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:94
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:260
+#: core/customizer/config/class-yatri-section-sidebar-config.php:39
+#: core/customizer/config/class-yatri-section-sidebar-config.php:172
+msgid "Widgets"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:108
+#: core/customizer/config/class-yatri-section-sidebar-config.php:53
+msgid "Title Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:119
+#: core/customizer/config/class-yatri-section-sidebar-config.php:64
+msgid "Title Background Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:166
+msgid "Icon Alignment"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:233
+#: core/customizer/config/class-yatri-section-office-info-config.php:115
+#: core/customizer/config/class-yatri-section-sidebar-config.php:145
+msgid "Content Alignment"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:267
+#: core/customizer/config/class-yatri-section-sidebar-config.php:179
+msgid "Widgets Padding"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:296
+#: core/customizer/config/class-yatri-section-sidebar-config.php:208
+msgid "Widgets Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:327
+#: core/customizer/config/class-yatri-section-sidebar-config.php:239
+msgid "Widget Title Padding"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:358
+#: core/customizer/config/class-yatri-section-sidebar-config.php:270
+msgid "Widget Title Margin"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:389
+#: core/customizer/config/class-yatri-section-sidebar-config.php:301
+msgid "Sidebar Border"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:408
+#: core/customizer/config/class-yatri-section-sidebar-config.php:321
+msgid "Widgets Border"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-offcanvas-config.php:427
+#: core/customizer/config/class-yatri-section-sidebar-config.php:340
+msgid "Widget Title Border"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-search-form-config.php:44
+msgid "Font Color"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-typo-config.php:12
+msgid "Font Family"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-typo-config.php:26
+msgid "Font Weight"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-typo-config.php:36
+msgid "Font Languages"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-typo-config.php:45
+msgid "Font Size"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-typo-config.php:62
+msgid "Line Height"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-typo-config.php:79
+msgid "Letter Spacing"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-typo-config.php:96
+msgid "Font Style"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-typo-config.php:108
+msgid "Text Decoration"
+msgstr ""
+
+#: core/customizer/config/class-yatri-section-typo-config.php:120
+msgid "Text Trasform"
+msgstr ""
+
+#: core/customizer/config/customizer-modal-config.php:36
+msgid "Inside Background Color"
+msgstr ""
+
+#: core/customizer/config/customizer-modal-config.php:55
+msgid "Inside Background Image"
+msgstr ""
+
+#: core/customizer/config/customizer-modal-config.php:73
+msgid "Outside Background Color"
+msgstr ""
+
+#: core/customizer/config/customizer-modal-config.php:82
+msgid "Outside Background Image"
+msgstr ""
+
+#: core/customizer/config/customizer-modal-config.php:128
+msgid "Layout Margin"
+msgstr ""
+
+#: core/customizer/config/customizer-modal-config.php:161
+msgid "Layout Border"
+msgstr ""
+
+#: core/customizer/config/customizer-modal-config.php:388
+msgid "Label Color"
+msgstr ""
+
+#: core/customizer/core.php:157 core/customizer/core.php:264
+#: core/customizer/core.php:372 core/customizer/core.php:633
+msgid "Facebook"
+msgstr ""
+
+#: core/customizer/core.php:163 core/customizer/core.php:270
+#: core/customizer/core.php:378 core/customizer/core.php:639
+msgid "Twitter"
+msgstr ""
+
+#: core/customizer/core.php:169 core/customizer/core.php:276
+#: core/customizer/core.php:384 core/customizer/core.php:645
+msgid "Google"
+msgstr ""
+
+#: core/customizer/core.php:234 core/customizer/core.php:341
+#: core/customizer/core.php:449 core/customizer/core.php:657
+msgid "Contact"
+msgstr ""
+
+#: core/customizer/core.php:237 core/customizer/core.php:344
+#: core/customizer/core.php:452 core/customizer/core.php:605
+msgid "Office address"
+msgstr ""
+
+#: core/customizer/core.php:242 core/customizer/core.php:349
+#: core/customizer/core.php:457 core/customizer/core.php:610
+msgid "info@domain.com"
+msgstr ""
+
+#: core/customizer/core.php:247 core/customizer/core.php:354
+#: core/customizer/core.php:462 core/customizer/core.php:664
+msgid "Your content goes here..."
+msgstr ""
+
+#: core/customizer/core.php:536 template-parts/parts/post-readmore-button.php:3
+msgid "Learn More"
+msgstr ""
+
+#: core/customizer/core.php:559
+#: core/customizer/sections/single-post/related-posts.php:4
+#: core/yatri-functions.php:358
+msgid "Related Posts"
+msgstr ""
+
+#: core/customizer/core.php:671
+msgid "Copyright %1$s 2020 %2$s | Powered by %3$s Yatri WordPress Theme %4$s"
+msgstr ""
+
+#: core/customizer/panels/theme-panel.php:5
+msgid "Theme Options"
+msgstr ""
+
+#: core/customizer/sections/base/breadcrumb.php:46
+msgid "Show on home page"
+msgstr ""
+
+#: core/customizer/sections/base/breadcrumb.php:65
+msgid "Home text"
+msgstr ""
+
+#: core/customizer/sections/base/breadcrumb.php:87
+msgid "Home Icon"
+msgstr ""
+
+#: core/customizer/sections/base/breadcrumb.php:106
+msgid "Separator Text"
+msgstr ""
+
+#: core/customizer/sections/base/breadcrumb.php:128
+msgid "Separator gap ( in px ) "
+msgstr ""
+
+#: core/customizer/sections/base/breadcrumb.php:156
+#: core/customizer/sections/base/forms-and-buttons.php:49
+#: core/customizer/sections/base/forms-and-buttons.php:96
+#: core/customizer/sections/base/layouts.php:96
+#: core/customizer/sections/base/layouts.php:122
+#: core/customizer/sections/blog-archive/pagination/main.php:39
+#: core/customizer/sections/blog-archive/readmore/main.php:59
+#: core/customizer/sections/footer/bottom/button.php:131
+#: core/customizer/sections/footer/bottom/copyright.php:74
+#: core/customizer/sections/footer/bottom/custom-html.php:73
+#: core/customizer/sections/footer/bottom/navigation-menu.php:61
+#: core/customizer/sections/footer/bottom/office-information.php:84
+#: core/customizer/sections/footer/bottom/social-icons.php:86
+#: core/customizer/sections/header/bottom/branding.php:93
+#: core/customizer/sections/header/bottom/button.php:127
+#: core/customizer/sections/header/bottom/custom-html.php:73
+#: core/customizer/sections/header/bottom/navigation-menu.php:61
+#: core/customizer/sections/header/bottom/offcanvas.php:148
+#: core/customizer/sections/header/bottom/office-information.php:84
+#: core/customizer/sections/header/bottom/search-form.php:108
+#: core/customizer/sections/header/bottom/social-icons.php:86
+#: core/customizer/sections/header/bottom.php:84
+#: core/customizer/sections/header/mid/branding.php:93
+#: core/customizer/sections/header/mid/button.php:128
+#: core/customizer/sections/header/mid/custom-html.php:73
+#: core/customizer/sections/header/mid/navigation-menu.php:61
+#: core/customizer/sections/header/mid/offcanvas.php:148
+#: core/customizer/sections/header/mid/office-information.php:84
+#: core/customizer/sections/header/mid/search-form.php:108
+#: core/customizer/sections/header/mid/social-icons.php:86
+#: core/customizer/sections/header/mid.php:83
+#: core/customizer/sections/header/top/branding.php:93
+#: core/customizer/sections/header/top/button.php:131
+#: core/customizer/sections/header/top/custom-html.php:74
+#: core/customizer/sections/header/top/navigation-menu.php:61
+#: core/customizer/sections/header/top/offcanvas.php:148
+#: core/customizer/sections/header/top/office-information.php:84
+#: core/customizer/sections/header/top/search-form.php:108
+#: core/customizer/sections/header/top/social-icons.php:87
+#: core/customizer/sections/header/top.php:85
+msgid "Design & Styling"
+msgstr ""
+
+#: core/customizer/sections/base/forms-and-buttons.php:5
+msgid "Forms & Buttons"
+msgstr ""
+
+#: core/customizer/sections/base/forms-and-buttons.php:27
+#: core/hooks/class-yatri-section-hooks.php:34
+msgid "Button"
+msgstr ""
+
+#: core/customizer/sections/base/forms-and-buttons.php:73
+msgid "Form & Inputs"
+msgstr ""
+
+#: core/customizer/sections/base/layouts.php:4
+#: core/customizer/sections/blog-archive/layouts.php:4
+#: core/customizer/sections/single-post/layouts.php:4
+msgid "Layouts"
+msgstr ""
+
+#: core/customizer/sections/base/layouts.php:26
+msgid "Layout styles"
+msgstr ""
+
+#: core/customizer/sections/base/layouts.php:69
+msgid "Container Width"
+msgstr ""
+
+#: core/customizer/sections/base/typography.php:5
+msgid "Typography"
+msgstr ""
+
+#: core/customizer/sections/base/typography.php:27
+msgid "Body Typography"
+msgstr ""
+
+#: core/customizer/sections/base/typography.php:51
+msgid "H1 Typography"
+msgstr ""
+
+#: core/customizer/sections/base/typography.php:76
+msgid "H2 Typography"
+msgstr ""
+
+#: core/customizer/sections/base/typography.php:101
+msgid "H3 Typography"
+msgstr ""
+
+#: core/customizer/sections/base/typography.php:125
+msgid "H4 Typography"
+msgstr ""
+
+#: core/customizer/sections/base/typography.php:149
+msgid "H5 Typography"
+msgstr ""
+
+#: core/customizer/sections/base/typography.php:173
+msgid "H6 Typography"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/content/main.php:17
+#: core/customizer/sections/single-post/content/main.php:17
+msgid "Content Options"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/content/main.php:42
+msgid "Design & Styling ( Wrapper )"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/content/main.php:61
+msgid "Archive title position"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/content/main.php:78
+msgid "Content Layout"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/content/main.php:96
+msgid "Archive Heading tag"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/content/main.php:116
+#: core/customizer/sections/single-post/content/main.php:71
+msgid "Content  Ordering"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/content/main.php:141
+#: core/customizer/sections/single-post/content/main.php:93
+msgid "Design & Styling ( Post/Article )"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/content.php:4
+#: core/customizer/sections/single-post/content.php:4
+msgid "Content & Metas"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/excerpt.php:4
+#: core/yatri-functions.php:262
+msgid "Excerpt"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/layouts/main.php:15
+#: core/customizer/sections/single-page/page.php:78
+#: core/customizer/sections/single-post/layouts/main.php:15
+msgid "Layout Style"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/layouts/main.php:37
+#: core/customizer/sections/single-page/page.php:101
+#: core/customizer/sections/single-post/layouts/main.php:38
+msgid "Sidebar Width (%)"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/layouts/main.php:65
+#: core/customizer/sections/footer/bottom.php:82
+#: core/customizer/sections/footer/widgets.php:73
+#: core/customizer/sections/single-page/page.php:19
+#: core/customizer/sections/single-post/layouts/main.php:66
+msgid "Design & Styling ( Section )"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/pagination/main.php:14
+msgid "Pagination Style"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/pagination.php:4
+msgid "Pagination"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/readmore/main.php:13
+msgid "Read More text"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/readmore/main.php:34
+msgid "Readmore Text Icon"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/readmore.php:4
+msgid "Read More"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/excerpt.php:11
+msgid "Excerpt type"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/excerpt.php:27
+msgid "Excerpt length"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/excerpt.php:43
+msgid "Excerpt more"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/post_meta.php:18
+msgid "Meta Options"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/post_meta.php:37
+msgid "Meta Separator Text"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/post_meta.php:60
+msgid "Meta Separator Width ( in px ) "
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/post_meta.php:82
+msgid "Meta Style"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/post_meta.php:105
+msgid "Meta  Ordering"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/thumbnail.php:18
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: core/customizer/sections/blog-archive/section/thumbnail.php:38
+msgid "Thumbnail Size"
+msgstr ""
+
+#: core/customizer/sections/blog-archive-page-options.php:8
+#: core/info/about/class-yatri-about.php:451
+msgid "Blog/Archive"
+msgstr ""
+
+#: core/customizer/sections/colors.php:14
+msgid "Primary Color"
+msgstr ""
+
+#: core/customizer/sections/colors.php:33
+msgid "Secondary Color"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:18
+#: core/customizer/sections/header/bottom/button.php:18
+#: core/customizer/sections/header/mid/button.php:18
+#: core/customizer/sections/header/top/button.php:18
+msgid "Button Settings"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:41
+#: core/customizer/sections/header/bottom/button.php:40
+#: core/customizer/sections/header/mid/button.php:41
+#: core/customizer/sections/header/top/button.php:41
+msgid "Button icon"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:61
+#: core/customizer/sections/header/bottom/button.php:59
+#: core/customizer/sections/header/mid/button.php:60
+#: core/customizer/sections/header/top/button.php:61
+msgid "Button link"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:85
+#: core/customizer/sections/header/bottom/button.php:82
+#: core/customizer/sections/header/mid/button.php:83
+#: core/customizer/sections/header/top/button.php:85
+msgid "Button link target"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:89
+#: core/customizer/sections/header/bottom/button.php:86
+#: core/customizer/sections/header/mid/button.php:87
+#: core/customizer/sections/header/top/button.php:89
+msgid "Open in same tab"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:90
+#: core/customizer/sections/footer/bottom/social-icons.php:54
+#: core/customizer/sections/header/bottom/button.php:87
+#: core/customizer/sections/header/bottom/social-icons.php:54
+#: core/customizer/sections/header/mid/button.php:88
+#: core/customizer/sections/header/mid/social-icons.php:54
+#: core/customizer/sections/header/top/button.php:90
+#: core/customizer/sections/header/top/social-icons.php:54
+msgid "Open in new tab"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:109
+#: core/customizer/sections/header/bottom/button.php:105
+#: core/customizer/sections/header/mid/button.php:106
+#: core/customizer/sections/header/top/button.php:109
+msgid "Button text"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:154
+#: core/customizer/sections/header/bottom/button.php:150
+#: core/customizer/sections/header/mid/button.php:151
+#: core/customizer/sections/header/top/button.php:154
+msgid "Button Visibility"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:159
+#: core/customizer/sections/footer/bottom/copyright.php:103
+#: core/customizer/sections/footer/bottom/custom-html.php:102
+#: core/customizer/sections/footer/bottom/navigation-menu.php:89
+#: core/customizer/sections/footer/bottom/office-information.php:112
+#: core/customizer/sections/footer/bottom/social-icons.php:114
+#: core/customizer/sections/footer/bottom.php:52
+#: core/customizer/sections/header/bottom/branding.php:121
+#: core/customizer/sections/header/bottom/button.php:155
+#: core/customizer/sections/header/bottom/custom-html.php:102
+#: core/customizer/sections/header/bottom/navigation-menu.php:89
+#: core/customizer/sections/header/bottom/offcanvas.php:175
+#: core/customizer/sections/header/bottom/office-information.php:112
+#: core/customizer/sections/header/bottom/search-form.php:137
+#: core/customizer/sections/header/bottom/social-icons.php:114
+#: core/customizer/sections/header/bottom.php:38
+#: core/customizer/sections/header/mid/branding.php:121
+#: core/customizer/sections/header/mid/button.php:156
+#: core/customizer/sections/header/mid/custom-html.php:102
+#: core/customizer/sections/header/mid/navigation-menu.php:89
+#: core/customizer/sections/header/mid/offcanvas.php:175
+#: core/customizer/sections/header/mid/office-information.php:112
+#: core/customizer/sections/header/mid/search-form.php:137
+#: core/customizer/sections/header/mid/social-icons.php:114
+#: core/customizer/sections/header/mid.php:52
+#: core/customizer/sections/header/top/branding.php:121
+#: core/customizer/sections/header/top/button.php:159
+#: core/customizer/sections/header/top/custom-html.php:103
+#: core/customizer/sections/header/top/navigation-menu.php:89
+#: core/customizer/sections/header/top/offcanvas.php:175
+#: core/customizer/sections/header/top/office-information.php:112
+#: core/customizer/sections/header/top/search-form.php:137
+#: core/customizer/sections/header/top/social-icons.php:115
+#: core/customizer/sections/header/top.php:53
+msgid "Hide on Desktop"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:160
+#: core/customizer/sections/footer/bottom/copyright.php:104
+#: core/customizer/sections/footer/bottom/custom-html.php:103
+#: core/customizer/sections/footer/bottom/navigation-menu.php:90
+#: core/customizer/sections/footer/bottom/office-information.php:113
+#: core/customizer/sections/footer/bottom/social-icons.php:115
+#: core/customizer/sections/footer/bottom.php:53
+#: core/customizer/sections/header/bottom/branding.php:122
+#: core/customizer/sections/header/bottom/button.php:156
+#: core/customizer/sections/header/bottom/custom-html.php:103
+#: core/customizer/sections/header/bottom/navigation-menu.php:90
+#: core/customizer/sections/header/bottom/offcanvas.php:176
+#: core/customizer/sections/header/bottom/office-information.php:113
+#: core/customizer/sections/header/bottom/search-form.php:138
+#: core/customizer/sections/header/bottom/social-icons.php:115
+#: core/customizer/sections/header/bottom.php:39
+#: core/customizer/sections/header/mid/branding.php:122
+#: core/customizer/sections/header/mid/button.php:157
+#: core/customizer/sections/header/mid/custom-html.php:103
+#: core/customizer/sections/header/mid/navigation-menu.php:90
+#: core/customizer/sections/header/mid/offcanvas.php:176
+#: core/customizer/sections/header/mid/office-information.php:113
+#: core/customizer/sections/header/mid/search-form.php:138
+#: core/customizer/sections/header/mid/social-icons.php:115
+#: core/customizer/sections/header/mid.php:53
+#: core/customizer/sections/header/top/branding.php:122
+#: core/customizer/sections/header/top/button.php:160
+#: core/customizer/sections/header/top/custom-html.php:104
+#: core/customizer/sections/header/top/navigation-menu.php:90
+#: core/customizer/sections/header/top/offcanvas.php:176
+#: core/customizer/sections/header/top/office-information.php:113
+#: core/customizer/sections/header/top/search-form.php:138
+#: core/customizer/sections/header/top/social-icons.php:116
+#: core/customizer/sections/header/top.php:54
+msgid "Hide on Tablet"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:161
+#: core/customizer/sections/footer/bottom/copyright.php:105
+#: core/customizer/sections/footer/bottom/custom-html.php:104
+#: core/customizer/sections/footer/bottom/navigation-menu.php:91
+#: core/customizer/sections/footer/bottom/office-information.php:114
+#: core/customizer/sections/footer/bottom/social-icons.php:116
+#: core/customizer/sections/footer/bottom.php:54
+#: core/customizer/sections/header/bottom/branding.php:123
+#: core/customizer/sections/header/bottom/button.php:157
+#: core/customizer/sections/header/bottom/custom-html.php:104
+#: core/customizer/sections/header/bottom/navigation-menu.php:91
+#: core/customizer/sections/header/bottom/offcanvas.php:177
+#: core/customizer/sections/header/bottom/office-information.php:114
+#: core/customizer/sections/header/bottom/search-form.php:139
+#: core/customizer/sections/header/bottom/social-icons.php:116
+#: core/customizer/sections/header/bottom.php:40
+#: core/customizer/sections/header/mid/branding.php:123
+#: core/customizer/sections/header/mid/button.php:158
+#: core/customizer/sections/header/mid/custom-html.php:104
+#: core/customizer/sections/header/mid/navigation-menu.php:91
+#: core/customizer/sections/header/mid/offcanvas.php:177
+#: core/customizer/sections/header/mid/office-information.php:114
+#: core/customizer/sections/header/mid/search-form.php:139
+#: core/customizer/sections/header/mid/social-icons.php:116
+#: core/customizer/sections/header/mid.php:54
+#: core/customizer/sections/header/top/branding.php:123
+#: core/customizer/sections/header/top/button.php:161
+#: core/customizer/sections/header/top/custom-html.php:105
+#: core/customizer/sections/header/top/navigation-menu.php:91
+#: core/customizer/sections/header/top/offcanvas.php:177
+#: core/customizer/sections/header/top/office-information.php:114
+#: core/customizer/sections/header/top/search-form.php:139
+#: core/customizer/sections/header/top/social-icons.php:117
+#: core/customizer/sections/header/top.php:55
+msgid "Hide on Mobile"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:164
+#: core/customizer/sections/footer/bottom/copyright.php:108
+#: core/customizer/sections/footer/bottom/custom-html.php:107
+#: core/customizer/sections/footer/bottom/navigation-menu.php:94
+#: core/customizer/sections/footer/bottom/office-information.php:117
+#: core/customizer/sections/footer/bottom/social-icons.php:119
+#: core/customizer/sections/footer/bottom.php:57
+#: core/customizer/sections/header/bottom/branding.php:126
+#: core/customizer/sections/header/bottom/button.php:160
+#: core/customizer/sections/header/bottom/custom-html.php:107
+#: core/customizer/sections/header/bottom/navigation-menu.php:94
+#: core/customizer/sections/header/bottom/offcanvas.php:180
+#: core/customizer/sections/header/bottom/office-information.php:117
+#: core/customizer/sections/header/bottom/search-form.php:142
+#: core/customizer/sections/header/bottom/social-icons.php:119
+#: core/customizer/sections/header/bottom.php:43
+#: core/customizer/sections/header/mid/branding.php:126
+#: core/customizer/sections/header/mid/button.php:161
+#: core/customizer/sections/header/mid/custom-html.php:107
+#: core/customizer/sections/header/mid/navigation-menu.php:94
+#: core/customizer/sections/header/mid/offcanvas.php:180
+#: core/customizer/sections/header/mid/office-information.php:117
+#: core/customizer/sections/header/mid/search-form.php:142
+#: core/customizer/sections/header/mid/social-icons.php:119
+#: core/customizer/sections/header/mid.php:57
+#: core/customizer/sections/header/top/branding.php:126
+#: core/customizer/sections/header/top/button.php:164
+#: core/customizer/sections/header/top/custom-html.php:108
+#: core/customizer/sections/header/top/navigation-menu.php:94
+#: core/customizer/sections/header/top/offcanvas.php:180
+#: core/customizer/sections/header/top/office-information.php:117
+#: core/customizer/sections/header/top/search-form.php:142
+#: core/customizer/sections/header/top/social-icons.php:120
+#: core/customizer/sections/header/top.php:58
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-sortable.php:66
+msgid "Show"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/button.php:165
+#: core/customizer/sections/footer/bottom/copyright.php:109
+#: core/customizer/sections/footer/bottom/custom-html.php:108
+#: core/customizer/sections/footer/bottom/navigation-menu.php:95
+#: core/customizer/sections/footer/bottom/office-information.php:118
+#: core/customizer/sections/footer/bottom/social-icons.php:120
+#: core/customizer/sections/footer/bottom.php:58
+#: core/customizer/sections/header/bottom/branding.php:127
+#: core/customizer/sections/header/bottom/button.php:161
+#: core/customizer/sections/header/bottom/custom-html.php:108
+#: core/customizer/sections/header/bottom/navigation-menu.php:95
+#: core/customizer/sections/header/bottom/offcanvas.php:181
+#: core/customizer/sections/header/bottom/office-information.php:118
+#: core/customizer/sections/header/bottom/search-form.php:143
+#: core/customizer/sections/header/bottom/social-icons.php:120
+#: core/customizer/sections/header/bottom.php:44
+#: core/customizer/sections/header/mid/branding.php:127
+#: core/customizer/sections/header/mid/button.php:162
+#: core/customizer/sections/header/mid/custom-html.php:108
+#: core/customizer/sections/header/mid/navigation-menu.php:95
+#: core/customizer/sections/header/mid/offcanvas.php:181
+#: core/customizer/sections/header/mid/office-information.php:118
+#: core/customizer/sections/header/mid/search-form.php:143
+#: core/customizer/sections/header/mid/social-icons.php:120
+#: core/customizer/sections/header/mid.php:58
+#: core/customizer/sections/header/top/branding.php:127
+#: core/customizer/sections/header/top/button.php:165
+#: core/customizer/sections/header/top/custom-html.php:109
+#: core/customizer/sections/header/top/navigation-menu.php:95
+#: core/customizer/sections/header/top/offcanvas.php:181
+#: core/customizer/sections/header/top/office-information.php:118
+#: core/customizer/sections/header/top/search-form.php:143
+#: core/customizer/sections/header/top/social-icons.php:121
+#: core/customizer/sections/header/top.php:59
+msgid "Hide"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/copyright.php:18
+msgid "Copyright Settings"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/copyright.php:46
+#: core/customizer/sections/footer/bottom/custom-html.php:45
+#: core/customizer/sections/header/bottom/custom-html.php:45
+#: core/customizer/sections/header/mid/custom-html.php:45
+#: core/customizer/sections/header/top/custom-html.php:46
+msgid "Text/HTML Content"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/copyright.php:98
+msgid "Copyright Visibility"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/custom-html.php:18
+#: core/customizer/sections/header/bottom/custom-html.php:18
+#: core/customizer/sections/header/mid/custom-html.php:18
+#: core/customizer/sections/header/top/custom-html.php:18
+msgid "Custom HTML Settings"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/custom-html.php:97
+#: core/customizer/sections/header/bottom/custom-html.php:97
+#: core/customizer/sections/header/mid/custom-html.php:97
+#: core/customizer/sections/header/top/custom-html.php:98
+msgid "Custom HTML Visibility"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/navigation-menu.php:17
+#: core/customizer/sections/header/bottom/navigation-menu.php:17
+#: core/customizer/sections/header/mid/navigation-menu.php:17
+#: core/customizer/sections/header/top/navigation-menu.php:17
+msgid "Navigation Menu Settings"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/navigation-menu.php:35
+#: core/customizer/sections/header/bottom/navigation-menu.php:35
+msgid "Navigation menu for main header"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/navigation-menu.php:84
+#: core/customizer/sections/header/bottom/navigation-menu.php:84
+#: core/customizer/sections/header/mid/navigation-menu.php:84
+#: core/customizer/sections/header/top/navigation-menu.php:84
+msgid "Navigation Menu Visibility"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/office-information.php:18
+#: core/customizer/sections/header/bottom/office-information.php:18
+#: core/customizer/sections/header/mid/office-information.php:18
+#: core/customizer/sections/header/top/office-information.php:18
+msgid "Office Info Settings"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/office-information.php:41
+#: core/customizer/sections/header/bottom/office-information.php:41
+#: core/customizer/sections/header/mid/office-information.php:41
+#: core/customizer/sections/header/top/office-information.php:41
+msgid "Office Information"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/office-information.php:42
+#: core/customizer/sections/header/bottom/office-information.php:42
+#: core/customizer/sections/header/mid/office-information.php:42
+#: core/customizer/sections/header/top/office-information.php:42
+msgid "Drag & Drop for reordering"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/office-information.php:49
+#: core/customizer/sections/header/bottom/office-information.php:49
+#: core/customizer/sections/header/mid/office-information.php:49
+#: core/customizer/sections/header/top/office-information.php:49
+msgid "Title"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/office-information.php:54
+#: core/customizer/sections/footer/bottom/social-icons.php:58
+#: core/customizer/sections/header/bottom/office-information.php:54
+#: core/customizer/sections/header/bottom/social-icons.php:58
+#: core/customizer/sections/header/mid/office-information.php:54
+#: core/customizer/sections/header/mid/social-icons.php:58
+#: core/customizer/sections/header/top/office-information.php:54
+#: core/customizer/sections/header/top/social-icons.php:58
+msgid "Icon"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/office-information.php:58
+#: core/customizer/sections/header/bottom/office-information.php:58
+#: core/customizer/sections/header/mid/office-information.php:58
+#: core/customizer/sections/header/top/office-information.php:58
+msgid "Link"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/office-information.php:107
+#: core/customizer/sections/header/bottom/office-information.php:107
+#: core/customizer/sections/header/mid/office-information.php:107
+#: core/customizer/sections/header/top/office-information.php:107
+msgid "Office Info Visibility"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/social-icons.php:18
+#: core/customizer/sections/footer/bottom/social-icons.php:41
+#: core/customizer/sections/header/bottom/social-icons.php:18
+#: core/customizer/sections/header/bottom/social-icons.php:41
+#: core/customizer/sections/header/mid/social-icons.php:18
+#: core/customizer/sections/header/mid/social-icons.php:41
+#: core/customizer/sections/header/top/social-icons.php:18
+#: core/customizer/sections/header/top/social-icons.php:41
+#: core/hooks/class-yatri-section-hooks.php:40
+msgid "Social Icons"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/social-icons.php:42
+#: core/customizer/sections/header/bottom/social-icons.php:42
+#: core/customizer/sections/header/mid/social-icons.php:42
+#: core/customizer/sections/header/top/social-icons.php:42
+msgid "Drag & Drop for reordering social icons"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/social-icons.php:49
+#: core/customizer/sections/header/bottom/social-icons.php:49
+#: core/customizer/sections/header/mid/social-icons.php:49
+#: core/customizer/sections/header/top/social-icons.php:49
+msgid "Icon Link"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/social-icons.php:62
+#: core/customizer/sections/header/bottom/social-icons.php:62
+#: core/customizer/sections/header/mid/social-icons.php:62
+#: core/customizer/sections/header/top/social-icons.php:62
+msgid "Icon Title"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom/social-icons.php:109
+#: core/customizer/sections/header/bottom/social-icons.php:109
+#: core/customizer/sections/header/mid/social-icons.php:109
+#: core/customizer/sections/header/top/social-icons.php:110
+msgid "Social Icons Visibility"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom.php:5
+msgid "Footer Bottom"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom.php:25
+msgid "Show Footer Bottom"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom.php:47
+msgid "Footer bottom visibility"
+msgstr ""
+
+#: core/customizer/sections/footer/bottom.php:106
+msgid "Bottom Footer Sections"
+msgstr ""
+
+#: core/customizer/sections/footer/widgets.php:5
+msgid "Footer Widgets"
+msgstr ""
+
+#: core/customizer/sections/footer/widgets.php:24
+msgid "Show Footer Widgets"
+msgstr ""
+
+#: core/customizer/sections/footer/widgets.php:42
+msgid "Footer Columns"
+msgstr ""
+
+#: core/customizer/sections/footer/widgets.php:100
+msgid "Design & Styling ( Widget Area )"
+msgstr ""
+
+#: core/customizer/sections/footer-options.php:6
+#: core/info/about/class-yatri-about.php:471
+msgid "Footer"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/branding.php:18
+#: core/customizer/sections/header/mid/branding.php:18
+#: core/customizer/sections/header/top/branding.php:18
+msgid "Branding Settings"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/branding.php:40
+#: core/customizer/sections/header/mid/branding.php:40
+#: core/customizer/sections/header/top/branding.php:40
+msgid "Site Identitiy"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/branding.php:44
+#: core/customizer/sections/header/mid/branding.php:44
+#: core/customizer/sections/header/top/branding.php:44
+msgid "Logo Only"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/branding.php:45
+#: core/customizer/sections/header/mid/branding.php:45
+#: core/customizer/sections/header/top/branding.php:45
+msgid "Title + Tagline"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/branding.php:46
+#: core/customizer/sections/header/mid/branding.php:46
+#: core/customizer/sections/header/top/branding.php:46
+msgid "Logo + Title + Tagline"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/branding.php:67
+#: core/customizer/sections/header/mid/branding.php:67
+#: core/customizer/sections/header/top/branding.php:67
+msgid "Branding Layout"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/branding.php:116
+#: core/customizer/sections/header/mid/branding.php:116
+#: core/customizer/sections/header/top/branding.php:116
+msgid "Branding Visibility"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/offcanvas.php:18
+#: core/customizer/sections/header/mid/offcanvas.php:18
+#: core/customizer/sections/header/top/offcanvas.php:18
+msgid "Offcanvas Settings"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/offcanvas.php:36
+#: core/customizer/sections/header/mid/offcanvas.php:36
+#: core/customizer/sections/header/top/offcanvas.php:36
+msgid "Offcanvas menu open from"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/offcanvas.php:58
+#: core/customizer/sections/header/mid/offcanvas.php:58
+#: core/customizer/sections/header/top/offcanvas.php:58
+msgid "Offcanvas Menu Type"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/offcanvas.php:77
+#: core/customizer/sections/header/mid/offcanvas.php:77
+#: core/customizer/sections/header/top/offcanvas.php:77
+msgid "Sidebar for Offcanvas"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/offcanvas.php:97
+#: core/customizer/sections/header/mid/offcanvas.php:97
+#: core/customizer/sections/header/top/offcanvas.php:97
+msgid "Navigation menu for Offcanvas"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/offcanvas.php:119
+#: core/customizer/sections/header/mid/offcanvas.php:119
+#: core/customizer/sections/header/top/offcanvas.php:119
+msgid "Offcanvas Width"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/offcanvas.php:170
+#: core/customizer/sections/header/mid/offcanvas.php:170
+#: core/customizer/sections/header/top/offcanvas.php:170
+msgid "Offcanvas Visibility"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/search-form.php:18
+#: core/customizer/sections/header/mid/search-form.php:18
+#: core/customizer/sections/header/top/search-form.php:18
+msgid "Search Form Settings"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/search-form.php:40
+#: core/customizer/sections/header/mid/search-form.php:40
+#: core/customizer/sections/header/top/search-form.php:40
+msgid "Search button icon"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/search-form.php:59
+#: core/customizer/sections/header/mid/search-form.php:59
+#: core/customizer/sections/header/top/search-form.php:59
+msgid "Placeholder Text"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/search-form.php:79
+#: core/customizer/sections/header/mid/search-form.php:79
+#: core/customizer/sections/header/top/search-form.php:79
+msgid "Search form style"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/search-form.php:83
+#: core/customizer/sections/header/mid/search-form.php:83
+#: core/customizer/sections/header/top/search-form.php:83
+#: core/yatri-functions.php:551
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1256
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1266
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1280
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1290
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1299
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1314
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1326
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1338
+msgid "Default"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/search-form.php:84
+#: core/customizer/sections/header/mid/search-form.php:84
+#: core/customizer/sections/header/top/search-form.php:84
+msgid "Show searchbox only"
+msgstr ""
+
+#: core/customizer/sections/header/bottom/search-form.php:132
+#: core/customizer/sections/header/mid/search-form.php:132
+#: core/customizer/sections/header/top/search-form.php:132
+msgid "Search Form Visibility"
+msgstr ""
+
+#: core/customizer/sections/header/bottom.php:5
+#: core/info/about/class-yatri-about.php:446
+msgid "Main Header"
+msgstr ""
+
+#: core/customizer/sections/header/bottom.php:33
+msgid "Main header visibility"
+msgstr ""
+
+#: core/customizer/sections/header/bottom.php:57
+msgid "Show Main Header"
+msgstr ""
+
+#: core/customizer/sections/header/bottom.php:107
+msgid "Main Header Sections"
+msgstr ""
+
+#: core/customizer/sections/header/bottom.php:129
+msgid ""
+"Please click %1$s here %2$s and choose %3$s MAIN %4$s header for logo to "
+"show site branding on this section."
+msgstr ""
+
+#: core/customizer/sections/header/logo.php:4
+msgid "Logo / Site Branding"
+msgstr ""
+
+#: core/customizer/sections/header/logo.php:25
+msgid "Choose Header For Logo"
+msgstr ""
+
+#: core/customizer/sections/header/logo.php:48
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:40
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:105
+#: mantrabrain-theme/customizer/controls/modal/fields/margin.php:35
+#: mantrabrain-theme/customizer/controls/modal/fields/padding.php:35
+msgid "Top"
+msgstr ""
+
+#: core/customizer/sections/header/logo.php:49
+msgid "Mid"
+msgstr ""
+
+#: core/customizer/sections/header/logo.php:50
+msgid "Main"
+msgstr ""
+
+#: core/customizer/sections/header/logo.php:69
+#: core/customizer/sections/header/logo.php:93
+#: core/customizer/sections/header/logo.php:116
+msgid "Click %1$s here %2$s for configuration & designing."
+msgstr ""
+
+#: core/customizer/sections/header/mid/navigation-menu.php:35
+msgid "Navigation menu for mid header"
+msgstr ""
+
+#: core/customizer/sections/header/mid.php:5
+#: core/info/about/class-yatri-about.php:441
+msgid "Mid Header"
+msgstr ""
+
+#: core/customizer/sections/header/mid.php:24
+msgid "Show Mid Header"
+msgstr ""
+
+#: core/customizer/sections/header/mid.php:47
+msgid "Mid header visibility"
+msgstr ""
+
+#: core/customizer/sections/header/mid.php:106
+msgid "Mid Header Sections"
+msgstr ""
+
+#: core/customizer/sections/header/mid.php:128
+msgid ""
+"Please click %1$s here %2$s and choose %3$s MID %4$s header for logo to "
+"show site branding on this section."
+msgstr ""
+
+#: core/customizer/sections/header/template.php:5
+msgid "Header Templates"
+msgstr ""
+
+#: core/customizer/sections/header/template.php:24
+msgid "Save Template"
+msgstr ""
+
+#: core/customizer/sections/header/top/navigation-menu.php:35
+msgid "Navigation menu for top header"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:5
+#: core/info/about/class-yatri-about.php:436
+msgid "Top Header"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:25
+msgid "Show Top Header"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:48
+msgid "Top header visibility"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:108
+msgid "Top Header Sections"
+msgstr ""
+
+#: core/customizer/sections/header/top.php:130
+msgid ""
+"Please click %1$s here %2$s and choose %3$s TOP %4$s header for logo to "
+"show site branding on this section."
+msgstr ""
+
+#: core/customizer/sections/header-options.php:10
+msgid "Header"
+msgstr ""
+
+#: core/customizer/sections/sidebar/main.php:17
+msgid "Left Sidebar Options"
+msgstr ""
+
+#: core/customizer/sections/sidebar/main.php:40
+msgid "Design & Styling ( Left Sidebar )"
+msgstr ""
+
+#: core/customizer/sections/sidebar/main.php:64
+msgid "Right Sidebar Options"
+msgstr ""
+
+#: core/customizer/sections/sidebar/main.php:87
+msgid "Design & Styling ( Right Sidebar )"
+msgstr ""
+
+#: core/customizer/sections/single-page/page.php:38
+msgid "Page title position"
+msgstr ""
+
+#: core/customizer/sections/single-page/page.php:56
+msgid "Page Heading tag"
+msgstr ""
+
+#: core/customizer/sections/single-page/page.php:128
+msgid "Design & Styling ( Content )"
+msgstr ""
+
+#: core/customizer/sections/single-page-options.php:8
+#: core/info/about/class-yatri-about.php:461
+msgid "Single Page"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/main.php:35
+msgid "Post title position"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/main.php:51
+msgid "Single Post Heading tag"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/related_posts.php:19
+msgid "Related Posts Settings"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/related_posts.php:36
+msgid "Related Post Heading"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/related_posts.php:53
+msgid "Related Posts Taxonomy"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/related_posts.php:75
+msgid "Related Posts Count"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/related_posts.php:101
+msgid "Related Posts Columns"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/related_posts.php:123
+msgid "Excerpt type for related posts"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/related_posts.php:139
+msgid "Excerpt length for related posts"
+msgstr ""
+
+#: core/customizer/sections/single-post/content/related_posts.php:155
+msgid "Excerpt more text for related posts"
+msgstr ""
+
+#: core/customizer/sections/single-post-options.php:8
+#: core/info/about/class-yatri-about.php:456
+msgid "Single Post"
+msgstr ""
+
+#: core/customizer/sections/theme-base-options.php:10
+msgid "Base (Global)"
+msgstr ""
+
+#: core/hooks/class-yatri-section-hooks.php:30
+msgid "Office Info"
+msgstr ""
+
+#: core/hooks/class-yatri-section-hooks.php:43
+msgid "Navigation Menu"
+msgstr ""
+
+#: core/hooks/class-yatri-section-hooks.php:46
+msgid "Site Branding"
+msgstr ""
+
+#: core/hooks/class-yatri-section-hooks.php:49
+msgid "Search Form"
+msgstr ""
+
+#: core/hooks/class-yatri-section-hooks.php:53
+msgid "Custom HTML"
+msgstr ""
+
+#: core/hooks/class-yatri-section-hooks.php:56
+msgid "Copyright"
+msgstr ""
+
+#: core/hooks/class-yatri-template-hooks.php:94
+#. translators: 1: edit user link, 2: accessibility text, 3: user name, 4:
+#. logout URL
+msgid ""
+"<a href=\"%1$s\" aria-label=\"%2$s\">Logged in as %3$s</a> <a "
+"href=\"%4$s\">Log out?</a>"
+msgstr ""
+
+#: core/hooks/class-yatri-template-hooks.php:97
+#. translators: %s: user name
+msgid "Logged in as %s. Edit your profile."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:39
+msgid "Yatri Options"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:212
+msgid ""
+"Thanks for installing %s. To fully take advantage of the best our theme can "
+"offer, click on get started "
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:226
+msgid " plugins"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:226
+msgid " plugin"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:232
+msgid "Clicking on get started will install & activate %s."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:235
+msgid "Get started with %s"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:248
+msgid "General"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:249
+#: core/info/about/class-yatri-about.php:383
+msgid "Changelog"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:267
+msgid "Learn more about Yatri theme &#187;"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:299
+msgid "Processing..."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:416
+msgid "Logo & Site Identity"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:421
+msgid "Global Layouts"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:426
+msgid "Global Typography"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:431
+msgid "Global Colors"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:482
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:511
+msgid "Join Yatri Theme Community!"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:513
+msgid ""
+"Join our facebook community group so that you can post question and help "
+"each other."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:515
+msgid "Join our facebook community group"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:528
+#: core/info/about/class-yatri-about.php:532
+msgid "Yatri Documentation"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:530
+msgid "Yatri theme documentations and tutorial."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:549
+msgid "Demo Import ( Yatri Tools )"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:555
+msgid ""
+"<strong>Yatri Tools</strong> is free WordPress plugin from which you can "
+"import ready made site within few clicks and it extend Yatri theme to next "
+"level."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:582
+msgid "View Site Library / Install Demo"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:592
+msgid "Go to Yatri Options"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:602
+msgid "Install Importer Plugin"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:627
+msgid "Active Now"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:644
+msgid "Details"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:696
+msgid "Typography Addon"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:697
+msgid "Gives you creative control on typography for whole website."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:701
+msgid "Agency Elementor Addon"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:702
+msgid "Gives you more than 10 widgets of elementor plugin."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:706
+msgid "Sticky Addon"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:707
+msgid "Make sticky header, sidebar and footer."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:711
+msgid "Social Sharing Addon"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:712
+msgid "Add social sharing icons on single posts."
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:721
+msgid "Yatri Premium Extensions/Addons"
+msgstr ""
+
+#: core/info/about/class-yatri-about.php:723
+msgid "Upgrade Now &rarr;"
+msgstr ""
+
+#: core/metabox/class-yatri-post-metabox.php:17
+msgid "Sidebar Position"
+msgstr ""
+
+#: core/metabox/class-yatri-post-metabox.php:25
+msgid "Page Header Template"
+msgstr ""
+
+#: core/metabox/class-yatri-post-metabox.php:34
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: core/metabox/class-yatri-post-metabox.php:49
+#: core/metabox/class-yatri-post-metabox.php:96
+#: core/metabox/class-yatri-post-metabox.php:120
+msgid "Inherit from customizer"
+msgstr ""
+
+#: core/metabox/class-yatri-post-metabox.php:54
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: core/metabox/class-yatri-post-metabox.php:59
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: core/metabox/class-yatri-post-metabox.php:135
+msgid "Both Sidebar"
+msgstr ""
+
+#: core/metabox/class-yatri-post-metabox.php:140
+msgid "No Sidebar ( Full Width )"
+msgstr ""
+
+#: core/metabox/class-yatri-post-metabox.php:145
+msgid "No Sidebar ( 100% Full Width )"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:328 core/tgmpa/tgmpa-yatri.php:47
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:329 core/tgmpa/tgmpa-yatri.php:48
+msgid "Install Plugins"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:331 core/tgmpa/tgmpa-yatri.php:50
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:333 core/tgmpa/tgmpa-yatri.php:52
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:334 core/tgmpa/tgmpa-yatri.php:53
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:371 core/tgmpa/tgmpa-yatri.php:90
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:376 core/tgmpa/tgmpa-yatri.php:95
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:381
+#: core/tgmpa/tgmpa-yatri.php:100
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:386
+#: core/tgmpa/tgmpa-yatri.php:105
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:387
+#: core/tgmpa/class-tgm-plugin-activation.php:836
+#: core/tgmpa/class-tgm-plugin-activation.php:2588
+#: core/tgmpa/class-tgm-plugin-activation.php:3649
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:388
+#: core/tgmpa/class-tgm-plugin-activation.php:3223
+#: core/tgmpa/tgmpa-yatri.php:106
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:389
+#: core/tgmpa/class-tgm-plugin-activation.php:3010
+#: core/tgmpa/tgmpa-yatri.php:107
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:391
+#: core/tgmpa/tgmpa-yatri.php:109
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:393
+#: core/tgmpa/tgmpa-yatri.php:111
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:395
+#: core/tgmpa/tgmpa-yatri.php:113
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:396
+#: core/tgmpa/tgmpa-yatri.php:114
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:397
+#: core/tgmpa/tgmpa-yatri.php:115
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:398
+#: core/tgmpa/tgmpa-yatri.php:116
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:530
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:531
+msgid "Update Required"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:944
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:944
+#: core/tgmpa/class-tgm-plugin-activation.php:950
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:950
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2025
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Required"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2324
+msgid "Recommended"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2341
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2344
+msgid "External Source"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2347
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2365
+msgid "Not Installed"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2369
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2371
+msgid "Active"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2377
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "Requires Update"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "Update recommended"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2443
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2447
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2451
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2545
+msgid "Installed version:"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2565
+msgid "Available version:"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2588
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2602
+msgid "Plugin"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Source"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2604
+msgid "Type"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Version"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2609
+msgid "Status"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2659
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2664
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2670
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2742
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2775
+msgid "Install"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2781
+msgid "Update"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2784
+msgid "Activate"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2815
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2817
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2858
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2860
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2966
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2992
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3222
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3567
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3570
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3572
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3576
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3578
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3578
+#: core/tgmpa/class-tgm-plugin-activation.php:3586
+msgid "Show Details"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3578
+#: core/tgmpa/class-tgm-plugin-activation.php:3586
+msgid "Hide Details"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3579
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3581
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3584
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3586
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3587
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:3589
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgmpa/tgmpa-yatri.php:22 core/yatri-functions.php:604
+msgid "Yatri Tools"
+msgstr ""
+
+#: core/tgmpa/tgmpa-yatri.php:55
+#. translators: 1: plugin name(s).
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/tgmpa-yatri.php:61
+#. translators: 1: plugin name(s).
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/tgmpa-yatri.php:67
+#. translators: 1: plugin name(s).
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/tgmpa-yatri.php:73
+#. translators: 1: plugin name(s).
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/tgmpa-yatri.php:79
+#. translators: 1: plugin name(s).
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/tgmpa-yatri.php:85
+#. translators: 1: plugin name(s).
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/yatri-functions.php:67
+msgid "RIGHT SIDEBAR"
+msgstr ""
+
+#: core/yatri-functions.php:72
+msgid "LEFT SIDEBAR"
+msgstr ""
+
+#: core/yatri-functions.php:77
+msgid "FULL WIDTH"
+msgstr ""
+
+#: core/yatri-functions.php:82
+msgid "100% FULL WIDTH"
+msgstr ""
+
+#: core/yatri-functions.php:87
+msgid "BOTH SIDEBAR"
+msgstr ""
+
+#: core/yatri-functions.php:100
+msgid "Boxed"
+msgstr ""
+
+#: core/yatri-functions.php:101
+msgid "Full Width "
+msgstr ""
+
+#: core/yatri-functions.php:246 core/yatri-functions.php:309
+msgid "Thumbnail"
+msgstr ""
+
+#: core/yatri-functions.php:252 core/yatri-functions.php:314
+msgid "Post Title"
+msgstr ""
+
+#: core/yatri-functions.php:257 core/yatri-functions.php:320
+msgid "Post Meta"
+msgstr ""
+
+#: core/yatri-functions.php:267
+msgid "Category/Tags"
+msgstr ""
+
+#: core/yatri-functions.php:326
+msgid "Content"
+msgstr ""
+
+#: core/yatri-functions.php:332 template-parts/parts/entry-footer.php:12
+#: template-parts/parts/post-tag-meta.php:3
+msgid "Tags"
+msgstr ""
+
+#: core/yatri-functions.php:337 template-parts/parts/entry-footer.php:21
+#: template-parts/parts/post-cat-meta.php:3
+msgid "Categories"
+msgstr ""
+
+#: core/yatri-functions.php:343
+msgid "Author Bio"
+msgstr ""
+
+#: core/yatri-functions.php:348
+msgid "Comment Form"
+msgstr ""
+
+#: core/yatri-functions.php:353
+msgid "Post Navigation"
+msgstr ""
+
+#: core/yatri-functions.php:398
+msgid "Author"
+msgstr ""
+
+#: core/yatri-functions.php:404
+msgid "Date"
+msgstr ""
+
+#: core/yatri-functions.php:409 core/yatri-template-functions.php:406
+msgid "Comment"
+msgstr ""
+
+#: core/yatri-functions.php:471
+msgid "Style 1 ( Meta with icon )"
+msgstr ""
+
+#: core/yatri-functions.php:472
+msgid "Style 2 ( Meta without icon )"
+msgstr ""
+
+#: core/yatri-functions.php:482
+msgid "H1"
+msgstr ""
+
+#: core/yatri-functions.php:483
+msgid "H2"
+msgstr ""
+
+#: core/yatri-functions.php:484
+msgid "H3"
+msgstr ""
+
+#: core/yatri-functions.php:485
+msgid "H4"
+msgstr ""
+
+#: core/yatri-functions.php:486
+msgid "H5"
+msgstr ""
+
+#: core/yatri-functions.php:487
+msgid "H6"
+msgstr ""
+
+#: core/yatri-functions.php:488
+msgid "div"
+msgstr ""
+
+#: core/yatri-functions.php:489
+msgid "span"
+msgstr ""
+
+#: core/yatri-functions.php:490
+msgid "p"
+msgstr ""
+
+#: core/yatri-functions.php:500
+msgid "List Layout"
+msgstr ""
+
+#: core/yatri-functions.php:511
+msgid "Inside Breadcrumb"
+msgstr ""
+
+#: core/yatri-functions.php:512
+msgid "Inside Content"
+msgstr ""
+
+#: core/yatri-functions.php:513
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1300
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1330
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1342
+msgid "None"
+msgstr ""
+
+#: core/yatri-functions.php:524
+msgid "Next/Prev"
+msgstr ""
+
+#: core/yatri-functions.php:525
+msgid "Numeric"
+msgstr ""
+
+#: core/yatri-functions.php:538
+msgid "Custom"
+msgstr ""
+
+#: core/yatri-functions.php:539
+msgid "Use excerpt metabox"
+msgstr ""
+
+#: core/yatri-functions.php:552
+msgid "Left sidebar"
+msgstr ""
+
+#: core/yatri-functions.php:553
+msgid "Right sidebar"
+msgstr ""
+
+#: core/yatri-functions.php:554
+msgid "Both Sidebars"
+msgstr ""
+
+#: core/yatri-functions.php:555
+msgid "No Sidebar"
+msgstr ""
+
+#: core/yatri-functions.php:591
+msgid "Category"
+msgstr ""
+
+#: core/yatri-functions.php:592
+msgid "Tag"
+msgstr ""
+
+#: core/yatri-functions.php:865
+msgid "Yatri"
+msgstr ""
+
+#: core/yatri-misc-functions.php:358
+msgid "Click here to assign a widget for this area."
+msgstr ""
+
+#: core/yatri-template-functions.php:25
+#. translators: %s: Name of the current post
+msgid "EDIT<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: core/yatri-template-functions.php:288
+msgid "Search Results for: "
+msgstr ""
+
+#: core/yatri-template-functions.php:468
+msgid "Previous Post"
+msgstr ""
+
+#: core/yatri-template-functions.php:469
+msgid "Next Post"
+msgstr ""
+
+#: core/yatri-template-functions.php:476
+msgid "Next page"
+msgstr ""
+
+#: core/yatri-template-functions.php:477
+msgid "Prev"
+msgstr ""
+
+#: core/yatri-template-functions.php:477
+msgid "Previous page"
+msgstr ""
+
+#: core/yatri-template-functions.php:478
+msgid "Page"
+msgstr ""
+
+#: core/yatri-template-functions.php:565
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:248
+msgid "Home"
+msgstr ""
+
+#: core/yatri-template-functions.php:566
+msgid "Demo"
+msgstr ""
+
+#: core/yatri-template-functions.php:567
+msgid "Docs"
+msgstr ""
+
+#: core/yatri-template-functions.php:568
+msgid "Support"
+msgstr ""
+
+#: core/yatri-template-functions.php:569
+msgid "Blog"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:246
+msgid "Browse:"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:249
+msgid "404 Not Found"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:250
+msgid "Archives"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:252
+#. Translators: %s is the search query.
+msgid "Search results for: %s"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:254
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:256
+#. Translators: %s is the page number.
+msgid "Comment Page %s"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:258
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:260
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-base.php:41
+msgid "Enter %s preview mode"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-builder.php:88
+msgid "Drag & drop above item here"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-builder.php:97
+msgid "Grid %d Width"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-icon-picker.php:27
+msgid "Font Awesome"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-icon-picker.php:84
+#: mantrabrain-theme/customizer/controls/repeater/fields/icon.php:21
+msgid "Cancel"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-icon-picker.php:88
+#: mantrabrain-theme/customizer/controls/repeater/fields/icon.php:25
+msgid "All Icon Types"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-icon-picker.php:94
+#: mantrabrain-theme/customizer/controls/repeater/fields/icon.php:31
+msgid "Type icon name here"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-repeater.php:51
+msgid "Repeater title"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-repeater.php:132
+msgid "Add New"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-switch-group.php:22
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-switch.php:19
+msgid "on"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-switch-group.php:23
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-switch.php:20
+msgid "off"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/class-mantrabrain-theme-customizer-control-template.php:76
+msgid "Save"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:10
+msgid "Border Style"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:31
+msgid "Border Width"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:50
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:116
+#: mantrabrain-theme/customizer/controls/modal/fields/margin.php:47
+#: mantrabrain-theme/customizer/controls/modal/fields/padding.php:48
+msgid "Bottom"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:71
+msgid "Border Color"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:85
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:151
+#: mantrabrain-theme/customizer/controls/modal/fields/color.php:17
+#: mantrabrain-theme/customizer/controls/modal/fields/overlay.php:30
+msgid "Select Color"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:95
+msgid "Border Radius"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:137
+msgid "Box Shadow"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:162
+msgid "Box Size Values"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:172
+msgid "X"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:177
+msgid "Y"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:183
+msgid "BLUR"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:189
+msgid "SPREAD"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/border.php:197
+msgid "inset"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/font.php:13
+msgid "Theme Default"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/image.php:24
+msgid "Add Image"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/image.php:28
+msgid "Change"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/image.php:32
+msgid "Remove"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/image.php:39
+msgid "Size"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/image.php:55
+msgid "Position"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/image.php:71
+msgid "Repeat"
+msgstr ""
+
+#: mantrabrain-theme/customizer/controls/modal/fields/image.php:87
+msgid "Attachment"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1127
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1315
+msgid "Normal"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1128
+msgid "Bold"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1131
+msgid "Light 300"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1132
+msgid "Normal 400"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1133
+msgid "Medium 500"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1134
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1135
+msgid "Bold 700"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1136
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1137
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1168
+msgid "Default Web Fonts"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1172
+msgid "Google Web Fonts"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1246
+msgid "px"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1247
+msgid "rem"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1248
+msgid "em"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1249
+msgid "%"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1257
+msgid "Auto"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1258
+msgid "Cover"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1259
+msgid "Contain"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1268
+msgid "Top Left"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1269
+msgid "Top Right"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1270
+msgid "Top Center"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1271
+msgid "Bottom Left"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1272
+msgid "Bottom Center"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1273
+msgid "Bottom Right"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1281
+msgid "No repeat"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1282
+msgid "Repeat horizontal"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1283
+msgid "Repeat vertical"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1291
+msgid "Scroll"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1292
+msgid "Fixed"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1301
+msgid "Solid"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1302
+msgid "Dotted"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1303
+msgid "Dashed"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1304
+msgid "Double"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1305
+msgid "Ridge"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1306
+msgid "Inset"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1307
+msgid "Outset"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1316
+msgid "Italic"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1317
+msgid "Oblique"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1327
+msgid "Underline"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1328
+msgid "Overline"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1329
+msgid "Line through"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1339
+msgid "Uppercase"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1340
+msgid "Lowercase"
+msgstr ""
+
+#: mantrabrain-theme/helper/class-mantrabrain-theme-helper.php:1341
+msgid "Capitalize"
+msgstr ""
+
+#: template-parts/footer/site-info.php:2
+msgid "Yatri Theme by"
+msgstr ""
+
+#: template-parts/footer/site-info.php:2
+msgid "Mantrabrain"
+msgstr ""
+
+#: template-parts/page/content-none.php:17
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: template-parts/page/content-none.php:20
+msgid "NOTHING FOUND"
+msgstr ""
+
+#: template-parts/page/content-none.php:28
+msgid "It looks like nothing was found. Want to try another by search?"
+msgstr ""
+
+#: template-parts/page/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps another "
+"searching can help."
+msgstr ""
+
+#: template-parts/page/content-none.php:43
+msgid "Add New Post"
+msgstr ""
+
+#: template-parts/page/content.php:24
+#: template-parts/single/post-navigation.php:5
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/parts/time-link.php:15
+msgid "Posted on"
+msgstr ""
+
+#: template-parts/single/content-author-detail.php:12
+msgid "Post Author:"
+msgstr ""
+
+#: comments.php:31
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:1138
+#: core/tgmpa/class-tgm-plugin-activation.php:3006
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2392
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2439
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgmpa/class-tgm-plugin-activation.php:2537
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:247
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:703
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:721
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:739
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:756
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:785
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:824
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:851
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:1207
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:757
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:825
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:1209
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:758
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:1211
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: mantrabrain-theme/breadcrumbs/class-breadcrumb-trail.php:786
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""

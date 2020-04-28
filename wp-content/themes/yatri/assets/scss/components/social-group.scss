@@ -1,0 +1,150 @@
+
+.socialgroup ul {
+  list-style: none;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.socialgroup li {
+  display: inline-block;
+  margin: 3px 0;
+}
+.socialgroup a {
+  display: block;
+  font-family: "Font Awesome 5 Free";
+  font-size: 0px;
+  font-weight: 400;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  color: $primary_color;
+  text-decoration: inherit;
+  display: inline-block;
+  margin-left: 2px;
+  margin-right: 2px;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  border-radius: 100%;
+  -webkit-transition: 0.5s ease;
+  -moz-transition: 0.5s ease;
+  -ms-transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  transition: 0.5s ease;
+  text-align: center;
+  border: 1px solid #cccccc;
+}
+
+.socialgroup a:before {
+  font-family: "Font Awesome 5 Free";
+  font-size: 14px;
+}
+
+.socialgroup a:hover, .socialgroup a:focus, .socialgroup a:active {
+  border-color: $secondary_color;
+  color: $secondary_color;
+}
+
+.socialgroup a[href*="blogger.com"]:before {
+  content: "\e0a7";
+}
+
+.socialgroup a[href*="delicious.com"]:before {
+  content: "\e0a9";
+}
+
+.socialgroup a[href*="deviantart.com"]:before {
+  content: "\e09f";
+}
+
+.socialgroup a[href*="dribbble.com"]:before {
+  content: "\e09b";
+}
+
+.socialgroup a[href*="facebook.com"]:before {
+  content: "\e093";
+}
+
+.socialgroup a[href*="flickr.com"]:before {
+  content: "\e0a6";
+}
+
+.socialgroup a[href*="googledrive"]:before {
+  content: "\e0a5";
+}
+
+.socialgroup a[href*="instagram.com"]:before {
+  content: "\e09a";
+}
+
+.socialgroup a[href*="linkedin.com"]:before {
+  content: "\e09d";
+}
+
+.socialgroup a[href*="myspace.com"]:before {
+  content: "\e0a1";
+}
+
+.socialgroup a[href*="picassa.com"]:before {
+  content: "\e0a4";
+}
+
+.socialgroup a[href*="pinterest.com"]:before {
+  content: "\e095";
+}
+
+.socialgroup a[href*="plus.google.com"]:before {
+  content: "\e096";
+}
+
+.socialgroup a[href*="rss.com"]:before,
+.socialgroup a[href*="/feed"]:before {
+  content: "\e09e";
+}
+
+.socialgroup a[href*="share.com"]:before {
+  content: "\e0a0";
+}
+
+.socialgroup a[href*="skype.com"]:before {
+  content: "\e0a2";
+}
+
+.socialgroup a[href*="skype:"]:before {
+  content: "\e0a2";
+}
+
+.socialgroup a[href*="spotify.com"]:before {
+  content: "\e0a8";
+}
+
+.socialgroup a[href*="tumbleupon.com"]:before {
+  content: "\e098";
+}
+
+.socialgroup a[href*="tumblr.com"]:before {
+  content: "\e097";
+}
+
+.socialgroup a[href*="twitter.com"]:before {
+  content: "\e094";
+}
+
+.socialgroup a[href*="vimeo.com"]:before {
+  content: "\e09c";
+}
+
+.socialgroup a[href*="wordpress.com"]:before,
+.socialgroup a[href*="wordpress.org"]:before {
+  content: "\e0b0";
+}
+
+.socialgroup a[href*="youtube.com"]:before {
+  content: "\e0a3";
+}
+
+.socialgroup:hover:before {
+  color: #212121;
+  background-color: #ffffff;
+}

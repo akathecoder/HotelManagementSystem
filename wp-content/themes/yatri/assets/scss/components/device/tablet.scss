@@ -1,0 +1,20 @@
+@media (min-width: 640px) and (max-width: 1024px) {
+  .yat-head-col-md-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .yat-head-col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .yat-head-col-md-4 {
+    -ms-flex: 0 0 33.33%;
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+  }
+  .yatri-tablet-hidden {
+    display: none;
+  }
+}

@@ -1,0 +1,16 @@
+.elementor-add-new-section .elementor-add-yatri-tools-elementor-button {
+    background-color: #4285f4 !important;
+    margin-left: 5px;
+    background-image: url(../images/yatri-logo.png) !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: cover !important;
+}
+
+.elementor-add-new-section .elementor-add-yatri-tools-elementor-button i.fa {
+    visibility: hidden;
+}
+
+.elementor-add-new-section .elementor-add-section-area-button.elementor-add-yatri-tools-elementor-button {
+    background: #4285f4;
+}

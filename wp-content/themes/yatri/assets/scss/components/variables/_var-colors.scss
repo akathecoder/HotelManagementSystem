@@ -1,0 +1,19 @@
+// Define few colors
+
+// General Color Variables 
+$primary_color: #4285f4; // Grey
+$secondary_color: darken($primary_color, 20%); // Blue #0286E7 & #0271C1
+$menu_and_heading_color: #2d2d2d;
+// Header Bg
+$top_header_bg: lighten($menu_and_heading_color, 5%);
+$mid_heder_bg: #f3f3f3;
+//  Footer ( Dark )
+$top_footer_bg: lighten($menu_and_heading_color, 5%);
+$breadcrumb_bg: lighten($menu_and_heading_color, 5%);
+$bottom_footer_bg: $menu_and_heading_color;
+
+
+
+
+
+

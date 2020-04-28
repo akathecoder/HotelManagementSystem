@@ -1,0 +1,39 @@
+.yatri-control-message-wrapper {
+    padding: 5px 6px;
+    color: #fff;
+    margin: 0;
+    border: 1px solid #aaa;
+    margin-top: -5px;
+}
+
+.yatri-control-message-wrapper.yatri-warning {
+    border-left: 5px solid #cc3300;
+    background: #fff3c3;
+
+}
+
+.yatri-control-message-wrapper.yatri-notice {
+    border-left: 2px solid #007cba;
+    background: #d5ecf7;
+
+}
+
+.yatri-control-message-wrapper label {
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-weight: 600;
+    color: #000;
+}
+
+.yatri-control-message-wrapper label span {
+    color: #0073aa;
+    transition-property: border, background, color;
+    transition-duration: .05s;
+    transition-timing-function: ease-in-out;
+
+}
+
+.yatri-control-message-wrapper span:hover {
+    color: #00a0d2;
+}

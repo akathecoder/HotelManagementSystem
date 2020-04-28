@@ -1,0 +1,1748 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Optimizer\n"
+"POT-Creation-Date: 2017-05-15 20:05+0600\n"
+"PO-Revision-Date: 2016-09-21 11:43+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:24
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:37
+msgid ""
+"Server cannot find the file you requested. The Page has either been moved or "
+"deleted, or you entered the wrong URL or document name. Look at the URL. If "
+"a word looks misspelled, then correct it and try it again. If that doesnt "
+"work You can try our search option to find what you are looking for."
+msgstr ""
+
+#: author.php:30
+msgid "Posts by "
+msgstr ""
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:28
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:28
+msgid "One Response"
+msgstr ""
+
+#: comments.php:28
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:52
+msgid "Trackbacks &amp; Pings"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: customizer/controls/settings-basic.php:18
+msgid "Converted to Latest Version"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:37
+msgid "Site Layout *"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:41
+msgid "Full Width"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:42
+msgid "Boxed"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:55
+msgid "Box Width *"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:79
+msgid "Box Background Color"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:98
+msgid "Fixed Background Image"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:114
+msgid "Site content Text Color"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:128
+msgid "Other Elements Background"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:129
+msgid ""
+"Affects Frontpage Posts hover color, Search button background Color, Widget "
+"Title border color, Related post hover color, Sub menu hover background "
+"color, Comments Submit button color."
+msgstr ""
+
+#: customizer/controls/settings-basic.php:144
+msgid "Other Elements Text Color"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:145
+msgid "Affects Front page post hover text color, Search button text color."
+msgstr ""
+
+#: customizer/controls/settings-basic.php:165
+#: customizer/controls/settings-basic.php:216
+#: customizer/controls/settings-header.php:19
+msgid "Family"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:180
+#: customizer/controls/settings-basic.php:231
+#: customizer/controls/settings-header.php:34
+msgid "Subsets"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:196
+msgid "Font Size"
+msgstr ""
+
+#: customizer/controls/settings-basic.php:247
+msgid "Turn Menu Text &amp; All Headings to Uppercase"
+msgstr ""
+
+#: customizer/controls/settings-code.php:13
+msgid "Custom CSS"
+msgstr ""
+
+#: customizer/controls/settings-code.php:14
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: customizer/controls/settings-footer.php:14
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:15
+msgid ""
+"Turn On/Off The button that appears on bottom right when you scroll down to "
+"pages."
+msgstr ""
+
+#: customizer/controls/settings-footer.php:29
+msgid "Center Footer Widgets and Copyright Text"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:45
+msgid "Footer Widget Area Background Color"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:59
+msgid "Footer Widget Area Text Color"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:74
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:88
+msgid ""
+"<a rel=\"nofollow\" href=\"https://optimizerwp.com\" target=\"_blank"
+"\">Optimizer WordPress Theme</a>"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:94
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:108
+msgid "Display Menu in Copyright Area"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:125
+msgid "Copyright Area Background"
+msgstr ""
+
+#: customizer/controls/settings-footer.php:139
+msgid "Copyright Text Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:15
+msgid "Slider Type *"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:16
+msgid ""
+"Choose the Slider type and configure your images from Slider Settings below."
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:19
+msgid "Static Slide"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:20
+msgid "Disable Slider"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:38
+msgid "Background Image *"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:51 lib/functions/defaults.php:21
+msgid "ADVANCED"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:51 lib/functions/defaults.php:21
+msgid "STRONG"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:51 lib/functions/defaults.php:21
+msgid "RELIABLE"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:51 lib/functions/defaults.php:21
+msgid ""
+"The Optimizer, an easy to customizable multi-purpose theme with lots of "
+"powerful features."
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:57
+msgid "Static Slide Content *"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:74
+msgid "Slide Text Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:84 lib/functions/defaults.php:22
+msgid "DEMO"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:91
+#: customizer/controls/settings-frontpage.php:175
+msgid "Button Text"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:106
+#: customizer/controls/settings-frontpage.php:190
+msgid "Button Link"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:122
+#: customizer/controls/settings-frontpage.php:206
+msgid "Button Style"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:125
+#: customizer/controls/settings-frontpage.php:209
+msgid "Flat"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:126
+#: customizer/controls/settings-frontpage.php:210
+msgid "Flat (Big)"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:127
+#: customizer/controls/settings-frontpage.php:211
+msgid "Hollow"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:128
+#: customizer/controls/settings-frontpage.php:212
+msgid "Hollow (Big)"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:129
+#: customizer/controls/settings-frontpage.php:213
+msgid "Rounded"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:130
+#: customizer/controls/settings-frontpage.php:214
+msgid "Rounded (Big)"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:145
+#: customizer/controls/settings-frontpage.php:229
+msgid "Button Background"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:159
+#: customizer/controls/settings-frontpage.php:243
+msgid "Button Text Color"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:168 lib/functions/defaults.php:27
+msgid "DOWNLOAD"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:260
+msgid "Slider Content Box Width"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:283
+msgid "Content Box Vertical Position"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:306
+msgid "Slider Content Alignment"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:309
+msgid "Left"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:310
+msgid "Center"
+msgstr ""
+
+#: customizer/controls/settings-frontpage.php:311
+msgid "Right"
+msgstr ""
+
+#: customizer/controls/settings-header.php:50
+msgid "Site Title Font Size"
+msgstr ""
+
+#: customizer/controls/settings-header.php:67
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:83
+msgid "Logo Image *"
+msgstr ""
+
+#: customizer/controls/settings-header.php:99
+msgid "Hide Site Tagline"
+msgstr ""
+
+#: customizer/controls/settings-header.php:117
+msgid "Menu Text Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:131
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:145
+msgid "Menu Active Text Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:161
+msgid "Menu Font Size"
+msgstr ""
+
+#: customizer/controls/settings-header.php:182
+msgid "Transparent Header on Frontpage *"
+msgstr ""
+
+#: customizer/controls/settings-header.php:198
+msgid "Transparent Header Text Color"
+msgstr ""
+
+#: customizer/controls/settings-header.php:215
+msgid "Header Background Color"
+msgstr ""
+
+#: customizer/controls/settings-help.php:12
+msgid ""
+"<a target=\"_blank\" href=\"http://optimizerwp.com/optimizer-documentation/"
+"\">Official Documentation</a>"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:18
+msgid "Social links Icons Style"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:37
+msgid "Social Icons Position"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:41 customizer/customizer.php:25
+#: customizer/customizer.php:104
+msgid "Header"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:42 customizer/customizer.php:41
+msgid "Footer"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:56
+msgid "Social Icons Size"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:60
+msgid "Normal"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:61
+msgid "Large"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:77
+msgid "LINK 1"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:92
+msgid "LINK 2"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:106
+msgid "LINK 3"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:120
+msgid "LINK 4"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:135
+msgid "LINK 5"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:150
+msgid "LINK 6"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:164
+msgid "LINK 7"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:179
+msgid "LINK 8"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:193
+msgid "LINK 9"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:207
+msgid "LINK 10"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:222
+msgid "LINK 11"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:237
+msgid "RSS FEED URL"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:255
+msgid "Hide Slider for Mobile"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:270
+msgid "Hide Right Sidebar for Mobile"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:286
+msgid "Hide Page Headers for Mobile"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:302
+msgid "Lightbox Feature *"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:314
+msgid "Enhanced Gallery *"
+msgstr ""
+
+#: customizer/controls/settings-misc.php:317
+msgid ""
+"Replaces your boring WordPress galleries with Optimizer slideshow gallery "
+"system."
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:15
+msgid "Show Post Info"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:30
+msgid "Next and Previous Posts"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:31
+msgid "Display Next and Previous Posts Under Single Post"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:46
+msgid "Comments"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:47
+msgid "Show/Hide Comments in Posts and Pages"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:65
+msgid "Page Header Background"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:79
+msgid "Page Header Text color"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:105
+msgid "Display Blog Posts from selected Categories *"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:119
+msgid "Blog Page Posts Count *"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:136
+msgid "Blog Page Layout *"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:153
+msgid "Blog Page Thumbnails *"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:171
+msgid "Post Title Color"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:185
+msgid "Link Color (Regular)"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:199
+msgid "Links Color (Hover)"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:217
+msgid "Sidebar Widgets Background"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:232
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:247
+msgid "Sidebar Widget Text Color"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:262
+msgid "Sidebar Widget Title Font Size"
+msgstr ""
+
+#: customizer/controls/settings-postpage.php:277
+msgid "Category & Archive Page layout *"
+msgstr ""
+
+#: customizer/customizer.php:18
+msgid "Basic"
+msgstr ""
+
+#: customizer/customizer.php:33 customizer/extra.php:203
+#: customizer/extra.php:216
+msgid "Front Page"
+msgstr ""
+
+#: customizer/customizer.php:49
+msgid "Post & Page"
+msgstr ""
+
+#: customizer/customizer.php:58
+msgid "Miscellaneous"
+msgstr ""
+
+#: customizer/customizer.php:66
+msgid "Help"
+msgstr ""
+
+#: customizer/customizer.php:73
+msgid "Site Layout"
+msgstr ""
+
+#: customizer/customizer.php:79
+msgid "Basic Style"
+msgstr ""
+
+#: customizer/customizer.php:85
+msgid "Basic Fonts"
+msgstr ""
+
+#: customizer/customizer.php:92
+msgid "Create Sidebars"
+msgstr ""
+
+#: customizer/customizer.php:98
+msgid "Topbar"
+msgstr ""
+
+#: customizer/customizer.php:110
+msgid "Site Title & Logo"
+msgstr ""
+
+#: customizer/customizer.php:116
+msgid "Menu "
+msgstr ""
+
+#: customizer/customizer.php:125
+msgid "Slider"
+msgstr ""
+
+#: customizer/customizer.php:132
+msgid "Front Page Settings"
+msgstr ""
+
+#: customizer/customizer.php:139
+msgid "Posts Settings"
+msgstr ""
+
+#: customizer/customizer.php:142
+msgid ""
+"To view the live changes you make in this section, select \"Single Post\" "
+"from the Top bar dropdown list located at the top right corner of the screen."
+msgstr ""
+
+#: customizer/customizer.php:146
+msgid "Page Header Settings"
+msgstr ""
+
+#: customizer/customizer.php:149
+msgid ""
+"To view the live changes you make in this section, select a page from the "
+"Top bar dropdown list located at the top right corner of the screen."
+msgstr ""
+
+#: customizer/customizer.php:154
+msgid "Blog Page Settings"
+msgstr ""
+
+#: customizer/customizer.php:157
+msgid ""
+"Applies only to the page created with the Blog Page Template (Setting up a "
+"Blog Page)."
+msgstr ""
+
+#: customizer/customizer.php:161
+msgid "Contact Page Settings"
+msgstr ""
+
+#: customizer/customizer.php:164
+msgid ""
+"Applies only to the page created with the Contact Page Template (Setting up "
+"a Contact Page)."
+msgstr ""
+
+#: customizer/customizer.php:168
+msgid "Social Share Buttons"
+msgstr ""
+
+#: customizer/customizer.php:171 customizer/customizer.php:178
+msgid ""
+"To view the live changes you make in this section, select a post or a page "
+"from the Top bar dropdown list located at the top right corner of the screen."
+msgstr ""
+
+#: customizer/customizer.php:175
+msgid "Post & Page Style"
+msgstr ""
+
+#: customizer/customizer.php:182
+msgid "Category & Archive Page"
+msgstr ""
+
+#: customizer/customizer.php:185
+msgid ""
+"To view the live changes you make in this section, select \"Category or Tag "
+"Page\" from the Top bar dropdown list located at the top right corner of the "
+"screen."
+msgstr ""
+
+#: customizer/customizer.php:190
+msgid "Footer Style"
+msgstr ""
+
+#: customizer/customizer.php:196
+msgid "Copyright Area"
+msgstr ""
+
+#: customizer/customizer.php:202
+msgid "Social Links"
+msgstr ""
+
+#: customizer/customizer.php:205
+msgid "Social Bookmark Links Settings"
+msgstr ""
+
+#: customizer/customizer.php:208
+msgid "Media Settings"
+msgstr ""
+
+#: customizer/customizer.php:211
+msgid "Meida Settings"
+msgstr ""
+
+#: customizer/customizer.php:214
+msgid "SEO Settings"
+msgstr ""
+
+#: customizer/customizer.php:220
+msgid "Mobile Layout"
+msgstr ""
+
+#: customizer/customizer.php:223
+msgid "Hide Items From the Mobile Version of Your Site"
+msgstr ""
+
+#: customizer/customizer.php:227
+msgid "Custom Code"
+msgstr ""
+
+#: customizer/customizer.php:233
+msgid "Other Settings"
+msgstr ""
+
+#: customizer/customizer.php:241 customizer/extra.php:312
+msgid "Documentation"
+msgstr ""
+
+#: customizer/customizer.php:254
+msgid "Site Background Color"
+msgstr ""
+
+#: customizer/customizer.php:255
+msgid "Site Background Image"
+msgstr ""
+
+#: customizer/customizer.php:256 customizer/customizer.php:257
+msgid "Does not affect the front page if the Site Layout is set to Full-Width."
+msgstr ""
+
+#: customizer/customizer.php:309
+msgid "Add Widget"
+msgstr ""
+
+#: customizer/customizer.php:310
+msgid "Site Title Font"
+msgstr ""
+
+#: customizer/customizer.php:311
+msgid "Headings, Menu and Post Titles Font"
+msgstr ""
+
+#: customizer/customizer.php:312
+msgid "Site Content Font"
+msgstr ""
+
+#: customizer/customizer.php:313
+msgid "Image"
+msgstr ""
+
+#: customizer/customizer.php:314
+msgid "Button 1"
+msgstr ""
+
+#: customizer/customizer.php:315
+msgid "Button 2"
+msgstr ""
+
+#: customizer/customizer.php:316
+msgid "Slideshow"
+msgstr ""
+
+#: customizer/customizer.php:317
+msgid "Video"
+msgstr ""
+
+#: customizer/customizer.php:318
+msgid "Switch Theme"
+msgstr ""
+
+#: customizer/customizer.php:319
+msgid "Your Sidebars"
+msgstr ""
+
+#: customizer/customizer.php:320
+msgid "Static Slide Settings"
+msgstr ""
+
+#: customizer/customizer.php:321
+msgid "Nivo / Accordion Slider Settings"
+msgstr ""
+
+#: customizer/customizer.php:323
+msgid "Upgrade To PRO"
+msgstr ""
+
+#: customizer/customizer.php:324
+msgid "Upgrade to PRO to Unlock this Widget"
+msgstr ""
+
+#: customizer/customizer.php:325 lib/functions/siteorigin.php:5
+msgid "Optimizer Widgets"
+msgstr ""
+
+#: customizer/customizer.php:326
+msgid "Other Widgets"
+msgstr ""
+
+#: customizer/customizer.php:327
+msgid ""
+"<span>Social Links</span> All Major Social Sites are supported. Your links "
+"will be automatically detected and relevant icons will be displayed."
+msgstr ""
+
+#: customizer/customizer.php:328
+msgid "We hope you are enjoying Optimizer. Would you be kind enough to"
+msgstr ""
+
+#: customizer/extra.php:7
+msgid "Close"
+msgstr ""
+
+#: customizer/extra.php:10
+msgid "Save and close"
+msgstr ""
+
+#: customizer/extra.php:49
+msgid "SETTINGS"
+msgstr ""
+
+#: customizer/extra.php:54 customizer/extra.php:59
+msgid "Import Dummy Content"
+msgstr ""
+
+#: customizer/extra.php:57
+msgid ""
+"Add Dummy Content(Widgets) to your Frontpage. After Importing you can edit "
+"them from Widgets > Frontpage Sections"
+msgstr ""
+
+#: customizer/extra.php:69
+msgid "Reset Options"
+msgstr ""
+
+#: customizer/extra.php:71
+msgid ""
+"Reset Options to default theme settings. All your current theme settings "
+"will be lost except the widgets settings."
+msgstr ""
+
+#: customizer/extra.php:72
+msgid "Do you really want to Reset? All your Theme Settings will be lost."
+msgstr ""
+
+#: customizer/extra.php:80
+msgid "Export Options"
+msgstr ""
+
+#: customizer/extra.php:82
+msgid "Backup Current Theme Settings. Your Widget settings wont be exported."
+msgstr ""
+
+#: customizer/extra.php:91
+msgid "Import Options"
+msgstr ""
+
+#: customizer/extra.php:93
+msgid "Import Options from a backup (json) file."
+msgstr ""
+
+#: customizer/extra.php:95
+msgid "Import"
+msgstr ""
+
+#: customizer/extra.php:103
+msgid "Optimizer Tour"
+msgstr ""
+
+#: customizer/extra.php:105
+msgid "Take the welcome tour and get acquainted with the theme."
+msgstr ""
+
+#: customizer/extra.php:116
+msgid "Dashboard"
+msgstr ""
+
+#: customizer/extra.php:117
+msgid "Settings"
+msgstr ""
+
+#: customizer/extra.php:118
+msgid "Expand"
+msgstr ""
+
+#: customizer/extra.php:126
+msgid "Welcome to Optimizer"
+msgstr ""
+
+#: customizer/extra.php:126
+msgid "Free version"
+msgstr ""
+
+#: customizer/extra.php:127
+msgid ""
+"Creating websites with Optimizer is super easy and fun. In next steps, "
+"you'll see how easy it is to customizer your site and see the changes live "
+"without jumping between windows."
+msgstr ""
+
+#: customizer/extra.php:128
+msgid "Start the Tour"
+msgstr ""
+
+#: customizer/extra.php:132
+msgid "Customization Area"
+msgstr ""
+
+#: customizer/extra.php:134
+msgid ""
+"The Customization Area is located on the left panel of the screen. Each time "
+"you want to add or customize an element, you can do that from here."
+msgstr ""
+
+#: customizer/extra.php:135
+msgid ""
+"You can easily move to different Sections of the Options panel by hovering "
+"over the Quick Links Bar located on the very left. You can also use the "
+"Optimizer Logo <i class=\"touroptimlogo\"></i> as back button when you are "
+"inside a Section."
+msgstr ""
+
+#: customizer/extra.php:139 customizer/extra.php:148 customizer/extra.php:161
+#: customizer/extra.php:170
+msgid "Next"
+msgstr ""
+
+#: customizer/extra.php:139 customizer/extra.php:148 customizer/extra.php:161
+#: customizer/extra.php:170
+msgid "Previous"
+msgstr ""
+
+#: customizer/extra.php:143
+msgid "Instant Preview"
+msgstr ""
+
+#: customizer/extra.php:145
+msgid ""
+"Whenever you make changes to the theme from the Customization Area, you will "
+"see the changes live on the right side."
+msgstr ""
+
+#: customizer/extra.php:153
+msgid "Adding Content to Frontpage"
+msgstr ""
+
+#: customizer/extra.php:155
+msgid ""
+"Lets look at the different parts of the frontpage and how you can add "
+"content to them:"
+msgstr ""
+
+#: customizer/extra.php:156
+msgid "Static Slider"
+msgstr ""
+
+#: customizer/extra.php:156
+msgid "You can edit the Static Slider from Frontpage > Slider"
+msgstr ""
+
+#: customizer/extra.php:157 lib/functions/core.php:63
+msgid "Frontpage Widgets"
+msgstr ""
+
+#: customizer/extra.php:157
+msgid ""
+"The Main body of the Frontpage is a widget area. You can add widgets to this "
+"area from Frontpage > Frontpage Content."
+msgstr ""
+
+#: customizer/extra.php:158 lib/functions/core.php:53
+msgid "Footer Widgets"
+msgstr ""
+
+#: customizer/extra.php:158
+msgid "You can easily Add Widgets to this area from Footer > Footer Widgets."
+msgstr ""
+
+#: customizer/extra.php:166
+msgid "Preview Navigation Bar"
+msgstr ""
+
+#: customizer/extra.php:168
+msgid ""
+"You can quickly navigate to different pages of your site from this top "
+"navigation bar. You can hide it anytime by clicking the arrow button beside "
+"it."
+msgstr ""
+
+#: customizer/extra.php:174
+msgid "End of Tour"
+msgstr ""
+
+#: customizer/extra.php:175
+msgid "That's all! We Hope you like the Theme :) "
+msgstr ""
+
+#: customizer/extra.php:176
+msgid "You can take this tour anytime from Footer Links > Settings"
+msgstr ""
+
+#: customizer/extra.php:177
+msgid "End Tour"
+msgstr ""
+
+#: customizer/extra.php:202
+msgid "View"
+msgstr ""
+
+#: customizer/extra.php:205 customizer/extra.php:228
+msgid "Single Post"
+msgstr ""
+
+#: customizer/extra.php:206 customizer/extra.php:229
+msgid "Category Page"
+msgstr ""
+
+#: customizer/extra.php:207 customizer/extra.php:230
+msgid "Tag Page"
+msgstr ""
+
+#: customizer/extra.php:208 customizer/extra.php:231
+msgid "Archive Page"
+msgstr ""
+
+#: customizer/extra.php:209 customizer/extra.php:232
+msgid "Author Page"
+msgstr ""
+
+#: customizer/extra.php:210 customizer/extra.php:235
+msgid "Search Page"
+msgstr ""
+
+#: customizer/extra.php:211 customizer/extra.php:236
+msgid "404 Page"
+msgstr ""
+
+#: customizer/extra.php:215 page.php:48 single.php:53
+#: template_parts/page-fullwidth_template.php:42
+#: template_parts/page-leftsidebar_template.php:42
+msgid "Pages:"
+msgstr ""
+
+#: customizer/extra.php:227
+msgid "Posts:"
+msgstr ""
+
+#: customizer/extra.php:234
+msgid "Other:"
+msgstr ""
+
+#: customizer/extra.php:265 customizer/extra.php:273
+msgid "Add Widgets Here"
+msgstr ""
+
+#: customizer/extra.php:288
+msgid "About Optimizer"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: customizer/extra.php:295
+msgid "Optimizer"
+msgstr ""
+
+#: customizer/extra.php:297
+msgid "Free Support"
+msgstr ""
+
+#: customizer/extra.php:297
+msgid "Only Friday & Saturday"
+msgstr ""
+
+#: customizer/extra.php:298
+msgid "PRO Support"
+msgstr ""
+
+#: customizer/extra.php:298
+msgid "24/7 Instant Support"
+msgstr ""
+
+#: customizer/extra.php:306
+msgid ""
+"Customize your website live with our improved customizer, which cuts down "
+"the website building time in half."
+msgstr ""
+
+#: customizer/extra.php:307
+msgid "Customize"
+msgstr ""
+
+#: customizer/extra.php:311
+msgid ""
+"Optimizer is extensively documented. You will find useful information about "
+"the theme ranging from introductions to advanced features."
+msgstr ""
+
+#: customizer/extra.php:316
+msgid ""
+"Unlock the true power of the Optimizer by upgrading to Pro. Pro has no "
+"Frontpage Widgets Limit, 8 Front Page Elements, 60 more powerful options  & "
+"24/7 Support."
+msgstr ""
+
+#: customizer/extra.php:317
+msgid "Upgrade"
+msgstr ""
+
+#: customizer/includes/control-editor.php:21
+#: frontpage/widgets/front-about.php:145 frontpage/widgets/front-blocks.php:335
+#: frontpage/widgets/front-blocks.php:368
+#: frontpage/widgets/front-blocks.php:401
+#: frontpage/widgets/front-blocks.php:435
+#: frontpage/widgets/front-blocks.php:470
+#: frontpage/widgets/front-blocks.php:505 frontpage/widgets/front-text.php:137
+msgid "Edit content"
+msgstr ""
+
+#: framework/core-nextprev.php:20
+msgid "Previous Post"
+msgstr ""
+
+#: framework/core-nextprev.php:31
+msgid "Next Post"
+msgstr ""
+
+#: framework/core-posts.php:53 framework/core-posts.php:64
+#: framework/core-posts.php:73 framework/core-posts.php:140
+#: framework/core-posts.php:150 framework/core-posts.php:161
+#: template_parts/post-layout1.php:33 template_parts/post-layout1.php:50
+msgid "Preview"
+msgstr ""
+
+#: framework/core-posts.php:55 framework/core-posts.php:65
+#: framework/core-posts.php:74 framework/core-posts.php:82
+#: framework/core-posts.php:141 framework/core-posts.php:151
+#: framework/core-posts.php:162 framework/core-posts.php:171
+#: framework/core-posts.php:273 template_parts/page-blog_template.php:92
+#: template_parts/post-layout1.php:34 template_parts/post-layout1.php:43
+#: template_parts/post-layout1.php:51 template_parts/post-layout1.php:59
+#: template_parts/post-layout4.php:30 template_parts/post-layout4.php:73
+msgid "Read More"
+msgstr ""
+
+#: framework/core-posts.php:255 single.php:38
+#: template_parts/page-blog_template.php:82 template_parts/post-layout4.php:61
+msgid "0 Comment"
+msgstr ""
+
+#: framework/core-posts.php:255 single.php:38
+#: template_parts/page-blog_template.php:82 template_parts/post-layout4.php:61
+msgid "1 Comment"
+msgstr ""
+
+#: framework/core-posts.php:255 single.php:38
+#: template_parts/page-blog_template.php:82 template_parts/post-layout4.php:61
+msgid "% Comments"
+msgstr ""
+
+#: framework/core-posts.php:255 single.php:38
+#: template_parts/page-blog_template.php:82 template_parts/post-layout4.php:61
+msgid "Off"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:25
+msgid "About"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:25
+msgid "&diams; About Widget"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:28
+msgid "Optimizer About Section widget"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:43 frontpage/widgets/front-about.php:119
+#: frontpage/widgets/init.php:23
+msgid "THE OPTIMIZER"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:44 frontpage/widgets/front-about.php:120
+#: frontpage/widgets/init.php:24
+msgid "a little about.."
+msgstr ""
+
+#: frontpage/widgets/front-about.php:45 frontpage/widgets/front-about.php:121
+#: frontpage/widgets/front-text.php:123 frontpage/widgets/init.php:25
+#: frontpage/widgets/init.php:72
+msgid ""
+"Collaboratively administrate empowered markets via plug-and-play networks. "
+"Dynamically procrastinate B2C users after installed base benefits. "
+"Dramatically visualize customer directed convergence without revolutionary "
+"ROI."
+msgstr ""
+
+#: frontpage/widgets/front-about.php:131
+msgid "Pre Heading:"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:137
+msgid "Heading:"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:143 frontpage/widgets/front-text.php:135
+msgid "Content:"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:149 frontpage/widgets/front-posts.php:220
+msgid "Title Divider:"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:151 frontpage/widgets/front-posts.php:222
+msgid "Underline"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:152 frontpage/widgets/front-posts.php:223
+msgid "Rhombus"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:153 frontpage/widgets/front-posts.php:224
+msgid "Star"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:154 frontpage/widgets/front-posts.php:225
+msgid "Cross"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:155 frontpage/widgets/front-posts.php:226
+msgid "Bolt"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:156 frontpage/widgets/front-posts.php:227
+msgid "Asterisk"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:157 frontpage/widgets/front-posts.php:228
+msgid "Chevron"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:158 frontpage/widgets/front-posts.php:229
+msgid "Heart"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:159 frontpage/widgets/front-posts.php:230
+msgid "Plus"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:160 frontpage/widgets/front-posts.php:231
+msgid "Bookmark"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:161 frontpage/widgets/front-posts.php:232
+msgid "Circle"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:162 frontpage/widgets/front-blocks.php:26
+#: frontpage/widgets/front-posts.php:233
+msgid "Blocks"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:163 frontpage/widgets/front-posts.php:234
+msgid "Sides"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:164 frontpage/widgets/front-posts.php:235
+msgid "Cog"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:165 frontpage/widgets/front-posts.php:236
+msgid "Blinds"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:166 frontpage/widgets/front-posts.php:237
+msgid "Hide Divider"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:172
+msgid "Heading Color"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:179 frontpage/widgets/front-text.php:156
+msgid "Text Color"
+msgstr ""
+
+#: frontpage/widgets/front-about.php:185 frontpage/widgets/front-text.php:162
+msgid "Background Color"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:26
+msgid "&diams; Blocks Widget"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:30
+msgid "Optimizer Blocks Section widget"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:46 frontpage/widgets/front-blocks.php:50
+#: frontpage/widgets/front-blocks.php:54 frontpage/widgets/front-blocks.php:282
+#: frontpage/widgets/front-blocks.php:285
+#: frontpage/widgets/front-blocks.php:288 frontpage/widgets/init.php:39
+#: frontpage/widgets/init.php:42 frontpage/widgets/init.php:45
+msgid "Lorem Ipsum"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:48 frontpage/widgets/front-blocks.php:52
+#: frontpage/widgets/front-blocks.php:56 frontpage/widgets/front-blocks.php:284
+#: frontpage/widgets/front-blocks.php:287
+#: frontpage/widgets/front-blocks.php:290 frontpage/widgets/front-text.php:44
+#: frontpage/widgets/init.php:41 frontpage/widgets/init.php:44
+#: frontpage/widgets/init.php:47
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur dol adipiscing elit. Nam nec rhoncus "
+"risus. In ultrices lacinia ipsum, posuere faucibus velit bibe."
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:310
+msgid "Block 1"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:314
+msgid "Block 1 Title"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:320
+msgid "Block 1 Image"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:327
+#: frontpage/widgets/front-blocks.php:360
+#: frontpage/widgets/front-blocks.php:393
+#: frontpage/widgets/front-blocks.php:427
+#: frontpage/widgets/front-blocks.php:462
+#: frontpage/widgets/front-blocks.php:497 frontpage/widgets/front-text.php:175
+msgid "Select Image"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:333
+msgid "Block 1 Content:"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:343
+msgid "Block 2"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:347
+msgid "Block 2 Title"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:353
+msgid "Block 2 Image"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:366
+msgid "Block 2 Content:"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:376
+msgid "Block 3"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:380
+msgid "Block 3 Title"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:386
+msgid "Block 3 Image"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:399
+msgid "Block 3 Content:"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:410
+msgid "Block 4"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:414
+msgid "Block 4 Title"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:420
+msgid "Block 4 Image"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:433
+msgid "Block 4 Content:"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:445
+msgid "Block 5"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:449
+msgid "Block 5 Title"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:455
+msgid "Block 5 Image"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:468
+msgid "Block 5 Content:"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:480
+msgid "Block 6"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:484
+msgid "Block 6 Title"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:490
+msgid "Block 6 Image"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:503
+msgid "Block 6 Content:"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:513
+msgid "Blocks Title Color"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:520
+msgid "Blocks Text Color"
+msgstr ""
+
+#: frontpage/widgets/front-blocks.php:526
+msgid "Blocks Background Color"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:31 frontpage/widgets/front-posts.php:186
+msgid "Posts"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:31
+msgid "&diams; Posts Widget"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:35
+msgid ""
+"This Widget lets you display WordPress Posts, Pages and Woocommerce Products."
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:51 frontpage/widgets/front-posts.php:144
+#: frontpage/widgets/init.php:88
+msgid "Our Work"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:52
+msgid "Check Out Our Portfolio"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:145
+msgid "Check Out Our Work"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:161
+msgid "Title:"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:167
+msgid "Subtitle:"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:173
+msgid "Posts Layout:"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:175
+msgid "Layout 1"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:176
+msgid "Layout 2"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:177
+msgid "Layout 4"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:179
+msgid "3 more layouts available in PRO"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:184
+msgid "Posts Type:"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:187
+msgid "Pages"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:188
+msgid "Products (Woocommerce)"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:196
+msgid "Categories"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:212
+msgid "Number of Posts:"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:244
+msgid "Posts Navigation:"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:246
+msgid "Numbered"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:247
+msgid "Disabled"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:253
+msgid "Post Background Color"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:260
+msgid "Posts Section Title Color"
+msgstr ""
+
+#: frontpage/widgets/front-posts.php:266
+msgid "Posts Section Background Color"
+msgstr ""
+
+#: frontpage/widgets/front-text.php:25
+msgid "Advanced Text"
+msgstr ""
+
+#: frontpage/widgets/front-text.php:25
+msgid "&diams; Advanced Text Widget"
+msgstr ""
+
+#: frontpage/widgets/front-text.php:28
+msgid "Optimizer Advanced Text Section widget"
+msgstr ""
+
+#: frontpage/widgets/front-text.php:143
+msgid "Top &amp; Bottom Padding"
+msgstr ""
+
+#: frontpage/widgets/front-text.php:149
+msgid "Side Padding"
+msgstr ""
+
+#: frontpage/widgets/front-text.php:168
+msgid "Background Image"
+msgstr ""
+
+#: frontpage/widgets/init.php:71
+msgid "This Title wont be shown"
+msgstr ""
+
+#: frontpage/widgets/init.php:89
+msgid "Checkout Our Work"
+msgstr ""
+
+#: functions.php:36
+msgid "Header Navigation"
+msgstr ""
+
+#: functions.php:37
+msgid "Footer Navigation"
+msgstr ""
+
+#: index.php:34
+msgid "You can Replace this Posts Section with Optimizer Widgets."
+msgstr ""
+
+#: index.php:34
+msgid "Add Widgets"
+msgstr ""
+
+#: lib/functions/admin.php:18
+msgid "These Options Are Only Available in Optimizer PRO"
+msgstr ""
+
+#: lib/functions/core.php:43
+msgid "Right Sidebar"
+msgstr ""
+
+#: lib/functions/core.php:45
+msgid ""
+"When you assign widgets to this area, it will be displayed on the right side "
+"of all pages and posts"
+msgstr ""
+
+#: lib/functions/core.php:55
+msgid "This Widget Area is displayed in the footer section of your site."
+msgstr ""
+
+#: lib/functions/core.php:65
+msgid ""
+"With Optmizer Free you can only add 4 widgets to this Area. Upgrade to PRO "
+"to add unlimited Widgets."
+msgstr ""
+
+#: lib/functions/core.php:113 lib/functions/core.php:122
+msgid "+ Read More"
+msgstr ""
+
+#: lib/functions/core.php:129
+msgid "Search &hellip;"
+msgstr ""
+
+#: lib/functions/core.php:130
+msgid "Search"
+msgstr ""
+
+#: lib/functions/core.php:146 lib/functions/core.php:180 page.php:33
+#: single.php:19 template_parts/page-fullwidth_template.php:27
+#: template_parts/page-leftsidebar_template.php:27
+msgid "Edit"
+msgstr ""
+
+#: lib/functions/core.php:152
+msgid " ago"
+msgstr ""
+
+#: lib/functions/core.php:162 lib/functions/core.php:182
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/functions/core.php:187
+#, php-format
+msgid "<cite class=\"citeping\">%s</cite> <span class=\"says\">:</span>"
+msgstr ""
+
+#: lib/functions/core.php:206
+msgid "Name"
+msgstr ""
+
+#: lib/functions/core.php:208
+msgid "Email"
+msgstr ""
+
+#: lib/functions/core.php:210
+msgid "Website"
+msgstr ""
+
+#: lib/functions/defaults.php:12
+msgid ""
+"<a href=\"https://optimizerwp.com\" rel=\"nofollow\" target=\"_blank"
+"\">Optimizer WordPress Theme</a>"
+msgstr ""
+
+#: lib/includes/google_fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: lib/includes/google_fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: lib/includes/google_fonts.php:125
+msgid "All"
+msgstr ""
+
+#: lib/includes/google_fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: lib/includes/google_fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: lib/includes/google_fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: lib/includes/google_fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: lib/includes/google_fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: lib/includes/google_fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: lib/includes/google_fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: lib/includes/google_fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: lib/includes/google_fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: lib/includes/google_fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: lib/includes/google_fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: lib/includes/google_fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:24
+msgid "Total posts found - "
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://optimizerwp.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Optimizer, an easy to customize multi-purpose theme with lots of "
+"powerful features. This theme lets you customize each element Live without "
+"you having to touch any code. The theme comes with 2 site layout: Full width "
+"& boxed, Beautiful image slider, easy Logo upload, 600+ Fonts, powerful "
+"theme options, Custom CSS Field & lots of Color options. The optimizer is "
+"100% responsive built with HTML5 & CSS3, it's SEO friendly, mobile optimized "
+"& retina ready. Its translation ready, ready for WooCommerce, bbPress, "
+"Mailchimp, Contact Form 7. The theme is rigorously tested and optimized for "
+"speed and faster page load time and has secure and clean code. It's perfect "
+"for any types of website - Landing Pages, small business, portfolio, "
+"photography, corporate, personal & eCommerce websites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "OptimizerWP"
+msgstr ""

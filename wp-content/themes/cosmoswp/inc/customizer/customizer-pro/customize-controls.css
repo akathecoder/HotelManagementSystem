@@ -1,0 +1,12 @@
+.control-section-cosmoswp h3 {
+	margin: 0;
+	padding: 1px 0;
+	border: 0;
+	position: relative;
+}
+.control-section-cosmoswp h3 a {
+	background: #fff;
+	display: block;
+	padding: 11px 10px 12px 14px;
+	text-decoration: none;
+}

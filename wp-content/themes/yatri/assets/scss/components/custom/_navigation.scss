@@ -1,0 +1,78 @@
+
+
+.comment-navigation {
+  background-color: #ffffff;
+  border: 1px solid #e6e6e6;
+  margin-bottom: 30px;
+  padding: 15px 30px;
+}
+
+.site-main .comment-navigation,
+.site-main .posts-navigation,
+.site-main .post-navigation {
+  margin: 0 0 1.5em;
+  overflow: hidden;
+}
+
+.comment-navigation .nav-previous {
+  float: left;
+  width: 50%;
+}
+
+@media screen and (max-width: 767px) {
+  .comment-navigation .nav-previous{
+    width: 100%;
+  }
+}
+
+.comment-navigation .nav-next {
+  float: right;
+  text-align: right;
+  width: 50%;
+}
+
+@media screen and (max-width: 767px) {
+  .comment-navigation .nav-next {
+    float: left;
+    width: 100%;
+  }
+}
+
+.page-numbers {
+  background-color: #ffffff;
+  border: 1px solid #e6e6e6;
+  margin-bottom: 30px;
+  padding: 15px 30px;
+  color: #3b3b3b;
+  display: inline-block;
+  margin: 0 5px 5px 0;
+  padding: 10px 18px;
+  -webkit-transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  -moz-transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  -ms-transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  -o-transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.page-numbers.current {
+  background-color: $primary_color;
+  border: 1px solid $primary_color;
+  color: #ffffff;
+}
+
+.page-numbers:hover, .page-numbers:focus, .page-numbers:active {
+  background-color: $secondary_color;
+  border-color: $secondary_color;
+  color: #ffffff;
+}
+
+.page-numbers:hover.current, .page-numbers:focus.current, .page-numbers:active.current {
+  background-color: $primary_color;
+  border: 1px solid $primary_color;
+}
+
+.page-numbers.dots:hover, .page-numbers.dots:focus, .page-numbers.dots:active {
+  background-color: #ffffff;
+  border: 1px solid #e6e6e6;
+  color: #545454;
+}

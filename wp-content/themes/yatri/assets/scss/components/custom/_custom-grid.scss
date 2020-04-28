@@ -1,0 +1,71 @@
+
+body {
+  .site {
+    margin: 0 auto;
+  }
+  &.yatri-global-layout-boxed {
+    background: #f0f0f0;
+  }
+}
+
+body.yatri-layout-content_plain {
+  .site-content {
+    .single-post-wrap {
+      box-shadow: none;
+      -webkit-box-shadow: none;
+      .post-content {
+        background: none;
+        .post-content-inner {
+          border: none;
+        }
+      }
+    }
+  }
+}
+
+body.yatri-archive-page.yatri-layout-content_boxed,
+body.single.yatri-layout-content_boxed,
+body.page.yatri-layout-content_boxed {
+  .yatri-sidebar .widget {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: none;
+  }
+}
+
+body.yatri-archive-page.yatri-layout-content_plain,
+body.single.yatri-layout-content_plain {
+  .site-content {
+    .single-post-wrap {
+      box-shadow: none;
+      -webkit-box-shadow: none;
+      .post-content {
+        background: none;
+        .post-content-inner {
+          border: none;
+        }
+      }
+    }
+  }
+}
+
+.yat-head-col-lg-12,
+.yat-head-col-lg-6,
+.yat-head-col-lg-4,
+.yat-head-col-md-12,
+.yat-head-col-md-6,
+.yat-head-col-md-4,
+.yat-head-col-sm-12,
+.yat-head-col-sm-6,
+.yat-head-col-sm-4 {
+
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@import "../device/desktop";
+@import "../device/tablet";
+@import "../device/mobile";

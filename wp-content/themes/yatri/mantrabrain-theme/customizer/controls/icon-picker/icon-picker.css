@@ -1,0 +1,134 @@
+#yatri-customizer-icon-picker {
+    position: fixed;
+    display: none;
+    border-right: 1px solid #ddd;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+    width: 300px;
+    bottom: 0px;
+    top: 0px;
+    z-index: 8;
+    background: #EBEBEB;
+
+}
+
+#yatri-customizer-icon-picker.picker-active {
+    display: block;
+}
+
+#yatri-customizer-icon-picker .yatri-icon-list-ul li {
+    width: 20%;
+    float: left;
+    font-size: 24px;
+    text-align: center;
+    padding: 0;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+#yatri-customizer-icon-picker * {
+    box-sizing: border-box;
+}
+
+#yatri-customizer-icon-picker #yatri-icon-browser {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    overflow: auto;
+}
+
+#yatri-customizer-icon-picker .yatri-icon-list-ul li:hover span,
+#yatri-customizer-icon-picker .yatri-icon-list-ul li.active span {
+    background: #007cba;
+    color: #fff;
+}
+
+#yatri-customizer-icon-picker .picker-header {
+    height: 46px;
+    display: block;
+    border-bottom: 1px solid #ddd;
+}
+
+#yatri-customizer-icon-picker .customize-controls-icon-close {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 45px;
+    height: 41px;
+    padding: 0 2px 0 0;
+    background: #eee;
+    border: none;
+    border-top: 4px solid #eee;
+    border-right: 1px solid #ddd;
+    color: #444;
+    text-align: left;
+    cursor: pointer;
+    -webkit-transition: color .15s ease-in-out, border-color .15s ease-in-out, background .15s ease-in-out;
+    transition: color .15s ease-in-out, border-color .15s ease-in-out, background .15s ease-in-out;
+    box-sizing: content-box;
+    text-decoration: none;
+}
+
+#yatri-customizer-icon-picker .yatri-icon-list-ul li span {
+    padding: 10px;
+    display: inline-block;
+    border: 1px solid #aaa;
+    text-align: center;
+    max-width: 50px;
+    width: 50px;
+}
+
+#yatri-customizer-icon-picker .customize-controls-icon-close:before {
+    font: 400 22px/45px dashicons;
+    content: "\f335";
+    position: relative;
+    top: -3px;
+    left: 13px;
+}
+
+#yatri-customizer-icon-picker .icon-type-selector {
+    padding: 10px 10px 10px 50px;
+    display: block;
+}
+
+#yatri-customizer-icon-picker .yatri-icon-search {
+    background: #ffffff;
+    padding: 10px;
+}
+
+.yatri-icon-picker-control-field .icon-show,
+.yatri-icon-picker-control-field .icon-clear {
+    display: block;
+    height: 30px;
+    width: 30px;
+    float: left;
+    border: 1px solid #ddd;
+    line-height: 30px;
+    text-align: center;
+    font-size: 20px;
+    background: #fff;
+    cursor: pointer;
+}
+
+.yatri-icon-picker-control-field .icon-clear {
+    float: right;
+}
+
+.yatri-icon-picker-control-field span.icon-show:hover {
+    background: #007cba;
+    color: #fff;
+}
+
+.yatri-icon-picker-control-field .customize-control-icon-picker-value {
+    float: left;
+    border-radius: 0;
+    height: 32px;
+    line-height: 30px;
+    margin-left: 2px !important;
+    border: 1px solid #ddd;
+    width: calc(100% - 68px) !important;
+    background: #fff !important;
+}

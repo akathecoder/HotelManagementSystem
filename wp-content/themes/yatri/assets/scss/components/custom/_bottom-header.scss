@@ -1,0 +1,13 @@
+.main-header {
+  box-shadow: -1px 4px 9px 0px rgba(0, 0, 0, .1);
+  padding: 10px 0;
+  background: #fff;
+  .yatri-section-container {
+    &.yatri-grid-3 {
+      text-align: right;
+    }
+    &.yatri-grid-2 {
+      text-align: center;
+    }
+  }
+}

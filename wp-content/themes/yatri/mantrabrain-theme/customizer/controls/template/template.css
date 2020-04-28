@@ -1,0 +1,25 @@
+
+.yatri-template-control .save-template-form {
+    display: flex;
+}
+
+.yatri-template-control .yatri-template-name {
+    border-radius: 0;
+}
+
+.yatri-template-control .yatri-save-header-template {
+    border-radius: 0;
+    margin-left: 10px;
+}
+
+.yatri-template-control ul.template-list li {
+    padding: 10px;
+    background: #fff;
+    margin-top: 5px;
+    display: block;
+    border: 1px solid #aaa;
+}
+
+.yatri-template-control ul.template-list li .yatri-remove-template {
+    float: right;
+}

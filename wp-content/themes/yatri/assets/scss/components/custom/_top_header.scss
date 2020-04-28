@@ -1,0 +1,92 @@
+.top-header {
+  color: #fff;
+  z-index: 2;
+  background-color: $top_header_bg;
+  padding: 10px 0;
+  .yatri-section-office-information ul li {
+  }
+  .yatri-section-button {
+    .yatri-button {
+      padding: 3px 15px;
+      border: 1px solid #fff;
+    }
+  }
+
+  .yatri-section-container {
+   
+    &.yatri-grid-2 {
+      text-align: center;
+    }
+
+    &.yatri-grid-3 {
+      text-align: right;
+    }
+
+    &.menu-container {
+      li {
+        a {
+          color: #fff;
+          padding: 5px 15px;
+          font-size: 14px;
+          &:hover {
+            color: $secondary_color;
+          }
+
+        }
+        ul.sub-menu {
+          a {
+            color: initial;
+
+          }
+          li {
+
+          }
+        }
+
+        &.menu-item-has-children {
+          > a {
+            &:after {
+              right: 11%;
+            }
+          }
+        }
+
+      }
+    }
+
+  }
+
+  .yatri-responsive-toggle-menu {
+    border-color: #ddd;
+    color: #fff;
+    background: transparent;
+    span {
+      color: inherit;
+    }
+  }
+  .yatri-section-search-form .search-main {
+    padding: 4px 10px;
+    .yatri-search-icon {
+      color: #fff;
+    }
+  }
+  .yatri-section-offcanvas-menu .yatri-toggle-wrap {
+    span.toggle-icon {
+      color: #fff;
+    }
+    &:hover {
+
+    }
+  }
+  .site-description {
+    color: #fff;
+  }
+
+  .site-title a, a {
+    color: #fff;
+    &:hover {
+      color: $secondary_color;
+    }
+  }
+
+}

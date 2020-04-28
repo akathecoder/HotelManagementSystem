@@ -1,0 +1,35 @@
+.yatri-mid-header {
+  color: #6e6e6e;
+  background: $mid_heder_bg;
+  padding: 15px 0;
+  .yatri-section-site-branding {
+    &.logo-title-text {
+      a.custom-logo-link {
+      }
+    }
+  }
+  .yatri-section-menu {
+
+    ul {
+      li {
+        a {
+        }
+
+      }
+    }
+  }
+
+  .yatri-section-container {
+    &.yatri-grid-3 {
+      text-align: right;
+    }
+    &.yatri-grid-2 {
+      text-align: center;
+    }
+  }
+  .yatri-section-search-form .search-main {
+    .yatri-search-icon {
+      color: #6e6e6e;
+    }
+  }
+}

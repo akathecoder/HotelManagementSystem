@@ -1,0 +1,38 @@
+span.yatri-taxonomy-sep {
+  width: 15px;
+  font-size: inherit;
+  display: inline-block;
+  text-align: center;
+  color: #ddd;
+}
+
+.yatri-category-list {
+  margin-right: 15px;
+  font-size: 14px;
+  color: $primary_color;
+  &:before {
+    content: "\f07b";
+    font-family: "Font Awesome 5 Free";
+    margin-right: 3px;
+
+  }
+  &:hover {
+    color: $secondary_color;
+  }
+}
+
+.yatri-tag-list {
+  font-size: 14px;
+  color: $primary_color;
+
+  &:before {
+    content: "\f02c";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 3px;
+
+  }
+  &:hover {
+    color: $secondary_color;
+  }
+}

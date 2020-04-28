@@ -1,0 +1,71 @@
+.yatri-slider-control-wrap {
+    position: relative;
+    display: block;
+}
+
+.yatri-slider {
+    position: relative;
+    margin: 11px 118px 20px 4px;
+    height: 5px;
+    display: block;
+    background: #CCCCCC;
+}
+
+.yatri-slider-control-wrap .ui-slider-range {
+    width: 100%;
+    display: block;
+    height: 5px;
+    background: #3068af;
+    position: absolute;
+}
+
+.yatri-slider-control-wrap .ui-slider-handle {
+    width: 18px;
+    height: 18px;
+    display: block;
+    position: absolute;
+    top: -7px;
+    background: #ffffff;
+    border: 1px solid #CCCCCC;
+    border-radius: 50%;
+    cursor: pointer;
+    -webkit-transform: translateX(0px);
+    -ms-transform: translateX(0px);
+    transform: translateX(0px);
+}
+
+.yatri-slider-control-wrap input {
+    width: 65px;
+    max-width: 65px;
+    position: absolute;
+    top: -9px;
+    right: 18px;
+    height: 24px;
+    line-height: 18px;
+    min-height: 24px;
+    border-radius: 0;
+    padding: 0 0 0 10px;
+}
+
+.yatri-slider-control-wrap input:focus {
+    border-color: #a7abaf;
+    box-shadow: none;
+    outline: none;
+}
+
+.yatri-slider-control-wrap .yatri-slider-reset {
+    text-decoration: none;
+    display: inline-block;
+    color: #555d66;
+    top: -9px;
+    right: -5px;
+    line-height: 21px;
+    position: absolute;
+    margin-right: 0px;
+    background: #fff;
+    font-weight: normal;
+    font-size: 12px;
+    padding: 1px;
+    cursor: pointer;
+    border: 1px solid rgb(126, 137, 147);
+}

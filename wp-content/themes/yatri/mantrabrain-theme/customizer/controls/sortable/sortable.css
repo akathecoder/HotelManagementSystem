@@ -1,0 +1,61 @@
+.yatri-sortable-control .yatri-sortable-item {
+    background: #ffffff;
+    margin-bottom: 10px;
+    border: 1px solid #7b7b7b;
+    position: relative;
+}
+
+.yatri-sortable-control .yatri-sortable-item[data-disable="1"] {
+
+    border: 1px dashed #aaa;
+    color: #aaa!important;
+}
+
+.yatri-sortable-control .yatri-sortable-item[data-disable="1"] .yatri-sortable-item-heading {
+    color: #aaa!important;
+}
+
+.yatri-sortable-control .yatri-sortable-item .rp-show-icon {
+
+    line-height: 34px;
+    margin-right: 10px;
+    font-size: 16px;
+    height: 33px;
+    width: 41px;
+}
+
+.yatri-sortable-control .yatri-sortable-item[data-disable="1"] .rp-show-icon:before {
+    content: "\f530";
+}
+
+.yatri-sortable-control .yatri-sortable-item i.dashicons.dashicons-menu {
+    position: absolute;
+    right: 0;
+    height: 33px;
+    width: 41px;
+    top: 0;
+    z-index: 99;
+    line-height: 34px;
+    cursor: pointer;
+}
+
+.yatri-sortable-control .yatri-sortable-item label.yatri-sortable-show {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-right: 1px solid #dddddd;
+    width: 41px;
+    text-align: center;
+}
+
+.yatri-sortable-control .yatri-sortable-item-heading {
+    background: #FFF;
+    padding: 10px;
+    position: relative;
+    display: block;
+    line-height: 1;
+    font-size: 1em;
+    cursor: pointer;
+    padding-left: 50px;
+    color: #000;
+}

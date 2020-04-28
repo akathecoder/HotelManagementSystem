@@ -1,0 +1,27 @@
+.yatri-search-row {
+  display: flex;
+  input, select {
+    margin-right: 10px;
+  }
+  input[name="s"], input[type="submit"] {
+    margin-right: 0;
+  }
+  &:after {
+    content: '';
+    clear: both;
+  }
+  &.searh-row {
+    display: block;
+    text-align: right;
+  }
+}
+
+.yatri-search {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  &.mb-full-width {
+    .yatri-search-content {
+      padding: $full_width_padding;
+    }
+  }
+}

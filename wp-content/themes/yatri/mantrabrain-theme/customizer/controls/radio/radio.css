@@ -1,0 +1,19 @@
+.mb-radio-control-wrap.with-images ul li {
+    display: block;
+    margin-bottom: 10px;
+    max-width: 25%;
+    width: 25%;
+    float: left;
+}
+
+.mb-radio-control-wrap.with-images ul li label img {
+    border: 3px solid transparent;
+}
+
+.mb-radio-control-wrap.with-images ul li input[type="radio"] {
+    display: none;
+}
+
+.mb-radio-control-wrap.with-images ul li input[type="radio"]:checked + label img {
+    border: 3px solid #3498db;
+}

@@ -1,0 +1,19 @@
+
+a {
+  color: $primary_color;
+  text-decoration: none;
+  -webkit-transition: color 0.3s;
+  -moz-transition: color 0.3s;
+  -ms-transition: color 0.3s;
+  -o-transition: color 0.3s;
+  transition: color 0.3s;
+}
+
+a:hover, a:focus, a:active {
+  color: $secondary_color;
+}
+
+a:focus, a:hover, a:active, a:visited {
+  outline: none;
+  text-decoration: none;
+}

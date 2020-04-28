@@ -1,9 +1,11 @@
-/* global plugininstallL10n, tb_click, tb_remove */
-
 /**
- * Functionality for the plugin install screens.
+ * @file Functionality for the plugin install screens.
+ *
+ * @output wp-admin/js/plugin-install.js
  */
-var tb_position;
+
+/* global plugininstallL10n, tb_click, tb_remove, tb_position */
+
 jQuery( document ).ready( function( $ ) {
 
 	var tbWindow,
@@ -16,7 +18,7 @@ jQuery( document ).ready( function( $ ) {
 		$wrap = $ ( '.wrap' ),
 		$body = $( document.body );
 
-	tb_position = function() {
+	window.tb_position = function() {
 		var width = $( window ).width(),
 			H = $( window ).height() - ( ( 792 < width ) ? 60 : 20 ),
 			W = ( 792 < width ) ? 772 : width - 20;
@@ -181,11 +183,12 @@ jQuery( document ).ready( function( $ ) {
 		var tab = $( this ).attr( 'name' );
 		event.preventDefault();
 
-		// Flip the tab
+		// Flip the tab.
 		$( '#plugin-information-tabs a.current' ).removeClass( 'current' );
 		$( this ).addClass( 'current' );
 
-		// Only show the fyi box in the description section, on smaller screen, where it's otherwise always displayed at the top.
+		// Only show the fyi box in the description section, on smaller screen,
+		// where it's otherwise always displayed at the top.
 		if ( 'description' !== tab && $( window ).width() < 772 ) {
 			$( '#plugin-information-content' ).find( '.fyi' ).hide();
 		} else {

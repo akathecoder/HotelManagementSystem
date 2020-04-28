@@ -1,0 +1,150 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
+hr {
+  background-color: #d9d9d9;
+  border: 0;
+  height: 1px;
+  margin-bottom: 1.5em;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: top;
+}
+
+figure {
+  margin: 0;
+}
+.blocks-gallery-caption, .wp-block-embed figcaption, .wp-block-image figcaption{
+  font-size: 14px;
+}
+
+figcaption {
+  color: #ffffff;
+  font-size: 14px;
+  padding: 5px 10px;
+}
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+  background-color: black !important;
+  background-image: none;
+  color: black;
+}
+
+::-webkit-selection {
+  background: $primary_color;
+  color: #ffffff;
+}
+
+::-moz-selection {
+  background: $primary_color;
+  color: #ffffff;
+}
+
+::-ms-selection {
+  background: $primary_color;
+  color: #ffffff;
+}
+
+::-o-selection {
+  background: $primary_color;
+  color: #ffffff;
+}
+
+::selection {
+  background: $primary_color;
+  color: #ffffff;
+}
+
+ul, ol {
+  margin: 0 0 1.5em 0.875em;
+  line-height: 2;
+}
+
+ul {
+  list-style: disc;
+}
+
+ol {
+  list-style: decimal;
+}
+
+li > ul,
+li > ol {
+  margin-bottom: 0;
+  margin-left: 1.5em;
+}
+
+table {
+  margin: 0 0 1.5em;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-width: 1px 0 0 1px;
+  width: 100%;
+}
+
+table thead tr {
+  background-color: #2d2d2d;
+}
+
+table thead tr th {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+th,
+td {
+  border-bottom: 1px solid #d9d9d9;
+}
+
+caption,
+th,
+td {
+  font-weight: normal;
+  text-align: left;
+}
+
+th {
+  border-width: 0 1px 1px 0;
+  font-weight: 700;
+}
+
+td {
+  border-width: 0 1px 1px 0;
+  font-size: 16px;
+}
+
+th, td {
+  padding: 7px 15px;
+}
+
+dl {
+  margin-bottom: 1.6em;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: 1.6em;
+  margin-left: 0;
+}
+
+dd a {
+  text-decoration: underline;
+}

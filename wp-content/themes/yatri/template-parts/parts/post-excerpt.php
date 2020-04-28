@@ -1,0 +1,1 @@
+<div class="post-text"><p><?php yatri_excerpt(true); ?></p></div>

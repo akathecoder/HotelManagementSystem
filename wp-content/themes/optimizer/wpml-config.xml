@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="optimizer">
+            <key name="static_img_text_id" />
+            <key name="static_cta1_text" />
+			<key name="static_cta1_link" />
+			<key name="static_cta2_text" />
+			<key name="static_cta2_link" />
+			<key name="footer_text_id" />
+			<key name="share_label" />
+        </key>
+    </admin-texts>    
+</wpml-config>

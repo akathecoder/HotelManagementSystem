@@ -1,0 +1,37 @@
+// Import variables
+@import 'components/variables/var-typography';
+@import 'components/variables/var-colors';
+@import 'components/variables/var-spacing';
+// Import framework
+@import 'components/framework/bootstrap-grid';
+@import 'components/custom/custom-grid';
+@import 'components/framework/font-awesome/font-awesome';
+@import "components/custom/reset.scss";
+@import 'components/custom/forms';
+@import 'components/custom/links';
+@import 'components/custom/alignment';
+@import "components/custom/elements.scss";
+@import "components/lib.scss";
+@import "components/widgets.scss";
+@import "components/partials.scss";
+@import "components/pages.scss";
+@import "components/yatra-compatibility.scss";
+@import "components/custom/yatri-sections.scss";
+@import "components/custom/top_header";
+@import "components/custom/mid_header";
+@import "components/custom/bottom-header";
+// // elements
+@import 'components/custom/buttons';
+//// button
+//// clearing
+@import 'components/custom/typography';
+//// typography
+//// pagination
+@import 'components/custom/breadcrumb';
+@import 'components/archive';
+@import 'components/custom/single';
+@import 'components/custom/_navigation';
+@import 'components/sidebars';
+@import 'components/footer';
+@import 'components/responsive';
+@import 'components/elementor-compatibility';

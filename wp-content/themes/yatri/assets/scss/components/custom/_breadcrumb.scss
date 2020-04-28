@@ -1,0 +1,93 @@
+.section-breadcrumb-wrap {
+  //margin-bottom: 50px;
+  text-align: center;
+  padding: 50px 0;
+  width: 100%;
+  background-repeat: no-repeat;
+  background: $breadcrumb_bg;
+  background-position: center center !important;
+  background-size: cover;
+  .page-title {
+
+    color: #fff;
+
+  }
+  .breadcrumb-trail {
+    font-size: 15px;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+}
+
+.home .section-breadcrumb-wrap, .home.page-template-home .section-breadcrumb-wrap {
+  margin-bottom: 0;
+}
+
+.breadcrumb-wrap .breadcrumbs {
+  color: #999999;
+  padding: 0;
+}
+
+.breadcrumb-wrap .breadcrumbs .trail-items {
+  margin: 0;
+  padding-left: 0;
+
+}
+
+.breadcrumb-wrap .breadcrumbs .trail-items li {
+  display: inline-block;
+  list-style: none;
+  text-decoration: inherit;
+}
+
+.breadcrumb-wrap .breadcrumbs .trail-items li:last-child span {
+  margin-right: 0;
+  color: #868686;
+  opacity: 1;
+  text-decoration: inherit;
+}
+
+.breadcrumb-wrap .breadcrumbs .trail-items {
+  span {
+
+    color: #fff;
+    opacity: 0.8;
+  }
+  li:hover {
+    span {
+      opacity: 1;
+    }
+  }
+}
+
+.breadcrumb-wrap .breadcrumbs .trail-items a {
+  color: #999999;
+  position: relative;
+  text-decoration: inherit;
+}
+
+.breadcrumb-wrap .breadcrumbs .trail-items a:after {
+  color: #cccccc;
+  bottom: 0;
+  content: "//";
+  text-align: center;
+  margin: auto;
+  -moz-transition: background-color 0.3s;
+  -o-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+  width: 30px;
+  display: inline-block;
+}
+
+.breadcrumb-wrap .breadcrumbs .trail-items a[rel="home"] span:after,
+body.home .breadcrumb-wrap .breadcrumbs .trail-items li:last-child > span:after {
+
+  content: "\f015";
+  font-family: "Font Awesome 5 Free";
+  margin-left: 5px;
+  font-weight: 600;
+}
+
+.breadcrumb-wrap .breadcrumbs .trail-items a:hover, .breadcrumb-wrap .breadcrumbs .trail-items a:focus, .breadcrumb-wrap .breadcrumbs .trail-items a:active {
+  color: $secondary_color;
+}

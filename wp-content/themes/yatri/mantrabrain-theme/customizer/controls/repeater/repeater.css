@@ -1,0 +1,112 @@
+.yatri-repeater-control .repeater-header {
+    padding: 5px 15px;
+    background: #fff;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.yatri-repeater-control .repeater-header span.toggle,
+.yatri-repeater-control .repeater-header span.trash {
+    float: right;
+    display: block;
+    height: 20px;
+    width: 20px;
+    line-height: 20px;
+    background: #fafafa;
+    font-size: 15px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    margin-left: 2px;
+
+}
+
+.yatri-repeater-control .repeater-header .repeater-actions {
+    float: right;
+}
+
+.yatri-repeater-control .repeater-header p {
+    margin: 0;
+    padding: 0;
+    float: left;
+    font-weight: 500;
+    max-width: calc(100% - 48px);
+}
+
+.yatri-repeater-control .repeater-header span.toggle:hover,
+.yatri-repeater-control .repeater-header span.trash:hover,
+.yatri-repeater-control .add-new:hover,
+.yatri-repeater-control .add-new:focus {
+    background: #e6e4e4;
+
+}
+
+.yatri-repeater-control .repeater-header:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.yatri-repeater-control .repeater-wrap {
+    padding: 0;
+    background: #fff;
+    margin-bottom: 4px;
+}
+
+.yatri-repeater-control .repeater-fields {
+    display: none;
+    padding: 0 15px 0 15px;
+    border: 1px solid #ddd;
+    margin-top: 1px;
+}
+
+.yatri-repeater-control .repeater-wrap.open .repeater-fields {
+
+}
+
+.yatri-repeater-control .repeater-wrap.open span.toggle:before {
+    content: "\f343";
+}
+
+.yatri-repeater-control .repeater-fields .repeater-item:last-child {
+    padding-bottom: 15px;
+}
+
+.yatri-repeater-control .add-new {
+    float: right;
+    margin-top: 5px;
+    padding: 3px;
+    box-shadow: none;
+    cursor: pointer;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+}
+
+.yatri-repeater-control input {
+    border-radius: 0;
+    border: 1px solid #ddd;
+}
+
+.yatri-repeater-control .repeater-item {
+    margin: 5px 0;
+    display: block;
+}
+
+.yatri-repeater-control .repeater-item:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.yatri-repeater-control .repeater-item.yatri-input-checkbox {
+    margin-top: 15px;
+}
+
+.yatri-repeater-control .repeater-item label.control-title {
+    display: block;
+    font-size: 14px;
+    line-height: 1.75;
+    font-weight: 600;
+
+}

@@ -1,0 +1,624 @@
+/*--------------------------------------------------------------
+2.0 Elements
+--------------------------------------------------------------*/
+
+.logged-in.admin-bar .ab-top-menu a,
+.logged-in.admin-bar .ab-top-menu a > p {
+  color: inherit !important;
+}
+
+.page-title {
+  font-size: 36px;
+  line-height: 42px;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  color: #6e6e6e;
+  margin-bottom: 15px;
+  display: block;
+}
+
+.pad0lr {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.ovrhidden {
+  overflow: hidden;
+}
+
+.post-thumb a {
+  bottom: 0;
+  height: 100%;
+  margin: auto;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 100%;
+  z-index: 9;
+}
+
+.site-branding .site-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 0;
+  margin-top: 0;
+  line-height: 1;
+}
+
+.site-branding .site-title a {
+  color: $menu_and_heading_color;
+}
+
+@media screen and (max-width: 575px) {
+  .site-branding .site-title {
+    font-size: 16px;
+  }
+}
+
+.site-branding .site-title:hover a, .site-branding .site-title:focus a, .site-branding .site-title:active a {
+  color: $secondary_color;
+}
+
+.site-branding img {
+  max-width: 230px;
+}
+
+@media screen and (max-width: 575px) {
+  .site-branding img {
+    max-width: 150px;
+  }
+}
+
+.site-branding:hover img, .site-branding:focus img, .site-branding:active img {
+  opacity: 0.7;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+  filter: alpha(opacity=70);
+}
+
+.site-branding:hover a, .site-branding:focus a, .site-branding:active a {
+  color: $secondary_color;
+}
+
+.site-branding .site-description {
+  color: #545454;
+  display: block;
+  font-size: 13px;
+  margin-bottom: 0;
+  margin-top: 5px;
+  line-height: 1.4;
+}
+
+.mar0lr {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.pad0lr {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.ovrhidden {
+  overflow: hidden;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+@import "social-group";
+@import "accessibility";
+
+/* Globally hidden elements when Infinite Scroll is supported and in use. */
+.infinite-scroll .posts-navigation,
+.infinite-scroll.neverending .site-footer {
+  /* Theme Footer (when set to scrolling) */
+  display: none;
+}
+
+/* When Infinite Scroll has reached its end we need to re-display elements that were hidden (via .neverending) before. */
+.infinity-end.neverending .site-footer {
+  display: block;
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+  outline: 0;
+}
+
+.clearfix:before, .clearfix:after,
+.entry-content:before,
+.entry-content:after,
+.comment-content:before,
+.comment-content:after,
+.site-header:before,
+.site-header:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after,
+.entry-content:after,
+.comment-content:after,
+.site-header:after {
+  clear: both;
+}
+
+.wrap-detail-page form label, .wrap-detail-page form .searchform .search-button, .searchform .wrap-detail-page form .search-button {
+  font-weight: 500;
+  font-size: 15px;
+  display: block;
+  margin-top: 15px;
+}
+
+.wrap-detail-page form input[type="submit"] {
+  width: 300px;
+  -webkit-transition: background-color 0.5s, border 0.5s;
+  -moz-transition: background-color 0.5s, border 0.5s;
+  -ms-transition: background-color 0.5s, border 0.5s;
+  -o-transition: background-color 0.5s, border 0.5s;
+  transition: background-color 0.5s, border 0.5s;
+  padding: 15px;
+  background-color: $primary_color;
+  line-height: 1.2;
+}
+
+@media screen and (max-width: 575px) {
+  .wrap-detail-page form input[type="submit"] {
+    width: 100%;
+  }
+}
+
+.wrap-detail-page form input[type="submit"]:hover, .wrap-detail-page form input[type="submit"]:focus, .wrap-detail-page form input[type="submit"]:active {
+  background-color: $secondary_color;
+  border-color: $secondary_color;
+  color: #ffffff;
+}
+
+.wrap-detail-page form.search-form label, .wrap-detail-page form.search-form .searchform .search-button, .searchform .wrap-detail-page form.search-form .search-button,
+.wrap-detail-page form.search-form .search-field {
+  margin: 0;
+}
+
+.wrap-detail-page .wpcf7-form input.wpcf7-form-control[type="submit"] {
+  width: 300px;
+  -webkit-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  -moz-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  -ms-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  -o-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  padding: 15px;
+}
+
+@media screen and (max-width: 575px) {
+  .wrap-detail-page .wpcf7-form input.wpcf7-form-control[type="submit"] {
+    width: 100%;
+  }
+}
+
+.wrap-detail-page .wpcf7-form input.wpcf7-form-control[type="submit"]:hover, .wrap-detail-page .wpcf7-form input.wpcf7-form-control[type="submit"]:focus, .wrap-detail-page .wpcf7-form input.wpcf7-form-control[type="submit"]:active {
+  background-color: $secondary_color;
+  border-color: $secondary_color;
+  color: #ffffff;
+}
+
+.wrap-detail-page .wpcf7-form label span, .wrap-detail-page .wpcf7-form .searchform .search-button span, .searchform .wrap-detail-page .wpcf7-form .search-button span {
+  display: block;
+}
+
+.wrap-detail-page .wpcf7-form label .wpcf7-form-control, .wrap-detail-page .wpcf7-form .searchform .search-button .wpcf7-form-control, .searchform .wrap-detail-page .wpcf7-form .search-button .wpcf7-form-control {
+  margin-top: 15px;
+  border: 2px solid #e1e1e1;
+  background-color: #ffffff;
+}
+
+.wrap-detail-page .wpcf7 label, .wrap-detail-page .wpcf7 .searchform .search-button, .searchform .wrap-detail-page .wpcf7 .search-button {
+  width: 100%;
+  font-weight: 400;
+  color: #a1a1a1;
+  font-size: 13px;
+}
+
+.wrap-detail-page .wpcf7 input,
+.wrap-detail-page .wpcf7 textarea {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -ms-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  font-size: 13px;
+  height: 46px;
+  margin: 0;
+  width: 100%;
+  border: 2px solid #e1e1e1;
+  background: transparent;
+  padding: 10px 5px 8px 15px;
+  -webkit-transition: background-color 0.3s;
+  -moz-transition: background-color 0.3s;
+  -ms-transition: background-color 0.3s;
+  -o-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+}
+
+.wrap-detail-page .wpcf7 input::-webkit-input-placeholder, .wrap-detail-page .wpcf7 textarea::-webkit-input-placeholder {
+  color: #b3b3b3;
+  -webkit-transition: color 0.5s linear 0.5s;
+  -moz-transition: color 0.5s linear 0.5s;
+  -ms-transition: color 0.5s linear 0.5s;
+  -o-transition: color 0.5s linear 0.5s;
+  transition: color 0.5s linear 0.5s;
+}
+
+.wrap-detail-page .wpcf7 input:-moz-placeholder, .wrap-detail-page .wpcf7 textarea:-moz-placeholder {
+  color: #b3b3b3;
+  -webkit-transition: color 0.5s linear 0.5s;
+  -moz-transition: color 0.5s linear 0.5s;
+  -ms-transition: color 0.5s linear 0.5s;
+  -o-transition: color 0.5s linear 0.5s;
+  transition: color 0.5s linear 0.5s;
+}
+
+.wrap-detail-page .wpcf7 input::-moz-placeholder, .wrap-detail-page .wpcf7 textarea::-moz-placeholder {
+  color: #b3b3b3;
+  -webkit-transition: color 0.5s linear 0.5s;
+  -moz-transition: color 0.5s linear 0.5s;
+  -ms-transition: color 0.5s linear 0.5s;
+  -o-transition: color 0.5s linear 0.5s;
+  transition: color 0.5s linear 0.5s;
+}
+
+.wrap-detail-page .wpcf7 input:-ms-input-placeholder, .wrap-detail-page .wpcf7 textarea:-ms-input-placeholder {
+  color: #b3b3b3;
+  -webkit-transition: color 0.5s linear 0.5s;
+  -moz-transition: color 0.5s linear 0.5s;
+  -ms-transition: color 0.5s linear 0.5s;
+  -o-transition: color 0.5s linear 0.5s;
+  transition: color 0.5s linear 0.5s;
+}
+
+.wrap-detail-page .wpcf7 input:focus, .wrap-detail-page .wpcf7 input:active,
+.wrap-detail-page .wpcf7 textarea:focus,
+.wrap-detail-page .wpcf7 textarea:active {
+  background-color: #ffffff;
+}
+
+.wrap-detail-page .wpcf7 input:focus::-webkit-input-placeholder, .wrap-detail-page .wpcf7 input:active::-webkit-input-placeholder, .wrap-detail-page .wpcf7 textarea:focus::-webkit-input-placeholder, .wrap-detail-page .wpcf7 textarea:active::-webkit-input-placeholder {
+  font-size: 0px;
+  color: #ffffff;
+}
+
+.wrap-detail-page .wpcf7 input:focus:-moz-placeholder, .wrap-detail-page .wpcf7 input:active:-moz-placeholder, .wrap-detail-page .wpcf7 textarea:focus:-moz-placeholder, .wrap-detail-page .wpcf7 textarea:active:-moz-placeholder {
+  font-size: 0px;
+  color: #ffffff;
+}
+
+.wrap-detail-page .wpcf7 input:focus::-moz-placeholder, .wrap-detail-page .wpcf7 input:active::-moz-placeholder, .wrap-detail-page .wpcf7 textarea:focus::-moz-placeholder, .wrap-detail-page .wpcf7 textarea:active::-moz-placeholder {
+  font-size: 0px;
+  color: #ffffff;
+}
+
+.wrap-detail-page .wpcf7 input:focus:-ms-input-placeholder, .wrap-detail-page .wpcf7 input:active:-ms-input-placeholder, .wrap-detail-page .wpcf7 textarea:focus:-ms-input-placeholder, .wrap-detail-page .wpcf7 textarea:active:-ms-input-placeholder {
+  font-size: 0px;
+  color: #ffffff;
+}
+
+.wrap-detail-page .wpcf7 textarea {
+  min-height: 100px;
+}
+
+.wrap-detail-page .wpcf7 input[type="submit"] {
+  background-color: $primary_color;
+  border: 1px solid $primary_color;
+  -webkit-transition: background-color 0.3s, border-color 0.3s;
+  -moz-transition: background-color 0.3s, border-color 0.3s;
+  -ms-transition: background-color 0.3s, border-color 0.3s;
+  -o-transition: background-color 0.3s, border-color 0.3s;
+  transition: background-color 0.3s, border-color 0.3s;
+  max-width: 220px;
+  height: 46px;
+  padding: 0;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  border-radius: 20px;
+}
+
+.wrap-detail-page .wpcf7 input[type="submit"]:hover, .wrap-detail-page .wpcf7 input[type="submit"]:active, .wrap-detail-page .wpcf7 input[type="submit"]:focus {
+  background-color: $secondary_color;
+  border: 1px solid $secondary_color;
+  color: #ffffff;
+  max-width: 220px;
+  padding: 0;
+  font-size: 13px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 767px) {
+  .wrap-detail-page .wpcf7 input[type="submit"] {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group {
+  position: relative;
+  margin-bottom: 0;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group:before, .wrap-detail-page .yatri-contact-form-area .form-group:after {
+  content: " ";
+  display: table;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group:after {
+  clear: both;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group .form-control {
+  margin-bottom: 0;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group input.form-control,
+.wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -ms-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  font-size: 13px;
+  height: 46px;
+  border: 2px solid #e1e1e1;
+  background: transparent;
+  padding: 10px 5px 8px 15px;
+  -webkit-transition: background-color 0.3s;
+  -moz-transition: background-color 0.3s;
+  -ms-transition: background-color 0.3s;
+  -o-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group input.form-control:focus, .wrap-detail-page .yatri-contact-form-area .form-group input.form-control:active,
+.wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:focus,
+.wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:active {
+  background-color: #ffffff;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group input.form-control:focus::-webkit-input-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group input.form-control:active::-webkit-input-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:focus::-webkit-input-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:active::-webkit-input-placeholder {
+  font-size: 0px;
+  color: #ffffff;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group input.form-control:focus:-moz-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group input.form-control:active:-moz-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:focus:-moz-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:active:-moz-placeholder {
+  font-size: 0px;
+  color: #ffffff;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group input.form-control:focus::-moz-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group input.form-control:active::-moz-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:focus::-moz-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:active::-moz-placeholder {
+  font-size: 0px;
+  color: #ffffff;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group input.form-control:focus:-ms-input-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group input.form-control:active:-ms-input-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:focus:-ms-input-placeholder, .wrap-detail-page .yatri-contact-form-area .form-group textarea.form-control:active:-ms-input-placeholder {
+  font-size: 0px;
+  color: #ffffff;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group input.form-control[type="submit"] {
+  background-color: $primary_color;
+  border: 1px solid $primary_color;
+  float: left;
+  margin-top: 20px;
+  max-width: 220px;
+  padding: 0;
+  -webkit-transition: background-color 0.3s, border-color 0.3s;
+  -moz-transition: background-color 0.3s, border-color 0.3s;
+  -ms-transition: background-color 0.3s, border-color 0.3s;
+  -o-transition: background-color 0.3s, border-color 0.3s;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group input.form-control[type="submit"]:hover, .wrap-detail-page .yatri-contact-form-area .form-group input.form-control[type="submit"]:focus, .wrap-detail-page .yatri-contact-form-area .form-group input.form-control[type="submit"]:active {
+  padding: 14px 0 12px;
+  background-color: $secondary_color;
+  border-color: $secondary_color;
+  max-width: 220px;
+  padding: 0;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group textarea {
+  min-height: 100px;
+  width: 100%;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group label, .wrap-detail-page .yatri-contact-form-area .form-group .searchform .search-button, .searchform .wrap-detail-page .yatri-contact-form-area .form-group .search-button {
+  color: #6e6e6e;
+  font-size: 13px;
+  display: inline-block;
+  top: 13px;
+  left: 16px;
+  position: absolute;
+  opacity: 0;
+  -webkit-transition: top 0.1s, opacity 0.1s;
+  -moz-transition: top 0.1s, opacity 0.1s;
+  -ms-transition: top 0.1s, opacity 0.1s;
+  -o-transition: top 0.1s, opacity 0.1s;
+  transition: top 0.1s, opacity 0.1s;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group label sup, .wrap-detail-page .yatri-contact-form-area .form-group .searchform .search-button sup, .searchform .wrap-detail-page .yatri-contact-form-area .form-group .search-button sup {
+  color: gray;
+  font-size: 15px;
+  top: 1px;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group label.move, .wrap-detail-page .yatri-contact-form-area .form-group .searchform .move.search-button, .searchform .wrap-detail-page .yatri-contact-form-area .form-group .move.search-button {
+  -webkit-transition: top 0.5s, opacity 0.5s;
+  -moz-transition: top 0.5s, opacity 0.5s;
+  -ms-transition: top 0.5s, opacity 0.5s;
+  -o-transition: top 0.5s, opacity 0.5s;
+  transition: top 0.5s, opacity 0.5s;
+  font-weight: 300;
+  opacity: 1;
+  top: -39px;
+  color: #3b3b3b;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group .ajax-loader {
+  margin: 35px 0 0 15px;
+}
+
+@media screen and (max-width: 767px) {
+  .wrap-detail-page .yatri-contact-form-area .form-group .ajax-loader {
+    margin-top: 10px;
+  }
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group .cleaner {
+  background-color: transparent;
+  color: #b3b3b3;
+  float: right;
+  width: 100px;
+  font-size: 13px;
+  padding-right: 0;
+  border: none;
+  margin-top: 28px;
+}
+
+@media screen and (max-width: 767px) {
+  .wrap-detail-page .yatri-contact-form-area .form-group .cleaner {
+    margin-top: 10px;
+  }
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group .cleaner span {
+  font-size: 18px;
+  color: #b3b3b3;
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: -4px;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group .cleaner:hover, .wrap-detail-page .yatri-contact-form-area .form-group .cleaner:active, .wrap-detail-page .yatri-contact-form-area .form-group .cleaner:focus {
+  color: $secondary_color;
+  outline: none;
+}
+
+.wrap-detail-page .yatri-contact-form-area .form-group .cleaner:hover span, .wrap-detail-page .yatri-contact-form-area .form-group .cleaner:active span, .wrap-detail-page .yatri-contact-form-area .form-group .cleaner:focus span {
+  color: $secondary_color;
+}
+
+@media screen and (max-width: 991px) {
+  .wrap-detail-page .yatri-contact-form-area .form-group .cleaner {
+    width: 100%;
+    text-align: left;
+    padding-left: 0;
+  }
+}
+
+.block-title {
+  text-align: center;
+}
+
+.section-title-group {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+@media screen and (max-width: 767px) {
+  .section-title-group {
+    margin-bottom: 45px;
+  }
+}
+
+.sub-title {
+  color: #6e6e6e;
+  font-size: 16px;
+  font-weight: 400;
+
+  text-transform: uppercase;
+}
+
+.sub-title p {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.box-title {
+  color: #3b3b3b;
+  font-size: 20px;
+}
+
+.yatri-main-wrap {
+  width: 100%;
+}
+
+.cat {
+  display: inline-block;
+  background: rgba(33, 33, 33, 0.7);
+  a {
+    color: #ffffff;
+    display: block;
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+}
+
+.wp-block-cover, .wp-block-cover-image {
+  margin-bottom: 20px;
+}
+
+.masonry-wrapper {
+  .masonry-grid {
+    padding: 0 10px;
+    float: left;
+    clear: none;
+    border: none;
+    article {
+      box-shadow: 0 0 18px #f5eeee;
+    }
+  }
+}
+
+body.archive, body.blog, body.search-results, body.single {
+
+  .yatri-main-wrap {
+    article.single-post-wrap {
+      .post-content-inner {
+        .meta, .post-title, .post-text, .button-container, .feature-image, .yatri-taxonomy-wrap {
+          padding: 10px 0px;
+          margin: 0;
+          p, h3 {
+            margin: 0;
+          }
+        }
+        .yatri-content-item {
+          &:first-child {
+            padding-top: 0;
+          }
+        }
+      }
+    }
+  }
+}
+
+body {
+  .entry-title {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.3;
+    color: $menu_and_heading_color;
+
+    a {
+      font-size: inherit;
+    }
+  }
+}

@@ -1,0 +1,29 @@
+body.yatri_full_width_100_layout {
+  section.site-content {
+    padding: 0;
+    margin: 0;
+    .yat-container {
+      max-width: 100% !important;
+      width: 100% !important;
+
+    }
+  }
+  &.yatri-single-page {
+    .site-content {
+      article {
+        margin: 0;
+        padding: 0;
+
+      }
+    }
+  }
+  &.yatri-single-post {
+    section.site-content {
+      .yatri-main-wrap .post-main-content > article {
+        margin: 0;
+        padding: 0;
+
+      }
+    }
+  }
+}

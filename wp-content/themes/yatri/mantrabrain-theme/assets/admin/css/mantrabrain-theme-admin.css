@@ -1,0 +1,206 @@
+.widget-content .mb-repeator-field {
+    display: block;
+    padding: 12px 10px;
+    border: 1px solid #aaa;
+    margin: 5px 0;
+    background: #f9f9f9;
+    position: relative;
+}
+
+.widget-content .mb-repeator-field-tmpl {
+    display: none;
+}
+
+.widget-content .mb-repeator-field .action-btn,
+.widget-content .mb-repeator-field-tmpl .action-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 0;
+    height: auto;
+    line-height: 1em;
+    display: block;
+}
+
+.widget-content .mb-repeator-field .toggle-action,
+.widget-content .mb-repeator-field-tmpl .toggle-action {
+    position: absolute;
+    left: 0;
+    top: 0;
+    border-radius: 0;
+    height: 23px;
+    width: 23px;
+    /* background: none; */
+    border: none;
+}
+
+.widget-content .mb-repeator-field.toggle-on .mb-repeator-content {
+    display: none;
+}
+
+.widget-content .mb-repeator-field .toggle-action i.dashicons {
+    position: absolute;
+    left: 1px;
+    top: 1px;
+}
+
+.widget-content .mb-repeator-field .toggle-action i.dashicons:after {
+
+    content: "\f142";
+}
+
+.widget-content .mb-repeator-field.toggle-on .toggle-action i.dashicons:after {
+
+    content: "\f140";
+}
+
+.widget-content .mb-repeator-field .action-btn.add .dashicons::before,
+.widget-content .mb-repeator-field-tmpl .action-btn.add .dashicons::before {
+    content: "\f132";
+}
+
+.widget-content .mb-repeator-field .action-btn.remove .dashicons::before,
+.widget-content .mb-repeator-field-tmpl .action-btn.remove .dashicons::before {
+    content: "\f158";
+}
+
+.widget-content .mb-repeator-field .mb-repeator-content {
+
+}
+
+input.button.button-secondary.btn-image-remove,
+input.select-img.button.button-primary {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.widget-custom-info {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 5px 0;
+}
+
+.multiple-checkbox-holder {
+    border: 1px solid #ddd;
+    max-height: 145px;
+    overflow: auto;
+    padding: 0 10px;
+}
+
+/* ICON PICKER */
+.ae-icon-list {
+    width: 100%;
+    max-height: 250px;
+    background: #f9f9f9;
+    border: 1px solid #c1c1c1;
+    overflow: scroll;
+    display: none;
+}
+
+.ae-icon-picker-wrapper:after {
+    clear: both;
+    display: block;
+    content: '';
+}
+
+.ae-icon-list ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    padding: 8px;
+}
+
+.ae-icon-list li i {
+    font-size: 15px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.ae-icon-list li {
+    float: left;
+    height: 35px;
+    width: 35px;
+    text-align: center;
+    line-height: 35px;
+    background: #ededed;
+    margin: 5px;
+    cursor: pointer;
+
+}
+
+.ae-icon-picker-wrapper small:before {
+    clear: both;
+    content: '';
+    display: block;
+
+}
+
+.ae-icon-picker-wrapper label {
+
+    display: block;
+}
+
+.ae-icon-picker-wrapper .widefat {
+    width: 50%;
+    float: left;
+    background: #f9f9f9;
+    outline: none;
+    color: #292323;
+    padding: 9px;
+    font-weight: bold;
+    border: 1px solid #0a41a9;
+}
+
+.ae-icon-picker-wrapper .selected-icon {
+    width: 35%;
+    float: right;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.ae-icon-picker-wrapper .toggle-icon {
+    border-radius: 0;
+    float: left;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    background: #0a41a9;
+    height: 39px;
+    width: 30px;
+    line-height: 38px;
+    color: #fff;
+}
+
+.ae-icon-picker-wrapper {
+    position: relative;
+}
+
+.ae-icon-list li.active, .ae-icon-list li:hover {
+    background: #8363ff;
+    color: #fff;
+}
+
+div[id*="yatri"].widget .widget-top {
+/ / position: relative;
+}
+
+div[id*="yatri"].widget .widget-top:after {
+    /* content: '';
+     width: 8px;
+     height: 100%;
+     background: #0188cc;
+     position: absolute;
+     top: 0;*/
+}
+
+div[id*="yatri"].widget h3 {
+
+    /* background: #d2cbfd;
+     color: #000;*/
+
+}

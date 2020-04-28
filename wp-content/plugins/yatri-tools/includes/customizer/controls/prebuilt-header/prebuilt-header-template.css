@@ -1,0 +1,89 @@
+.yatri-prebuilt-template-wrap {
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    border: 1px solid #dddd;
+    height: 400px;
+    background: #edfdff;
+    z-index: 99;
+    max-width: 90%;
+    padding: 10px;
+    padding-top: 39px;
+    overflow-y: auto;
+    box-shadow: 7px 5px 9px rgba(0, 0, 0, 0.2);
+    top: -10000px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.yatri-prebuilt-template-wrap.open {
+    top: 0;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.yatri-prebuilt-template-wrap img {
+    max-width: 100%;
+    min-height: 10px;
+    margin: 0;
+
+}
+
+.yatri-prebuilt-template-wrap label {
+    max-width: 100%;
+    display: block;
+    padding: 0;
+    position: relative;
+    margin: 10px 0;
+    line-height: 100%;
+    border: 1px solid #008ec2;
+
+
+}
+
+.yatri-prebuilt-template-wrap .button {
+    position: absolute;
+    right: 8px;
+    border-radius: 20px;
+    z-index: 9999;
+    display: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-transform: uppercase;
+    background: #fcff47;
+    border-width: 2px;
+    font-weight: 500;
+    top: 10px;
+}
+
+.yatri-prebuilt-template-wrap label:hover:after {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    border: 1px solid #008ec2;
+
+}
+
+.yatri-prebuilt-template-wrap label:hover .button {
+    display: block;
+    background: #fcff47;
+
+}

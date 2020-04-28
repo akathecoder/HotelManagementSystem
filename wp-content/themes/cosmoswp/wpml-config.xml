@@ -1,0 +1,27 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_cosmoswp">
+			<key name="ajax-show-more" /><!--1-->
+			<key name="ajax-no-more" /><!--2-->
+			<key name="dd-search-placeholder" /><!--101-->
+			<key name="normal-search-placeholder" /><!--111-->
+			<key name="menu-open-text" /><!--194-->
+			<key name="menu-close-text" /><!--195-->
+			<key name="button-one-text" /><!--216-->
+			<key name="contact-information-data"/><!--229-->
+			<key name="html-container" /><!--244-->
+			<key name="footer-menu-title" /><!--337-->
+			<key name="footer_copyright" /><!--368-->
+			<key name="footer-html-container" /><!--373-->
+			<key name="blog-main-title" /><!--411-->
+			<key name="blog-read-more-text" /><!--420-->
+			<key name="scroll-top-text" /><!--485-->
+			<key name="search-placeholder" /><!--494-->
+			<key name="cosmoswp-comment-title" /><!--497-->
+			<key name="cosmoswp-comment-button-text" /><!--498-->
+			<key name="cosmoswp-comment-notes-after" /><!--499-->
+			<key name="cwc-archive-psp-sm-open-text" /><!--499-->
+			<key name="cwc-archive-psp-sm-close-text" /><!--499-->
+		</key>
+	</admin-texts>
+</wpml-config>

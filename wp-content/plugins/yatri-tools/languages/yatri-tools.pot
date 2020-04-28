@@ -1,0 +1,1150 @@
+# Copyright (C) 2020 Mantrabrain
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yatri Tools 1.0.11\n"
+"Report-Msgid-Bugs-To: mantrabrain@gmail.com\n"
+"POT-Creation-Date: 2020-03-17 10:00:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Mantrabrain <mantrabrain@gmail.com>\n"
+"Language-Team: Mantrabrain <mantrabrain@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:172
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:193
+msgid "1"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:173
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:194
+msgid "2"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:174
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:195
+msgid "3"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:175
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:196
+msgid "4"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:176
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:197
+msgid "5"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:177
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:198
+msgid "6"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:178
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:199
+msgid "7"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:179
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:200
+msgid "8"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:180
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:201
+msgid "9"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:181
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:202
+msgid "10"
+msgstr ""
+
+#: includes/admin/class-yatri-tools-admin.php:19
+#: includes/admin/class-yatri-tools-admin.php:20
+msgid "Yatri Options"
+msgstr ""
+
+#: includes/admin/templates/feedback-form-failed.php:3
+msgid "Problem during demo import?"
+msgstr ""
+
+#: includes/admin/templates/feedback-form-failed.php:15
+msgid "Leave us your message. We will help you to import demo data."
+msgstr ""
+
+#: includes/admin/templates/feedback-form-failed.php:18
+msgid ""
+"Clicking on send button will send your message, admin email, website url, "
+"selected demo name, php and wordpress version"
+msgstr ""
+
+#: includes/admin/templates/feedback-form-failed.php:20
+msgid "Send message"
+msgstr ""
+
+#: includes/admin/templates/feedback-form.php:10
+msgid "Do  you have any suggestion? You can give us feedback from here."
+msgstr ""
+
+#: includes/admin/templates/feedback-form.php:13
+msgid ""
+"Clicking on send button will send your feedback message, admin email, "
+"website url and installed demo name."
+msgstr ""
+
+#: includes/admin/templates/feedback-form.php:15
+msgid "Send"
+msgstr ""
+
+#: includes/cache/class-yatri-tools-customizer-cache.php:133
+msgid "Theme Cache"
+msgstr ""
+
+#: includes/cache/class-yatri-tools-customizer-cache.php:147
+msgid "Customizer Cache"
+msgstr ""
+
+#: includes/cache/sections/customizer-cache.php:12
+msgid "Dynamic CSS Caching"
+msgstr ""
+
+#: includes/cache/sections/customizer-cache.php:17
+msgid "Seperate CSS file"
+msgstr ""
+
+#: includes/cache/sections/customizer-cache.php:18
+msgid "Inline CSS"
+msgstr ""
+
+#: includes/class-yatri-tools.php:108 includes/class-yatri-tools.php:118
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/customizer/controls/class-yatri-tools-customizer-control-prebuilt-header-templates.php:108
+msgid "Open Templates"
+msgstr ""
+
+#: includes/customizer/controls/class-yatri-tools-customizer-control-prebuilt-header-templates.php:110
+msgid "Export Current Header"
+msgstr ""
+
+#: includes/customizer/prebuilt-header/prebuilt-header.php:5
+#: includes/customizer/prebuilt-header/prebuilt-header.php:24
+msgid "Prebuilt Header Templates"
+msgstr ""
+
+#: includes/elementor/class-yatri-tools-elementor.php:69
+#: includes/elementor/class-yatri-tools-elementor.php:94
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: includes/elementor/class-yatri-tools-elementor.php:70
+#: includes/elementor/class-yatri-tools-elementor.php:95
+msgid "Yatri Tools Elementor"
+msgstr ""
+
+#: includes/elementor/class-yatri-tools-elementor.php:71
+msgid "Elementor"
+msgstr ""
+
+#: includes/elementor/class-yatri-tools-elementor.php:96
+msgid "PHP"
+msgstr ""
+
+#: includes/elementor/class-yatri-tools-elementor.php:125
+msgid "Widgets"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:26
+msgid "Counter"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:54
+msgid "Yatri Counter"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:61
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:64
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:54
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:132
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:95
+msgid "Title"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:63
+msgid "Cups of Coffee"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:71
+msgid "Starting Number"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:80
+msgid "Ending Number"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:89
+msgid "Number Prefix"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:91
+msgid "₹"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:98
+msgid "Number Suffix"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:100
+msgid "/-"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:107
+msgid "Show Icon"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:109
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:81
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:107
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:120
+msgid "Show"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:110
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:82
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:108
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:121
+msgid "Hide"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:119
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:150
+msgid "Icon"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:134
+msgid "Thousand Separator"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:138
+msgid "None"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:139
+msgid "Comma"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:140
+msgid "Dot"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:148
+msgid "Animation Duration"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:160
+msgid "Icon Styling"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:171
+msgid "Icon Spacing"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:196
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:398
+msgid "Size"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:218
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:846
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:375
+msgid "Padding"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:240
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:294
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:343
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:491
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:552
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:616
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:506
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:558
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:589
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:656
+msgid "Color"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:251
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:329
+msgid "Background Color"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:263
+msgid "Icon Border Type"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:271
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:388
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:820
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:349
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:451
+msgid "Border Radius"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:286
+msgid "Counter Styling"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:319
+msgid "Counter Position"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:323
+msgid "Above Title"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:324
+msgid "Below Title"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-counter-widget.php:335
+msgid "Title Styling"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:27
+msgid "Skillbar"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:47
+msgid "Yatri Skillbar"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:56
+msgid "Web Design"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:64
+msgid "Percentage"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:77
+msgid "Display % Number"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:90
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:317
+msgid "Style"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:94
+msgid "Inner"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:95
+msgid "Outside"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:103
+msgid "Display Stripe"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:116
+msgid "View"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:127
+msgid "Skill Bar"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:135
+msgid "Background"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:146
+msgid "Bar Color"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:157
+msgid "Inset Shadow"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:161
+msgid "Yes"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-skillbar-widget.php:162
+msgid "No"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:29
+msgid "Team"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:52
+msgid "Yatri Team"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:59
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:439
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:86
+msgid "Name"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:67
+msgid "Team Avatar"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:86
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:519
+msgid "Designation"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:95
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:580
+msgid "About"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:111
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:118
+msgid "Show Social Icons"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:141
+msgid "Link"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:143
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:287
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:295
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:303
+msgid "#"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:222
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:750
+msgid "Icon Color"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:234
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:769
+msgid "Icon Background"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:245
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:783
+msgid "Icon Hover Color"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:256
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:797
+msgid "Icon Hover Background"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:267
+msgid "Icon Hover border color"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:282
+msgid "Facebook"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:290
+msgid "Twitter"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:298
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:325
+msgid "Alignment"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:329
+msgid "Left"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:333
+msgid "Center"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:337
+msgid "Right"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:341
+msgid "Justified"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:358
+msgid "Image"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:366
+msgid "Image Spacing"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:410
+msgid "Image Width"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:450
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:530
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:591
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:712
+msgid "Spacing"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:472
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:476
+msgid "H1"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:477
+msgid "H2"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:478
+msgid "H3"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:479
+msgid "H4"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:480
+msgid "H5"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:481
+msgid "H6"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:482
+msgid "P"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:483
+msgid "DIV"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:644
+msgid "Social Icons"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:652
+msgid "Font Size"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:674
+msgid "Spacing Between Icons"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:696
+msgid "Icons Position"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:700
+msgid "Before Bio"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:701
+msgid "After Bio"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:737
+msgid "Icon Color Type"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:741
+msgid "Brand Colors"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:742
+msgid "Custom"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:812
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:443
+msgid "Border Type"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-team-widget.php:832
+msgid "Border Hover Color"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:28
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:299
+msgid "Testimonial"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:56
+msgid "Yatri Testimonial"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:67
+msgid "Testimonial Avatar"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:104
+msgid "Company URL"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:106
+msgid "https://your-company-link.com"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:119
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:476
+msgid "Content"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:121
+msgid "Type your description here"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:131
+msgid "Testimonials"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:138
+msgid "Darth Vader"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:139
+msgid "Digital Overlord"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:144
+msgid "Yoda"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:145
+msgid "Digita Master"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:168
+msgid "Slides To Show"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:189
+msgid "Slides To Scroll"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:212
+msgid "Navigation"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:219
+msgid "Show Arrows"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:221
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:245
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:271
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:286
+msgid "On"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:222
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:246
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:272
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:287
+msgid "Off"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:231
+msgid "Transition Speed"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:243
+msgid "Enable Autoplay"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:255
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:269
+msgid "Pause on Hover"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:284
+msgid "Infinite Loop"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:307
+msgid "Space Between Slides"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:341
+msgid "Border"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:390
+msgid "Avatar"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:420
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:484
+msgid "Gap"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:526
+msgid "Primary Color"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:541
+msgid "Author"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:572
+msgid "Author Title"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:604
+msgid "Pagination"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:612
+msgid "Arrows - Font Size"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:634
+msgid "Dots - Font Size"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:667
+msgid "Previous Icon"
+msgstr ""
+
+#: includes/elementor/widgets/class-yatri-tools-elementor-testimonial-widget.php:679
+msgid "Next Icon"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:34
+msgid "Install Demos"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:62
+msgid "Yatri Theme Demos"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:76
+msgid "All"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:86
+msgid "Search demos..."
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:112
+msgid "Select Demo"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:132
+msgid "Live Preview"
+msgstr ""
+
+#: includes/panel/classes/importers/class-parsers.php:42
+#: includes/panel/classes/importers/class-parsers.php:72
+#: includes/panel/classes/importers/class-parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/panel/classes/importers/class-parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/panel/classes/importers/class-parsers.php:84
+#: includes/panel/classes/importers/class-parsers.php:89
+#: includes/panel/classes/importers/class-parsers.php:306
+#: includes/panel/classes/importers/class-parsers.php:495
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:84
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:106
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:127
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:185
+msgid "Imported"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:189
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:195
+msgid "No Title"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:132
+#: includes/panel/classes/importers/class-wordpress-importer.php:141
+#: includes/panel/classes/importers/class-wordpress-importer.php:192
+#: includes/panel/classes/importers/class-wordpress-importer.php:196
+#: includes/panel/classes/importers/class-wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:197
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:213
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:238
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of "
+"this site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:267
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually "
+"changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:372
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:424
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:467
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:516
+#: includes/panel/classes/importers/class-wordpress-importer.php:738
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:605
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:642
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:704
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:876
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:954
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:967
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1011
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1017
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1024
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1029
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1035
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1134
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1141
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1156
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1157
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/panel/demos.php:120
+msgid ""
+"There was a problem during the importing process resulting in the following "
+"error from your server:"
+msgstr ""
+
+#: includes/panel/demos.php:121
+msgid "Activating"
+msgstr ""
+
+#: includes/panel/demos.php:122
+msgid "Active"
+msgstr ""
+
+#: includes/panel/demos.php:123 includes/panel/demos.php:399
+msgid "Activated"
+msgstr ""
+
+#: includes/panel/demos.php:268
+msgid "Import the %1$s %2$s %3$s demo"
+msgstr ""
+
+#: includes/panel/demos.php:274
+msgid ""
+"Yatri tools help you browse and import ready made websites with few clicks. "
+"We recommend you to upload sample data on a fresh WordPress install to "
+"prevent conflicts with your current content. You can use this plugin to "
+"reset your site if needed: %1$sWordpress Database Reset%2$s."
+msgstr ""
+
+#: includes/panel/demos.php:280
+msgid "Recommended Plugins"
+msgstr ""
+
+#: includes/panel/demos.php:281
+msgid ""
+"For your site to look exactly like this demo, the plugins below need to be "
+"activated."
+msgstr ""
+
+#: includes/panel/demos.php:292
+msgid "Next"
+msgstr ""
+
+#: includes/panel/demos.php:303
+msgid "Select what you want to import:"
+msgstr ""
+
+#: includes/panel/demos.php:310
+msgid "Import XML Data"
+msgstr ""
+
+#: includes/panel/demos.php:311
+msgid "pages, posts, images, menus, etc..."
+msgstr ""
+
+#: includes/panel/demos.php:319
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: includes/panel/demos.php:327
+msgid "Import Widgets"
+msgstr ""
+
+#: includes/panel/demos.php:337
+msgid "Install"
+msgstr ""
+
+#: includes/panel/demos.php:342
+msgid "The import process could take some time, please be patient"
+msgstr ""
+
+#: includes/panel/demos.php:350
+msgid "Congratulations"
+msgstr ""
+
+#: includes/panel/demos.php:352
+msgid "Successfully Demo Imported!"
+msgstr ""
+
+#: includes/panel/demos.php:357
+msgid "View Your Site"
+msgstr ""
+
+#: includes/panel/demos.php:388
+msgid "Activate"
+msgstr ""
+
+#: includes/panel/demos.php:394
+msgid "Install Now"
+msgstr ""
+
+#: includes/panel/demos.php:413
+msgid "Get This Addon"
+msgstr ""
+
+#: includes/panel/demos.php:441
+msgid "No plugin specified"
+msgstr ""
+
+#: includes/panel/demos.php:461
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: includes/panel/demos.php:485
+msgid "Importing XML Data"
+msgstr ""
+
+#: includes/panel/demos.php:492
+msgid "Importing Customizer Settings"
+msgstr ""
+
+#: includes/panel/demos.php:499
+msgid "Importing Widgets"
+msgstr ""
+
+#: includes/panel/demos.php:733
+msgid ""
+"Can not retrieve sample data xml file. The server may be down at the moment "
+"please try again later. If you still have issues contact the theme "
+"developer for assistance."
+msgstr ""
+
+#: includes/panel/demos.php:748
+msgid ""
+"The xml import file could not be accessed. Please try again or contact the "
+"theme developer."
+msgstr ""
+
+#: includes/panel/demos.php:786
+msgid "Can not retrieve class-wp-importer.php"
+msgstr ""
+
+#: includes/panel/demos.php:796
+msgid "Can not retrieve wordpress-importer.php"
+msgstr ""
+
+#: includes/panel/demos.php:807
+msgid "Sample data file appears corrupt or can not be accessed."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Yatri Tools"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/yatri-tools"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extend Yatri theme feature with demo importer functionality, prebuilt "
+"header templates & add Elementor widgets, blocks, pages template library"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mantrabrain"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://mantrabrain.com/"
+msgstr ""

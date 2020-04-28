@@ -1,0 +1,163 @@
+
+input[type="button"],
+input[type="reset"],
+input[type="submit"], input[type="button"]:hover, input[type="button"]:active, input[type="button"]:focus,
+input[type="reset"]:hover,
+input[type="reset"]:active,
+input[type="reset"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:active,
+input[type="submit"]:focus, .button, .button:hover, .button:active, .button:focus, .default-button, .default-button:hover, .default-button:active, .default-button:focus, .button-primary, .button-light, .button-outline, .button-outline:hover, .button-outline:focus, .button-outline:active, .comments-area .comment-list .reply a {
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;
+  font-weight: 600;
+  outline: none;
+  line-height: 1;
+  //padding: 12px 30px 13px;
+  position: relative;
+  -webkit-transition: color 0.3s, background-color 0.3s, border 0.3s;
+  -moz-transition: color 0.3s, background-color 0.3s, border 0.3s;
+  -ms-transition: color 0.3s, background-color 0.3s, border 0.3s;
+  -o-transition: color 0.3s, background-color 0.3s, border 0.3s;
+  transition: color 0.3s, background-color 0.3s, border 0.3s;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover, .button:hover, .default-button:hover, .button-primary:hover, .button-light:hover, .button-outline:hover, .comments-area .comment-list .reply a:hover, input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus, .button:focus, .default-button:focus, .button-primary:focus, .button-light:focus, .button-outline:focus, .comments-area .comment-list .reply a:focus, input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active, .button:active, .default-button:active, .button-primary:active, .button-light:active, .button-outline:active, .comments-area .comment-list .reply a:active {
+  background-color: $secondary_color;
+  color: #ffffff;
+}
+
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  border: none;
+  background-color: $primary_color;
+  color: #ffffff;
+  -webkit-transition: background-color 0.3s;
+  -moz-transition: background-color 0.3s;
+  -ms-transition: background-color 0.3s;
+  -o-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+}
+
+input[type="submit"] {
+  padding: 13px 15px;
+}
+
+input[type="submit"]:before {
+  display: none;
+}
+
+.default-button {
+  background-color: $primary_color;
+  color: #ffffff;
+}
+
+.button-primary {
+  padding: 15px 25px;
+  background-color: $primary_color;
+  border: 1px solid $primary_color;
+  color: #ffffff;
+  position: relative;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -ms-transition: 0.5s all;
+  -o-transition: 0.5s all;
+  transition: 0.5s all;
+}
+
+.button-primary:hover, .button-primary:focus, .button-primary:active {
+  background-color: $secondary_color;
+  border: 1px solid $secondary_color;
+  color: #ffffff;
+}
+
+.button-light {
+  background-color: #e6e6e6;
+  border-color: #e6e6e6;
+  color: #292929;
+  -webkit-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  -moz-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  -ms-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  -o-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+}
+
+.button-light:hover, .button-light:focus, .button-light:active {
+  background-color: $secondary_color;
+  border-color: $secondary_color;
+  color: #ffffff;
+}
+
+.button-outline {
+  background-color: transparent;
+  border: 1px solid $primary_color;
+  color: #545454;
+  -webkit-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  -moz-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  -ms-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  -o-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+  transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+}
+
+.button-outline:hover, .button-outline:focus, .button-outline:active {
+  border: 1px solid $secondary_color;
+}
+
+a.button-text,
+.button-text {
+  color: $primary_color;
+  display: inline-block;
+  position: relative;
+  font-size: 15px;
+}
+
+.learn-more-btn {
+  a.button-text {
+    font-size: 14px;
+  }
+  span {
+
+    display: inline-block;
+    color: $primary_color;
+    margin-left: 10px;
+    line-height: 1.5;
+    vertical-align: middle;
+    font-size: inherit;
+    -webkit-transition: margin-left 0.2s linear;
+    -moz-transition: margin-left 0.2s linear;
+    -ms-transition: margin-left 0.2s linear;
+    -o-transition: margin-left 0.2s linear;
+    transition: margin-left 0.2s linear;
+  }
+}
+
+a.button-text:hover, a.button-text:focus, a.button-text:active,
+.button-text:hover,
+.button-text:focus,
+.button-text:active,
+.learn-more-btn:hover span {
+  color: $secondary_color;
+}
+
+a.button-text:hover:after, a.button-text:focus:after, a.button-text:active:after,
+.button-text:hover:after,
+.button-text:focus:after,
+.button-text:active:after,
+.learn-more-btn:hover span {
+  color: $secondary_color;
+}

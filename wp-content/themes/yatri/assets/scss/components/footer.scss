@@ -1,0 +1,50 @@
+footer.site-footer {
+  .site-branding .site-title a {
+    color: #fff;
+  }
+}
+
+.bottom-footer {
+  color: #fff;
+  padding: 10px 0;
+  border-top: 1px solid #585858;
+  .main-navigation nav > ul > li > a {
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: normal;
+    &:hover {
+      color: $secondary_color;
+
+    }
+  }
+  .main-navigation nav ul li.menu-item-has-children > a:after {
+    content: none;
+  }
+  background-color: $bottom_footer_bg;
+  a {
+    color: #fff;
+    &:hover {
+      color: $secondary_color;
+    }
+  }
+
+  .yatri-section-container {
+    &.yatri-grid-3 {
+      text-align: right;
+    }
+    &.yatri-grid-2 {
+      text-align: center;
+    }
+  }
+  @media (max-width: 768px) {
+    .yatri-section-container {
+      text-align: center;
+      &.yatri-grid-1, &.yatri-grid-2, &.yatri-grid-3 {
+        text-align: center;
+      }
+    }
+  }
+  .copyright {
+    color: #ccc;
+  }
+}

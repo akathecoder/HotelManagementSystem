@@ -1,0 +1,19 @@
+.cosmowp-custom-meta .components-select-control__input{
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+}
+
+.cosmowp-custom-meta .cosmoswp-banner-img-wrap .button,
+.cosmowp-custom-meta .cwp-video-upload-wrap .button{
+	display: block;
+	margin: 5px 0;
+}
+.cosmowp-custom-meta .cosmoswp-banner-img-wrap .cwp-image-preview-wrap,
+.cosmowp-custom-meta .cwp-video-upload-wrap .cwp-video-preview-wrap{
+	display: block;
+	border: 1px dashed #ddd;
+	min-height: 100px;
+	margin: 10px auto;
+	background: #fbfbfb;
+}

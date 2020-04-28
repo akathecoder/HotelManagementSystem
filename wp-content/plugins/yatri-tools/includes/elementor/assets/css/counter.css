@@ -1,0 +1,25 @@
+.yatri-tools-elementor-counter {
+    text-align: center;
+}
+
+/* Alignment */
+.yatri-tools-elementor-counter .icon-align-right {
+    float: right;
+}
+
+.yatri-tools-elementor-counter .icon-align-left {
+    float: left;
+}
+
+.yatri-tools-elementor-counter .mtcounter-content .counter {
+    font-size: 40px;
+}
+
+.yatri-tools-elementor-counter .mtcounter-content .counter-title {
+    font-size: 22px;
+}
+
+.yatri-tools-elementor-counter .yte-counter-icon i {
+    box-sizing: content-box;
+    padding: 20px;
+}

@@ -1,0 +1,49 @@
+body.single {
+  .post-title,
+  .feature-image,
+  .yatri-related-posts,
+  .yatri-post-content-wrap,
+  .meta,
+  .yatri-category-list,
+  .yatri-tag-list,
+  .author-detail,
+  .comments-area {
+    margin: 0;
+    padding: 10px 0;
+    display: block;
+  }
+  .yatri-related-posts {
+    .yatri-category-list, .yatri-tag-list {
+      padding: 0;
+      margin-right: auto;
+    }
+  }
+  .post-content-inner {
+    .yatri-content-item {
+      &:first-child {
+        padding-top: 0;
+      }
+    }
+  }
+}
+
+body.single article.hentry.single-post-content p:last-child,
+body.single article.hentry.single-post-content {
+  margin-bottom: 0;
+}
+
+body.single article .post-content-inner .meta div:first-child {
+  padding-left: 0;
+}
+
+body.single .meta [class*="meta-"] .author-name:before,
+article.post .post-content .meta [class*="meta-"] .author-name:before {
+  content: "\f007";
+}
+
+body.single {
+  .yatri-pagination {
+    padding: 10px 0;
+
+  }
+}

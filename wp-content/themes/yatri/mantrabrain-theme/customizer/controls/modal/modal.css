@@ -1,0 +1,616 @@
+li.customize-control .action--reset {
+    display: none;
+    font-size: 12px;
+    margin-right: 10px
+}
+
+li.customize-control.yatri-open .action--reset {
+    display: inline-block;
+}
+
+li.customize-control.yatri-open .yatri-modal-settings {
+    display: block;
+}
+
+li.customize-control.yatri-open .yatri-actions .action--edit span.dashicons:before {
+    content: "\f335";
+}
+
+.modal--tabs {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    margin-left: -12px;
+    margin-right: -12px;
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 15px;
+}
+
+.modal--tabs span {
+    display: block;
+    border: 1px solid #aaa;
+    padding: 5px;
+    cursor: pointer;
+    margin-bottom: -1px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.modal--tabs span.active {
+    background: #ffffff;
+    border-bottom-color: #fff;
+}
+
+.modal--tabs div {
+    -webkit-flex-basis: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 5px 5px 0px;
+}
+
+.modal--tabs div:first-child {
+    padding-left: 10px;
+}
+
+.modal-tab-content {
+    display: none;
+}
+
+.modal-tab-content.active {
+    display: block;
+}
+
+.yatri-modal-settings--inner input,
+.yatri-modal-settings--inner select {
+    border-radius: 0;
+    border: 1px solid #d5dadf;
+}
+
+.yatri-modal-settings--inner input[disabled="disabled"],
+.yatri-modal-settings--inner select[disabled="disabled"] {
+
+    background: #f1f1f1;
+}
+
+.yatri--group-field.ft--padding .yatri--css-ruler.yatri--field-inputs,
+.yatri--group-field.ft--margin .yatri--css-ruler.yatri--field-inputs,
+.yatri--group-field.ft--border .yatri--css-ruler.yatri--field-inputs {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+
+}
+
+.yatri--group-field.ft--padding input[type="number"],
+.yatri--group-field.ft--margin input[type="number"],
+.yatri--group-field.ft--border input[type="number"] {
+
+    padding: 0 0px 0 5px;
+}
+
+.yatri--group-field.ft--padding .yatri--css-ruler.yatri--field-inputs span,
+.yatri--group-field.ft--margin .yatri--css-ruler.yatri--field-inputs span,
+.yatri--group-field.ft--border .yatri--css-ruler.yatri--field-inputs span {
+    padding: 0;
+    text-align: center;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #6d6d6d;
+    margin-left: -1px;
+}
+
+.yatri--group-field.ft--border .yatri--css-ruler.yatri--field-inputs span span.yatri--checked,
+.yatri--group-field.ft--border .yatri--css-ruler.yatri--field-inputs span span.yatri--small-label {
+    padding-left: 8px;
+}
+
+.yatri-modal-settings input:focus,
+.yatri-modal-settings select:focus {
+    border-color: #a7abaf;
+    box-shadow: none;
+    outline: none;
+}
+
+.yatri--field-inputs label.yatri--css-ruler-link {
+    cursor: pointer;
+    width: 25px;
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+    position: relative;
+}
+
+.yatri--field-inputs label.yatri--css-ruler-link:before {
+    font: 400 18px/37px dashicons;
+    content: "\f225";
+    position: absolute;
+    top: -3px;
+    left: 5px;
+    display: block;
+}
+
+.yatri--field-inputs label.yatri--css-ruler-link.yatri--label-active:before {
+    content: "\f103";
+}
+
+.yatri--field-inputs label.yatri--css-ruler-link input {
+    display: none;
+}
+
+.yatri-input-color .wp-color-result,
+.yatri-input-color .wp-color-result-text,
+.yatri-input-color .wp-picker-default {
+    border-radius: 0;
+}
+
+.yatri-image-preview {
+    margin: 0px 0 12px;
+    display: block;
+}
+
+.yatri-image-preview:before {
+    content: attr(data-no-file-text);
+    display: block;
+    border: 1px dashed #DDDDDD;
+    padding: 9px 0px;
+    text-align: center;
+}
+
+.yatri-image-preview.yatri--has-file:before {
+    display: none;
+}
+
+.yatri-modal-settings .button {
+    border-radius: 0;
+}
+
+.yatri-modal-settings .yatri--group-field.yatri-half:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+.yatri-modal-settings .yatri--group-field.yatri-half .yatri-field-header {
+    width: 50%;
+    float: left;
+}
+
+.yatri-modal-settings .yatri--group-field.yatri-half .yatri-field-wrap {
+    width: 50%;
+    float: right;
+}
+
+.yatri-modal-settings .yatri-field-item {
+    padding-right: 5px;
+}
+
+.yatri-image-properties {
+    display: inline-block
+}
+
+.yatri-image-properties .yatri-half {
+    width: 50%;
+    float: left;
+}
+
+.yatri-image-properties .yatri-field-heading {
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.yatri-heading {
+
+    border-bottom: 1px solid rgba(0, 142, 194, 0.5);
+    border-top: 1px solid rgba(0, 142, 194, 0.5);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #444444;
+    font-size: 11px;
+    margin: 10px -12px;
+    padding: 5px 12px 4px;
+    background: rgba(0, 142, 194, 0.1);
+    display: block;
+    float: none;
+}
+
+.yatri--settings-wrapper .yatri-actions .action--reset span {
+    font-size: inherit;
+    width: auto;
+    height: auto;
+    vertical-align: middle;
+    margin-top: 0px;
+}
+
+.yatri--settings-wrapper .yatri-actions .action--edit {
+    background: #FFFFFF;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.yatri--settings-wrapper .yatri-actions .action--edit.open span {
+    transform: rotate(-180deg);
+}
+
+.yatri--settings-wrapper .yatri-actions .action--edit.open span:before {
+    content: "\f335";
+}
+
+.yatri--settings-wrapper .yatri-actions a {
+    text-decoration: none;
+
+}
+
+.yatri--field * {
+    box-sizing: border-box;
+}
+
+.yatri--settings-wrapper {
+    position: relative;
+}
+
+.yatri--settings-wrapper .yatri-actions {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    vertical-align: middle;
+    margin-top: 5px;
+}
+
+.yatri-modal-settings {
+    display: none;
+}
+
+.yatri-modal-settings {
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 12px;
+    margin-bottom: 15px;
+    left: 0px;
+    right: 0px;
+    z-index: 9;
+    position: relative;
+}
+
+.yatri-modal-settings:before {
+    content: '';
+    position: absolute;
+    top: -6px;
+    right: 5px;
+    width: 15px;
+    height: 15px;
+    background: #fff;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    border-radius: 3px;
+}
+
+.yatri-modal-settings::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.yatri-modal-settings .yatri--group-field {
+    margin-bottom: 5px;
+}
+
+.customize-control-yatri-typography .ft--checkboxes.font-languages {
+    margin-bottom: 0px;
+}
+
+.yatri--hide {
+    display: none !important;
+}
+
+.customize-control-yatri-typography .yatri--group-field:before, .customize-control-yatri-typography .yatri--group-field:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.yatri--field:last-child {
+    margin-bottom: 0px;
+}
+
+.customize-control-yatri-typography .yatri--group-field:after {
+    clear: both;
+}
+
+.customize-control-yatri-typography .yatri--group-field .yatri-field-header {
+    width: 50%;
+    float: left;
+}
+
+.customize-control-yatri-typography .yatri--group-field .yatri-field-settings-inner {
+    width: 50%;
+    float: right;
+    position: relative;
+
+}
+
+.customize-control select.yatri-typo-input {
+    max-width: 100%;
+    width: 200px;
+    border-radius: 0;
+}
+
+.select2-container {
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    vertical-align: middle;
+    z-index: 999999;
+    max-width: 100%;
+    width: 200px;
+}
+
+.yatri-input-slider {
+    position: relative;
+    margin: 11px 118px 20px 4px;
+    height: 5px;
+    display: block;
+    background: #CCCCCC;
+}
+
+.yatri-input-slider .ui-slider-range {
+    width: 100%;
+    display: block;
+    height: 5px;
+    background: #3068af;
+    position: absolute;
+}
+
+.yatri-input-slider .ui-slider-handle {
+    width: 18px;
+    height: 18px;
+    display: block;
+    position: absolute;
+    top: -7px;
+    background: #ffffff;
+    border: 1px solid #CCCCCC;
+    border-radius: 50%;
+    cursor: pointer;
+    -webkit-transform: translateX(0px);
+    -ms-transform: translateX(0px);
+    transform: translateX(0px);
+}
+
+.yatri-input-slider-wrapper .yatri--slider-input {
+    width: 60px;
+    max-width: 60px;
+    position: absolute;
+    top: -9px;
+    right: 38px;
+    height: 24px;
+    line-height: 18px;
+    min-height: 24px;
+    border-radius: 0
+}
+
+.yatri-input-slider-wrapper.no-css-unit .yatri--slider-input {
+    right: 20px;
+}
+
+.yatri-input-slider-wrapper.no-css-unit .yatri-input-slider {
+    margin: 11px 100px 20px 4px;
+}
+
+.yatri-input-slider-wrapper {
+    position: relative;
+    display: block;
+}
+
+.customize-control .yatri--group-field.ft--checkbox .list-subsets p,
+.customize-control .yatri--group-field.ft--font_languages .list-subsets p {
+    margin-top: 0px;
+    width: 50%;
+    float: left;
+}
+
+.yatri--group-field.ft--checkbox .list-subsets:after,
+.yatri--group-field.ft--font_languages .list-subsets:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.customize-control-yatri-typography .yatri--group-field .yatri--field-slider .yatri-field-header, .customize-control-yatri-typography .yatri--group-field .yatri--field-slider .yatri-field-settings-inner, .customize-control-yatri-typography .yatri--group-field .yatri--field-name-languages .yatri-field-header, .customize-control-yatri-typography .yatri--group-field .yatri--field-name-languages .yatri-field-settings-inner {
+    width: auto;
+    float: none;
+}
+
+.yatri-hide {
+    display: none;
+}
+
+.yatri-field-heading .yatri-devices button.preview-desktop:before {
+    content: "\f472";
+}
+
+.yatri-field-heading .yatri-devices button.preview-tablet:before {
+    content: "\f471";
+}
+
+.yatri-field-heading .yatri-devices button.preview-mobile:before {
+    content: "\f470";
+}
+
+.yatri-field-heading .yatri-devices button:before {
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font: 400 16px/4px dashicons;
+    vertical-align: top;
+    margin: 0;
+    padding: 5px 0px 3px;
+}
+
+.yatri-field-heading .yatri-devices button {
+    cursor: pointer;
+    background: 0 0;
+    border: none;
+    height: 23px;
+    padding: 0 0px;
+    margin: 0 0 0 1px;
+    box-shadow: none;
+    outline: none !important;
+    -webkit-transition: .15s color ease-in-out, .15s background-color ease-in-out, .15s border-color ease-in-out;
+    transition: .15s color ease-in-out, .15s background-color ease-in-out, .15s border-color ease-in-out;
+    color: #bbbbbb;
+}
+
+.yatri-field-heading .yatri-devices {
+    display: inline-block;
+    margin-left: 0px;
+    float: right;
+}
+
+.preview-tablet .yatri-devices .preview-tablet,
+.preview-desktop .yatri-devices .preview-desktop,
+.preview-mobile .yatri-devices .preview-mobile {
+    border-color: #191e23;
+    color: #191e23;
+}
+
+.yatri--css-unit label.yatri--label-active {
+    font-weight: bold;
+}
+
+.yatri-input-slider-wrapper .yatri--label-active {
+    display: block;
+    top: -9px;
+    right: 12px;
+    line-height: 22px;
+    position: absolute;
+    margin-right: 0px;
+    border: 1px solid #ddd;
+    background: #fff;
+    font-weight: normal;
+    font-size: 10px;
+    cursor: default;
+    min-width: 24px;
+    text-align: center;
+}
+
+.yatri--css-unit label {
+    display: none;
+    margin-right: 5px;
+    text-transform: uppercase;
+    padding: 0px 5px;
+    font-size: 11px;
+}
+
+.yatri-input-slider-wrapper .reset {
+    text-decoration: none;
+    display: inline-block;
+    color: #555d66;
+    top: -9px;
+    right: -5px;
+    line-height: 22px;
+    position: absolute;
+    margin-right: 0px;
+    border: 1px solid #ddd;
+    background: #fff;
+    font-weight: normal;
+}
+
+.yatri-input-slider-wrapper .reset:before {
+    -moz-osx-font-smoothing: grayscale;
+    border: none;
+    content: "\f531";
+    display: block;
+    font: 12px/1 dashicons;
+    padding: 5px;
+    text-decoration: none !important;
+    text-indent: 0;
+}
+
+.yatri--css-unit input {
+    display: none;
+}
+
+.select2-container--default .select2-selection--single {
+    border-radius: 0;
+}
+
+.yatri--multiple-devices .yatri-field-settings-inner {
+    display: none;
+}
+
+.preview-desktop .yatri-field-settings-inner.yatri--for-desktop,
+.preview-tablet .yatri-field-settings-inner.yatri--for-tablet,
+.preview-mobile .yatri-field-settings-inner.yatri--for-mobile {
+    display: block;
+}
+
+.yatri-field-header::after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+.yatri-modal-settings--fields .customize-control-title {
+    float: left;
+    font-weight: 400;
+}
+
+.yatri-input-color .wp-picker-clear {
+    min-height: 30px !important;
+    margin-left: 2px;
+}
+
+.customize-control .yatri-input-alignment .alignment-wrap {
+    height: 30px;
+    /* width: 100%; */
+    padding: 5px;
+    text-align: center;
+}
+
+.customize-control .yatri-input-alignment {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.customize-control .yatri-input-alignment li {
+    width: 25%;
+    float: left;
+    display: block;
+    margin: 0;
+}
+
+.customize-control .yatri-input-alignment .alignment-wrap {
+    height: 30px;
+    /* width: 100%; */
+    padding: 5px;
+    text-align: center;
+}
+
+.customize-control .yatri-input-alignment .alignment-wrap span {
+    display: block;
+    background: #f1f1f1;
+    height: 30px;
+    width: 100%;
+    font-size: 25px;
+    padding: 8px 0 5px 0;
+    cursor: pointer;
+    border: 1px solid #ddd;
+}
+
+.customize-control .yatri-input-alignment li.active .alignment-wrap span,
+.customize-control .yatri-input-alignment li:hover .alignment-wrap span {
+    background: #bcdeea;
+    box-shadow: inset 1px 1px 7px 0;
+    border-color: #fff;
+}
+
+.customize-control .yatri-input-alignment:after {
+    content: '';
+    display: inline-block;
+    clear: both;
+    height: 35px;
+}
