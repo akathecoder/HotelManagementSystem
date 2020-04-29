@@ -1,0 +1,1578 @@
+# Copyright (C) 2019 96 Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-12-23 16:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator:\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: includes/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: includes/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: includes/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: includes/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: includes/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: includes/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: includes/breadcrumbs.php:788 includes/breadcrumbs.php:817
+#: includes/breadcrumbs.php:844 includes/breadcrumbs.php:871
+#: includes/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: includes/breadcrumbs.php:789 includes/breadcrumbs.php:845
+#: includes/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: includes/breadcrumbs.php:790 includes/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: includes/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: includes/compatibility/woocommerce/class-woocommerce.php:82
+#: includes/customizer/options-sidebar.php:60
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: includes/compatibility/woocommerce/class-woocommerce.php:84
+msgid "This sidebar will be used on Single Product page."
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:72
+msgid "Theme Options"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:77
+#: includes/customizer/class-customizer-config.php:93
+msgid "Header"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:84
+msgid "Top Header"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:85
+msgid "To change header address, top menu, date, social icon etc.."
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:102
+msgid "Navigation"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:110
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:118
+msgid "General Settings"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:124
+msgid "Archive Settings"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:130
+msgid "Single Post Settings"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:136
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:141
+msgid "Scroll to Top"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:149
+msgid "Layout Options"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:156
+msgid "Sidebar Settings"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:164
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:174
+msgid "Typography Options"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:181
+msgid "Color Settings"
+msgstr ""
+
+#: includes/customizer/class-customizer-config.php:189
+msgid "Font Family Settings"
+msgstr ""
+
+#: includes/customizer/helper.php:21
+#: includes/customizer/options-main-footer.php:166
+#: includes/customizer/options-top-header.php:68
+#: includes/customizer/options-top-header.php:166
+#: includes/kirki/controls/php/class-kirki-control-typography.php:176
+#: includes/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr ""
+
+#: includes/customizer/options-archive.php:5
+msgid "Post Content"
+msgstr ""
+
+#: includes/customizer/options-archive.php:9
+msgid "Excerpt"
+msgstr ""
+
+#: includes/customizer/options-archive.php:10
+msgid "Full Content"
+msgstr ""
+
+#: includes/customizer/options-archive.php:17
+msgid "Archive Content Order"
+msgstr ""
+
+#: includes/customizer/options-archive.php:18
+#: includes/customizer/options-single-post.php:7
+msgid "Drag & Drop items to re-arrange the order"
+msgstr ""
+
+#: includes/customizer/options-archive.php:28
+#: includes/customizer/options-single-post.php:17
+msgid "Title"
+msgstr ""
+
+#: includes/customizer/options-archive.php:29
+#: includes/customizer/options-single-post.php:18
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/customizer/options-archive.php:30
+#: includes/customizer/options-single-post.php:19
+msgid "Categories"
+msgstr ""
+
+#: includes/customizer/options-archive.php:31
+#: includes/customizer/options-single-post.php:20
+msgid "Content"
+msgstr ""
+
+#: includes/customizer/options-archive.php:32
+#: includes/customizer/options-single-post.php:21
+msgid "Meta Tags"
+msgstr ""
+
+#: includes/customizer/options-archive.php:38
+msgid "Title align"
+msgstr ""
+
+#: includes/customizer/options-archive.php:56
+msgid "Post Meta align"
+msgstr ""
+
+#: includes/customizer/options-archive.php:74
+msgid "Content align"
+msgstr ""
+
+#: includes/customizer/options-archive.php:92
+msgid "Button Text"
+msgstr ""
+
+#: includes/customizer/options-archive.php:94 includes/hook/extra.php:422
+msgid "Read More"
+msgstr ""
+
+#: includes/customizer/options-breadcrumb.php:5
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: includes/customizer/options-breadcrumb.php:12
+msgid "Separator"
+msgstr ""
+
+#: includes/customizer/options-breadcrumb.php:26
+msgid "Show on Front"
+msgstr ""
+
+#: includes/customizer/options-breadcrumb.php:40
+msgid "Breadcrumbs color"
+msgstr ""
+
+#: includes/customizer/options-breadcrumb.php:45
+#: includes/customizer/options-main-footer.php:69
+#: includes/customizer/options-main-footer.php:130
+#: includes/customizer/options-main-footer.php:167
+#: includes/customizer/options-main-header.php:172
+#: includes/customizer/options-main-header.php:214
+#: includes/customizer/options-scoll_to_top.php:57
+#: includes/customizer/options-scoll_to_top.php:99
+#: includes/customizer/options-top-header.php:69
+#: includes/customizer/options-top-header.php:167
+#: includes/customizer/options-top-header.php:265
+msgid "Text"
+msgstr ""
+
+#: includes/customizer/options-breadcrumb.php:46
+msgid "Anchor Text"
+msgstr ""
+
+#: includes/customizer/options-breadcrumb.php:47
+#: includes/customizer/options-main-footer.php:70
+#: includes/customizer/options-main-footer.php:131
+#: includes/customizer/options-main-header.php:173
+#: includes/customizer/options-main-header.php:215
+#: includes/customizer/options-main-header.php:364
+#: includes/customizer/options-main-navigation.php:37
+#: includes/customizer/options-scoll_to_top.php:58
+#: includes/customizer/options-scoll_to_top.php:100
+#: includes/customizer/options-top-header.php:264
+msgid "Background"
+msgstr ""
+
+#: includes/customizer/options-breadcrumb.php:48
+msgid "Icon"
+msgstr ""
+
+#: includes/customizer/options-breadcrumb.php:49
+#: includes/customizer/options-main-footer.php:71
+#: includes/customizer/options-main-footer.php:132
+#: includes/customizer/options-top-header.php:267
+msgid "Hover"
+msgstr ""
+
+#: includes/customizer/options-color.php:6
+msgid "Body Color"
+msgstr ""
+
+#: includes/customizer/options-color.php:23
+msgid "Primary Color"
+msgstr ""
+
+#: includes/customizer/options-color.php:43
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/customizer/options-color.php:73
+msgid "Heading Color"
+msgstr ""
+
+#: includes/customizer/options-color.php:89
+msgid "Paragraph Color"
+msgstr ""
+
+#: includes/customizer/options-color.php:105
+msgid "Widget Title Color"
+msgstr ""
+
+#: includes/customizer/options-container.php:7
+msgid "Main Site Width"
+msgstr ""
+
+#: includes/customizer/options-container.php:11
+#: includes/customizer/options-container.php:47
+msgid "Boxed"
+msgstr ""
+
+#: includes/customizer/options-container.php:12
+msgid "Full Width"
+msgstr ""
+
+#: includes/customizer/options-container.php:13
+msgid "Full Width / Stretched"
+msgstr ""
+
+#: includes/customizer/options-container.php:21
+msgid "Main Container Width"
+msgstr ""
+
+#: includes/customizer/options-container.php:42
+msgid "Layout Style"
+msgstr ""
+
+#: includes/customizer/options-container.php:46
+msgid "Wide"
+msgstr ""
+
+#: includes/customizer/options-container.php:48
+msgid "Seperate"
+msgstr ""
+
+#: includes/customizer/options-container.php:54
+msgid "Enable Box Shadow"
+msgstr ""
+
+#: includes/customizer/options-container.php:70
+msgid "Content Width"
+msgstr ""
+
+#: includes/customizer/options-container.php:92
+msgid "Sidebar Width"
+msgstr ""
+
+#: includes/customizer/options-font.php:6
+msgid "Site Font"
+msgstr ""
+
+#: includes/customizer/options-font.php:35
+msgid "Title Font"
+msgstr ""
+
+#: includes/customizer/options-font.php:66
+msgid "Widget Title Font"
+msgstr ""
+
+#: includes/customizer/options-general.php:5
+msgid "Pagination"
+msgstr ""
+
+#: includes/customizer/options-general.php:9
+#: includes/kirki/controls/php/class-kirki-control-base.php:134
+#: includes/kirki/controls/views/image.php:36
+#: includes/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr ""
+
+#: includes/customizer/options-general.php:10
+msgid "Numeric"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:6
+msgid "Footer Border"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:35
+msgid "Footer Widget"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:36
+msgid "Add footer widget from Apperance > Widget"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:43
+msgid "Number of Footer Widget"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:64
+msgid "Footer Widget color"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:107
+msgid "Footer Credit align"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:125
+msgid "Footer Credit color"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:162
+msgid "Footer Right Side"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:168
+#: includes/customizer/options-top-header.php:70
+#: includes/customizer/options-top-header.php:168
+msgid "Menu"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:169
+#: includes/customizer/options-top-header.php:71
+#: includes/customizer/options-top-header.php:169
+msgid "Social Icon"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:176
+#: includes/customizer/options-top-header.php:85
+#: includes/customizer/options-top-header.php:183
+msgid "Text Content"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:190
+msgid "Select Menu"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:206
+#: includes/customizer/options-top-header.php:125
+#: includes/customizer/options-top-header.php:223
+msgid "Add Social Profile"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:210
+#: includes/customizer/options-top-header.php:129
+#: includes/customizer/options-top-header.php:227
+msgid "Add Social Icon"
+msgstr ""
+
+#: includes/customizer/options-main-footer.php:221
+#: includes/customizer/options-top-header.php:140
+#: includes/customizer/options-top-header.php:238
+msgid "Social Link URL"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:13
+msgid "Logo Width"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:33
+#: includes/customizer/options-main-header.php:43
+msgid "Mobile Device Logo"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:34
+msgid "Show different logo in mobile device"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:64
+msgid "Mobile Device Logo Width"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:92
+msgid "Header layout"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:96
+#: includes/customizer/options-sidebar.php:80
+msgid "Style 1"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:97
+#: includes/customizer/options-sidebar.php:81
+msgid "Style 2"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:98
+#: includes/customizer/options-sidebar.php:82
+msgid "Style 3"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:99
+#: includes/customizer/options-sidebar.php:83
+msgid "Style 4"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:106
+msgid "Show Button"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:113
+msgid "Enter Button Text"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:115 includes/hook/extra.php:163
+msgid "Contact Us"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:127
+msgid "Enter Button Url"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:141
+msgid "Button Border Radius"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:167
+msgid "Button color"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:174
+#: includes/customizer/options-main-header.php:216
+#: includes/customizer/options-scoll_to_top.php:59
+#: includes/customizer/options-scoll_to_top.php:101
+msgid "Border"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:209
+msgid "Button Hover color"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:252
+msgid "Show Cart"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:261
+msgid "Show Search"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:268
+msgid "Header Search Placeholder Text"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:270 includes/hook/extra.php:368
+msgid "Search"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:282
+msgid "Header Search Text"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:284 includes/hook/extra.php:369
+msgid "Type to Search"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:296
+msgid "Header Border"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:324
+msgid "Site Branding Border Bottom"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:359
+msgid "Main Header color"
+msgstr ""
+
+#: includes/customizer/options-main-header.php:365
+msgid "Icon Color"
+msgstr ""
+
+#: includes/customizer/options-main-navigation.php:6
+msgid "Show Main Navigation"
+msgstr ""
+
+#: includes/customizer/options-main-navigation.php:13
+msgid "Main Navigation align"
+msgstr ""
+
+#: includes/customizer/options-main-navigation.php:32
+msgid "Main Navigation color"
+msgstr ""
+
+#: includes/customizer/options-main-navigation.php:38
+msgid "Menu Color"
+msgstr ""
+
+#: includes/customizer/options-main-navigation.php:39
+msgid "Hover Color"
+msgstr ""
+
+#: includes/customizer/options-main-navigation.php:40
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: includes/customizer/options-main-navigation.php:41
+msgid "Border Color"
+msgstr ""
+
+#: includes/customizer/options-main-navigation.php:82
+msgid "Navigation Border color"
+msgstr ""
+
+#: includes/customizer/options-scoll_to_top.php:5
+msgid "Show Scroll to Top"
+msgstr ""
+
+#: includes/customizer/options-scoll_to_top.php:12
+msgid "Enter Scrollo to Top Icon"
+msgstr ""
+
+#: includes/customizer/options-scoll_to_top.php:26
+msgid "Scroll to Top Radius"
+msgstr ""
+
+#: includes/customizer/options-scoll_to_top.php:52
+msgid "Scroll to Top color"
+msgstr ""
+
+#: includes/customizer/options-scoll_to_top.php:94
+msgid "Scroll to Top Hover color"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:6 includes/hook/class-sidebar.php:60
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:19
+#: includes/hook/class-sidebar.php:69
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:32
+#: includes/hook/class-sidebar.php:78
+msgid "Post Sidebar"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:45
+#: includes/hook/class-sidebar.php:87
+msgid "Search Sidebar"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:75
+msgid "Sidebar Widget Title Style"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:84
+msgid "Style 5"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:85
+msgid "Style 6"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:86
+msgid "Style 7"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:87
+msgid "Style 8"
+msgstr ""
+
+#: includes/customizer/options-sidebar.php:94
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: includes/customizer/options-single-post.php:6
+msgid "Single Post Content Order"
+msgstr ""
+
+#: includes/customizer/options-single-post.php:27
+msgid "Show Author Box"
+msgstr ""
+
+#: includes/customizer/options-single-post.php:34
+msgid "Show Releated Post"
+msgstr ""
+
+#: includes/customizer/options-single-post.php:41
+msgid "Enter Related Title"
+msgstr ""
+
+#: includes/customizer/options-single-post.php:43
+#: template-parts/releated-post.php:11
+msgid "Related Post"
+msgstr ""
+
+#: includes/customizer/options-single-post.php:55
+msgid "Number of Related Post"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:11
+msgid "Show Top Header"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:15
+msgid "Enable"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:16
+msgid "Disable"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:22
+msgid "Top Header Padding"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:64
+msgid "Top Left Content"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:104
+msgid "Select Left Menu"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:162
+msgid "Top Right Content"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:202
+msgid "Select Right Menu"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:259
+msgid "Top Header color"
+msgstr ""
+
+#: includes/customizer/options-top-header.php:266
+msgid "Link"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Lora, translate this to 'off'. Do not translate into your own language.
+#: includes/helper-function.php:20
+msgctxt "Poppins: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/helper-function.php:156
+msgid "PREV"
+msgstr ""
+
+#: includes/helper-function.php:157
+msgid "NEXT"
+msgstr ""
+
+#: includes/hook/class-sidebar.php:62 includes/hook/class-sidebar.php:71
+#: includes/hook/class-sidebar.php:80 includes/hook/class-sidebar.php:89
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/hook/class-sidebar.php:99
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: includes/hook/extra.php:140
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/hook/extra.php:260
+#, php-format
+msgid "Theme of %s"
+msgstr ""
+
+#: includes/hook/extra.php:379
+msgid "x"
+msgstr ""
+
+#: includes/hook/structure.php:50
+msgid "Skip to content"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:59
+#: includes/kirki/controls/php/class-kirki-control-base.php:132
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:408
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:62
+#: includes/kirki/controls/php/class-kirki-control-base.php:133
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:386
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:418
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:443
+#: includes/kirki/controls/views/image.php:37
+#: includes/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:63
+#: includes/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:83
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:84
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:85
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:86
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:87
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:88
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:89
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:90
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:91
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimension.php:41
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: includes/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: includes/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: includes/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: includes/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: includes/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: includes/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: includes/kirki/controls/php/class-kirki-control-typography.php:145
+#: includes/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: includes/kirki/controls/php/class-kirki-control-typography.php:157
+#: includes/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: includes/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#. translators: %s represents the label of the row.
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:86
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr ""
+
+#. translators: %s represents the number of rows we're limiting the repeater to allow.
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:227
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:376
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-switch.php:52
+#: includes/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-switch.php:56
+#: includes/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:83
+#: includes/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:139
+#: includes/kirki/controls/php/class-kirki-control-typography.php:181
+#: includes/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:180
+#: includes/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr ""
+
+#: includes/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr ""
+
+#: includes/kirki/controls/views/image.php:34
+#: includes/kirki/controls/views/image.php:39
+#: includes/kirki/field/class-kirki-field-image.php:47
+#: includes/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr ""
+
+#: includes/kirki/controls/views/image.php:35
+#: includes/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr ""
+
+#: includes/kirki/controls/views/image.php:38
+#: includes/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr ""
+
+#: includes/kirki/controls/views/image.php:40
+#: includes/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr ""
+
+#. translators: %s represents the field ID where the error occurs.
+#: includes/kirki/core/class-kirki-field.php:248
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is the URL in the documentation site.
+#: includes/kirki/core/class-kirki-field.php:257
+#: includes/kirki/core/class-kirki-field.php:267
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: includes/kirki/core/class-kirki-field.php:375
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#. translators: The field ID where the error occurs.
+#: includes/kirki/core/class-kirki-field.php:498
+#: includes/kirki/core/class-kirki-field.php:509
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: includes/kirki/core/class-kirki-init.php:289
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: includes/kirki/core/class-kirki-init.php:365
+msgid ""
+"Your theme uses a Font Awesome field for icons. To avoid issues with missing "
+"icons on your frontend we recommend you install the official Font Awesome "
+"plugin."
+msgstr ""
+
+#: includes/kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr ""
+
+#: includes/kirki/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr ""
+
+#: includes/kirki/core/class-kirki.php:237
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: includes/kirki/deprecated/functions.php:19
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: includes/kirki/field/class-kirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is buttonset/image.
+#: includes/kirki/field/class-kirki-field-radio.php:37
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr ""
+
+#. translators: The title.
+#: includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+msgid "Help us improve Kirki."
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+msgid ""
+"Help us begin a dialogue with theme developers, collaborate and improve both "
+"the theme you are using and the Kirki framework by agreeing to send "
+"anonymous data. <strong>The data is completely anonymous and we will never "
+"collect any identifyable information about you or your website.</strong>"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+msgid "Data that will be sent"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+msgid "PHP Version"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+msgid "Theme Name"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+msgid "Theme Author"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+msgid "Theme URI"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+msgid "Field Types Used"
+msgstr ""
+
+#. translators: %1$s: URL to the server plugin code. %2$s: URL to the stats page.
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+#, php-format
+msgid ""
+"We believe in complete transparency. You can see the code used on our server "
+"<a href=\"%1$s\" rel=\"nofollow\">here</a>, and the results of the "
+"statistics we're gathering on <a href=\"%2$s\" rel=\"nofollow\">this page</"
+"a>."
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+msgid "I agree"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+msgid "No thanks"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+msgid "Show me the data"
+msgstr ""
+
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:196
+msgid "Collapse data"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:198
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:205
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: includes/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: includes/metabox.php:65
+msgid "Theme Setting"
+msgstr ""
+
+#: includes/metabox.php:86
+msgid "Sidebar Option"
+msgstr ""
+
+#: includes/metabox.php:88
+msgid "Customizer Setting"
+msgstr ""
+
+#: includes/metabox.php:89
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/metabox.php:90
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/metabox.php:91
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/metabox.php:95
+msgid "Enable Title"
+msgstr ""
+
+#: includes/metabox.php:98
+msgid "Enable Comment"
+msgstr ""
+
+#: includes/metabox.php:101
+msgid "Enable Feature Image"
+msgstr ""
+
+#. translators: %s: post date.
+#: includes/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: includes/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: includes/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: includes/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: includes/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: includes/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: includes/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: template-parts/content-author-box.php:10
+#, php-format
+msgctxt "post author"
+msgid "VIEW ALL POSTS BY %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:30
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:23
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/related.php:29
+msgid "Related products"
+msgstr ""
+

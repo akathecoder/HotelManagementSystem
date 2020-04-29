@@ -1,0 +1,497 @@
+/*
+Theme Name: Codify
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+/*
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+*/
+ul, ol{
+    margin: 0 3em 1.5em 0 ;
+}
+
+li > ul, li > ol{
+    margin-right: 1.5em;
+}
+
+.main-navigation ul{
+    padding-right: 0;
+}
+
+.main-navigation ul ul{
+    float: right;
+    right: -999em;
+    text-align: right;
+}
+
+.main-navigation ul ul ul{
+    right: -999em;
+}
+
+.main-navigation ul ul li:hover > ul, .main-navigation ul ul li.focus > ul{
+    right: 100%;
+}
+
+.main-navigation ul li:hover > ul, .main-navigation ul li.focus > ul{
+    right: auto;
+}
+
+.main-navigation li.menu-item-has-children > a:after{
+    left: 0;
+}
+
+.main-navigation .sub-menu li.menu-item-has-children a:after{
+    left: 5px;
+}
+
+.main-navigation .sub-menu ul ul li.menu-item-has-children a:after{
+    left: auto;
+    right: 5px;
+}
+
+.main-navigation .sub-menu ul ul li:focus ul, .main-navigation .sub-menu ul ul li:hover ul{
+    right: auto;
+    left: 100%;
+}
+
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous{
+    float: right;
+}
+
+.comment-navigation .nav-next, .posts-navigation .nav-next, .post-navigation .nav-next{
+    float: left;
+    text-align: left;
+}
+
+.navigation .nav-previous a{
+    padding: 0 25px 0 5px ;
+}
+
+.navigation .nav-next a{
+    padding: 0 5px 0 25px ;
+}
+
+.pagination .prev:before, .navigation .nav-previous:before{
+    right: 2px;
+}
+
+.pagination .next:after, .navigation .nav-next:after{
+    left: 0;
+}
+
+.pagination .prev:before, .pagination .next:after{
+    right: 0;
+    left: 0;
+}
+
+.navigation .nav-previous:hover:before{
+    right: 7px;
+}
+
+.navigation .nav-next:hover:after{
+    left: 7px;
+}
+
+.nav-links .page-numbers{
+    margin-left: 10px;
+}
+
+.screen-reader-text:focus{
+    right: 5px;
+}
+
+.alignleft{
+    float: right;
+    margin-left: 1.5em;
+}
+
+.alignright{
+    float: left;
+    margin-right: 1.5em;
+}
+
+.aligncenter{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.global_layout-no_sidebar .alignfull{
+    margin-right: calc((100% - 100vw + 17px) / 2);
+    margin-left: calc((100% - 100vw + 17px) / 2);
+}
+
+.global_layout-no_sidebar .alignwide{
+    margin-right: calc((100% - 100vw + 17px) / 4);
+    margin-left: calc((100% - 100vw + 17px) / 4);
+}
+
+.social-links ul li a::before{
+    margin-left: 5px;
+}
+
+.custom-logo-link{
+    padding-left: 5px;
+}
+
+.wp-caption img[class*="wp-image-"]{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.custom-col-1,  .custom-col-2,  .custom-col-3,  .custom-col-4,  .custom-col-5,  .custom-col-6,  .custom-col-7,  .custom-col-8,  .custom-col-9,  .custom-col-10,  .custom-col-11,  .custom-col-12{
+    padding-left: 15px;
+    padding-right: 15px;
+    float: right;
+}
+
+.top-header-left, .top-header-right{
+    float: right;
+}
+
+.right{
+    float: left;
+    text-align: left;
+}
+
+.top-header-left li{
+    padding-left: 10px;
+}
+
+.top-header-right li{
+    padding-right: 10px;
+}
+
+.top-header a i{
+    margin-left: 10px;
+}
+
+.top-header select + .search-wrapper{
+    border-right: 1px solid #fff;
+    padding-right: 5px;
+}
+
+.top-header .search-wrapper a i{
+    margin-left: 0;
+}
+
+.search-container{
+    background: #000000 none repeat scroll right  0;
+    right: 50%;
+}
+
+.close-icon{
+    background: #000000 none repeat scroll right  0;
+    left: -15px;
+}
+
+.search-divider{
+    background: #ffffff none repeat scroll right  0;
+}
+
+.header-right-wrap form button[type="submit"]{
+    left: 0;
+}
+
+.header-right-wrap > div.search-wrapper{
+    border-right: 1px solid #e2e2e2;
+    margin-right: 10px;
+}
+
+.header-right-wrap .site-cart-views > .widget_shopping_cart{
+    left: 0;
+    text-align: right;
+}
+
+.mini_cart_inner:before{
+    left: 8px;
+    border-left: 0;
+}
+
+.site-cart-views span.cart-quantity{
+    left: -5px;
+}
+
+.heading .entry-title:before{
+    left: 50%;
+    margin-left: 9px;
+}
+
+.heading .entry-title:after{
+    right: 50%;
+    margin-right: 9px;
+}
+
+.contact-section:before{
+    right: 0;
+    left: 0;
+}
+
+.contact-detail{
+    float: right;
+    padding-left: 150px;
+}
+
+.form-holder{
+    float: right;
+}
+
+.site-info ul li{
+    padding-right: 15px;
+}
+
+.site-info ul li:before{
+    right: 0;
+}
+
+.site-info ul li:hover:before{
+    right: 3px;
+}
+
+.widget-recent-post figure{
+    float: right;
+}
+
+.widget-recent-post .entry-header{
+    float: right;
+    padding-right: 10px;
+}
+
+.widget-text i{
+    padding-left: 5px;
+}
+
+.social-links.block-layout{
+    right: 0;
+}
+
+.nav-align-left{
+    text-align: right;
+}
+
+.nav-align-right{
+    text-align: left;
+    float: left;
+}
+
+.content-area{
+    float: right;
+    padding-left: 30px;
+}
+
+.widget-area{
+    float: right;
+}
+
+.separate-layout .elementor-section-stretched{
+    right: 0 !important;
+}
+
+.boxed-layout-boxshadow article:before, .boxed-layout-boxshadow article:after, .boxed-layout-boxshadow .widget:before,  .boxed-layout-boxshadow .widget:after{
+    right: .625rem;
+}
+
+.boxed-layout-boxshadow article:after, .boxed-layout-boxshadow .widget:after{
+    left: .625rem;
+    right: auto;
+}
+
+.global_layout-no_sidebar .content-area{
+    padding-left: 0;
+}
+
+.global_layout-left_sidebar .content-area{
+    float: left;
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.widget_archive li, .widget_categories li{
+    text-align: left;
+}
+
+.widget_archive li a, .widget_categories li a{
+    float: right;
+}
+
+.widget .sub-menu{
+    padding-right: 10px;
+}
+
+.header-style2 .menu-holder{
+    right: 0;
+    left: 0;
+}
+
+.header-style2 .header-right-wrap{
+    left: 15px;
+}
+
+.page-title-wrap:before{
+    right: 0;
+    left: 0;
+}
+
+.breadcrumbs ul li:before{
+    right: -5px;
+}
+
+.widget-title:before{
+    right: 0;
+}
+
+.widget-title-widget-style2 .widget-title{
+    text-align: right;
+}
+
+.widget-title-widget-style6 .widget-title:before, .widget-title-widget-style7 .widget-title:before, .widget-title-widget-style8 .widget-title:before{
+    right: 0;
+    left: 0;
+}
+
+.widget-title-widget-style8 .widget-title span:before{
+    right: 0;
+    left: 0;
+}
+
+.widget-title-widget-style6 .widget-title:after{
+    right: 0;
+    left: 0;
+}
+
+.widget_product_search input, .search-form input{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.widget_product_search form button[type="submit"], .search-form .search-submit{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.entry-footer span, .entry-meta span{
+    margin-left: 20px;
+}
+
+.cat-links a, .entry-meta i{
+    margin-left: 5px;
+}
+
+.cat-links a{
+    margin-left: 5px;
+}
+
+.back-to-top{
+    left: 30px;
+}
+
+.widget-post-author figure{
+    padding-left: 15px;
+}
+
+.author-intro{
+    text-align: left;
+}
+
+.related-post-wrap .post:nth-child(odd){
+    margin: 0 0 30px 5px ;
+}
+
+.related-post-wrap .post:nth-child(even){
+    margin: 0 5px 30px 0 ;
+}
+
+.read-more:after{
+    margin-right: 7px;
+}
+
+.read-more:hover:after{
+    margin-right: 15px;
+}
+
+.btn:after{
+    right: 50%;
+}
+
+.comment-list{
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.comment-content{
+    padding: 20px 70px 20px 15px ;
+}
+
+.comment-body{
+    padding-right: 110px;
+}
+
+.comment-body .comment-author img{
+    right: 0;
+}
+
+.comment-body .reply a{
+    padding-right: 20px;
+}
+
+.comment-body .reply a:before{
+    right: 0;
+}
+
+.woocommerce .product-list-wrapper .icons{
+    clear: right;
+    left: 30px;
+}
+
+.woocommerce .product-list-wrapper .icons a{
+    right: 30px;
+}
+
+.woocommerce ul li .product-list-wrapper .icons a span{
+    right: 50%;
+}
+
+.woocommerce ul li .product-list-wrapper .icons a span:after{
+    border-width: 6px 6px 0 6px ;
+    border-color: #000 transparent transparent transparent ;
+    right: 50%;
+}
+
+.element-item:hover .product-list-wrapper .icons a{
+    right: 0;
+}
+
+.woocommerce .product-list-wrapper .icons a.added_to_cart, .related.products .product-list-wrapper .icons a.added_to_cart{
+    right: 0;
+}
+
+.header-style4.sticky-header .site-branding{
+    text-align: right;
+}
+
+.sticky-header{
+    right: 0;
+    left: 0;
+}
+
+.wp-block-tag-cloud a, .tagcloud a{
+    margin-left: 2px;
+}
+

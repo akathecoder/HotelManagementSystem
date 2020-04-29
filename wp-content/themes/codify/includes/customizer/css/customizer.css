@@ -1,0 +1,78 @@
+ul.icons-list-wrapper li {
+    display: inline-block;
+    padding: 3px;
+}
+.selected-icon-preview {
+    text-align: center;
+    border: 1px  solid #ddd;
+    padding: 5px 0;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.selected-icon-preview .fa{
+    font-size: 22px;
+    color: #333;
+}
+.icons-list-wrapper li {
+    width: 15%;
+    margin-right: 5px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+    float: left;
+    transition: 0.5s all ease;
+}
+.icons-list-wrapper li .fa:hover{
+    color: #f3c93a;
+    -webkit-transition: 0.5s all ease;
+    -moz-transition: 0.5s all ease;
+    -ms-transition: 0.5s all ease;
+    transition: 0.5s all ease;
+}
+ul.icons-list-wrapper{
+    height: 150px;
+    border: 1px solid #ddd;
+    padding: 10px 0;
+    overflow-y: scroll;
+}
+#input_blog_sidebar.image img,
+#input_page_sidebar.image img,
+#input_post_sidebar.image img,
+#input_search_sidebar.image img,
+#input_woo_sidebar.image img{
+    width: 81px;
+    padding: 2px;
+
+}
+#customize-controls .control-section.control-section-codify_section .accordion-section-title {
+    color: #555d66;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    border-left: 4px solid #fff;
+    -webkit-transition: .15s color ease-in-out, .15s background-color ease-in-out, .15s border-color ease-in-out;
+    transition: .15s color ease-in-out, .15s background-color ease-in-out, .15s border-color ease-in-out;
+}
+
+#customize-controls .control-section.control-section-codify_section .accordion-section-title:after {
+    color: #a0a5aa;
+}
+
+#customize-controls .control-section.control-section-codify_section .accordion-section-title:hover,
+#customize-controls .control-section.control-section-codify_section .accordion-section-title:focus {
+    color: #0073aa;
+    background: #f3f3f5;
+    border-left-color: #0073aa;
+}
+
+#customize-controls .control-section.control-section-codify_section .accordion-section-title:hover:after {
+    color: #0073aa;
+}
+
+#customize-controls .control-section-codify_section .accordion-section {
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+#customize-controls .customize-control-zakra-editor .wp-editor-tools .wp-editor-container textarea {
+    width: 100%;
+}
