@@ -4,29 +4,6 @@ Created by  [Sparsh Agarwal](https://github.com/sparshagarwal25 "Sparsh Agarwal"
 
 [GitHub Link](https://github.com/sparshagarwal25/HotelManagementSystem "Hotel Management System")
 
-## About
-
-In this project we will make a Java Swing GUI software for Hotel Management.
-In which the 
-- User can -
-  - Make Account
-  - Login
-  - Book Room
-  - Book Services
-  - Make Complaints
-  - Checkout
-  - Leave Feedback
-- Admin can - 
-   - Login
-   - See Customer Details
-   - Respond to Customer Complaints
-   - See Report
-   - See Feedback
-- Everyone can - 
-   - See Hotel Info
-   - See Room Info
-   - See About Software
-
 ## Installation Instructions
 
 ### Prerequisites
