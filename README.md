@@ -1,6 +1,6 @@
 # Hotel Management System
 
-Created by  [Sparsh Agarwal](https://github.com/sparshagarwal25 "Sparsh Agarwal"), [Raghav Goyal](https://github.com/RaghavGoyal12301 "Raghav Goyal"), Vineet Sharma, Priya Kaushik
+Created by  [Sparsh Agarwal](https://github.com/sparshagarwal25 "Sparsh Agarwal"), [Raghav Goyal](https://github.com/RaghavGoyal12301 "Raghav Goyal"), [Vineet Sharma](https://github.com/vineet2411sharma "Vineet Sharma"), [Priya Kaushik](https://github.com/priyak281 "Priya Kaushik")
 
 [GitHub Link](https://github.com/sparshagarwal25/HotelManagementSystem "Hotel Management System")
 
